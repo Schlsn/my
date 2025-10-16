@@ -1,1 +1,27 @@
-X
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>Můj podcast</title>
+<link>https://schlsn.github.io/my/</link>
+<description>Automaticky generovaný RSS feed z Google Drive.</description>
+<language>cs</language>
+<itunes:author>Adam</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+<itunes:image href="https://example.com/podcast-cover.jpg"/>
+
+ <item>
+   <title> CHYTRÉ POZNÁMKY &amp; DRUHÝ MOZEK: Jak posílit vaši paměť a podstatné informace už nikdy neztratit? </title>
+   <description> CHYTRÉ POZNÁMKY &amp; DRUHÝ MOZEK: Jak posílit vaši paměť a podstatné informace už nikdy neztratit? </description>
+   <pubDate>Mon, 13 Oct 2025 08:21:34 GMT</pubDate>
+   <guid isPermaLink="false">1cKBOmFq-GycX43mZlrj7rNULgLYAI1zI</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1cKBOmFq-GycX43mZlrj7rNULgLYAI1zI" length="130135815" type="audio/mpeg"/>
+ </item>
+
+ <item>
+   <title>state_of_ai_2025</title>
+   <description>state_of_ai_2025</description>
+   <pubDate>Sun, 12 Oct 2025 22:53:57 GMT</pubDate>
+   <guid isPermaLink="false">1pnPcKf8u-w04Xq1vrY257tFyvlEMAhA6</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1pnPcKf8u-w04Xq1vrY257tFyvlEMAhA6" length="64175373" type="audio/mpeg"/>
+ </item>
+</channel></rss>
