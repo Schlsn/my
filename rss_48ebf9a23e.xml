@@ -10,14 +10,6 @@
 <itunes:image href="https://example.com/podcast-cover.jpg"/>
 
  <item>
-   <title>TEST - 2026-07-15 android-sms-gateway</title>
-   <description>TEST - 2026-07-15 android-sms-gateway</description>
-   <pubDate>Wed, 15 Jul 2026 07:54:20 GMT</pubDate>
-   <guid isPermaLink="false">18r5Zkpahr0EjQVdMWqZOUI8iqi0O59Y-</guid>
-   <enclosure url="https://drive.google.com/uc?export=download&amp;id=18r5Zkpahr0EjQVdMWqZOUI8iqi0O59Y-" length="1289566" type="audio/mp4"/>
- </item>
-
- <item>
    <title>email_2026-02-03</title>
    <description>email_2026-02-03</description>
    <pubDate>Tue, 03 Feb 2026 23:35:05 GMT</pubDate>
