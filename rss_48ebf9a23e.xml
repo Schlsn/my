@@ -1,1 +1,64 @@
-<rss version="2.0"><channel><title>Soukromý podcast</title><link>https://schlsn.github.io/my/</link><description>Podcast pouze pro mě</description><language>cs</language><item><title>Bonsai 27B - a prism-ml Collection</title><enclosure url="https://drive.google.com/uc?export=download&amp;id=15UHjVjWtUsaoQJoaTm_K80y3OB8NK4Qh" type="audio/mpeg"></enclosure><guid>https://drive.google.com/uc?export=download&amp;id=15UHjVjWtUsaoQJoaTm_K80y3OB8NK4Qh</guid><pubDate>Wed, 15 Jul 2026 22:25:34 GMT</pubDate></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>Můj podcast</title>
+<link>https://schlsn.github.io/my/</link>
+<description>Automaticky generovaný RSS feed z Google Drive.</description>
+<language>cs</language>
+<itunes:author>Adam</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+<itunes:image href="https://example.com/podcast-cover.jpg"/>
+
+ <item>
+   <title>Bonsai 27B - a prism-ml Collection</title>
+   <description>Bonsai 27B - a prism-ml Collection
+
+Zdroj: https://huggingface.co/collections/prism-ml/bonsai-27b</description>
+   <itunes:summary>Bonsai 27B - a prism-ml Collection
+
+Zdroj: https://huggingface.co/collections/prism-ml/bonsai-27b</itunes:summary>
+   <pubDate>Wed, 15 Jul 2026 22:25:31 GMT</pubDate>
+   <guid isPermaLink="false">15UHjVjWtUsaoQJoaTm_K80y3OB8NK4Qh</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=15UHjVjWtUsaoQJoaTm_K80y3OB8NK4Qh" length="1350673" type="audio/mp4"/>
+ </item>
+
+ <item>
+   <title>emilkowalski/skills</title>
+   <description>emilkowalski/skills
+
+Zdroj: https://github.com/emilkowalski/skills</description>
+   <itunes:summary>emilkowalski/skills
+
+Zdroj: https://github.com/emilkowalski/skills</itunes:summary>
+   <pubDate>Wed, 15 Jul 2026 22:21:28 GMT</pubDate>
+   <guid isPermaLink="false">1izVc7kNQU7INyWhRHK_paD8bAUqEDU2X</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1izVc7kNQU7INyWhRHK_paD8bAUqEDU2X" length="1287742" type="audio/mp4"/>
+ </item>
+
+ <item>
+   <title>email_2026-02-03</title>
+   <description>email_2026-02-03</description>
+   <itunes:summary>email_2026-02-03</itunes:summary>
+   <pubDate>Tue, 03 Feb 2026 23:35:05 GMT</pubDate>
+   <guid isPermaLink="false">137FtgapcKQbmUgOeSd4NbJLC3aaFWpoZ</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=137FtgapcKQbmUgOeSd4NbJLC3aaFWpoZ" length="83328" type="audio/mpeg"/>
+ </item>
+
+ <item>
+   <title> CHYTRÉ POZNÁMKY &amp; DRUHÝ MOZEK: Jak posílit vaši paměť a podstatné informace už nikdy neztratit? </title>
+   <description> CHYTRÉ POZNÁMKY &amp; DRUHÝ MOZEK: Jak posílit vaši paměť a podstatné informace už nikdy neztratit? </description>
+   <itunes:summary> CHYTRÉ POZNÁMKY &amp; DRUHÝ MOZEK: Jak posílit vaši paměť a podstatné informace už nikdy neztratit? </itunes:summary>
+   <pubDate>Mon, 13 Oct 2025 08:21:34 GMT</pubDate>
+   <guid isPermaLink="false">1cKBOmFq-GycX43mZlrj7rNULgLYAI1zI</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1cKBOmFq-GycX43mZlrj7rNULgLYAI1zI" length="130135815" type="audio/mpeg"/>
+ </item>
+
+ <item>
+   <title>state_of_ai_2025</title>
+   <description>state_of_ai_2025</description>
+   <itunes:summary>state_of_ai_2025</itunes:summary>
+   <pubDate>Sun, 12 Oct 2025 22:53:57 GMT</pubDate>
+   <guid isPermaLink="false">1pnPcKf8u-w04Xq1vrY257tFyvlEMAhA6</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1pnPcKf8u-w04Xq1vrY257tFyvlEMAhA6" length="64175373" type="audio/mpeg"/>
+ </item>
+</channel></rss>
