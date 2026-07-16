@@ -1,1 +1,168 @@
-<rss version="2.0"><channel><title>Soukromý podcast</title><link>https://schlsn.github.io/my/</link><description>Podcast pouze pro mě</description><language>cs</language><item><title>Soukromý podcast cover</title><enclosure url="https://drive.google.com/uc?export=download&amp;id=1KXf7Bu52Vk4cOK4CejD2Qy7TJt5AQKFv" type="audio/mpeg"></enclosure><guid>https://drive.google.com/uc?export=download&amp;id=1KXf7Bu52Vk4cOK4CejD2Qy7TJt5AQKFv</guid><pubDate>Thu, 16 Jul 2026 17:43:40 GMT</pubDate></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>Můj podcast</title>
+<link>https://schlsn.github.io/my/</link>
+<description>Automaticky generovaný RSS feed z Google Drive.</description>
+<language>cs</language>
+<itunes:author>Adam</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+<itunes:image href="https://drive.google.com/uc?export=download&amp;id=1KXf7Bu52Vk4cOK4CejD2Qy7TJt5AQKFv"/>
+
+ <item>
+   <title>Nepotřebuješ Fable 5. Potřebuješ systém</title>
+   <description>Nepotřebuješ Fable 5. Potřebuješ systém.
+
+Zdroj: https://x.com/lukasersil/status/2075277988375957652?s=12</description>
+   <itunes:summary>Nepotřebuješ Fable 5. Potřebuješ systém.
+
+Zdroj: https://x.com/lukasersil/status/2075277988375957652?s=12</itunes:summary>
+   <pubDate>Thu, 16 Jul 2026 14:04:40 GMT</pubDate>
+   <guid isPermaLink="false">1bxlMfeAKaiiJK1YeyOiu1pCKWwemmFJC</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1bxlMfeAKaiiJK1YeyOiu1pCKWwemmFJC" length="4073639" type="audio/mp4"/>
+ </item>
+
+ <item>
+   <title>A Framework for Frontier AI and the Dawning of a New Age</title>
+   <description>A Framework for Frontier AI and the Dawning of a New Age
+
+Zdroj: https://x.com/demishassabis/status/2076957440109625718?s=12</description>
+   <itunes:summary>A Framework for Frontier AI and the Dawning of a New Age
+
+Zdroj: https://x.com/demishassabis/status/2076957440109625718?s=12</itunes:summary>
+   <pubDate>Thu, 16 Jul 2026 14:00:30 GMT</pubDate>
+   <guid isPermaLink="false">1K-FR9Ul3zydHBKt023Q-yIPZeDcJ8C-P</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1K-FR9Ul3zydHBKt023Q-yIPZeDcJ8C-P" length="3653687" type="audio/mp4"/>
+ </item>
+
+ <item>
+   <title>Kouzelná místa - vyberte si z 650 míst | Amazing Places</title>
+   <description>Kouzelná místa - vyberte si z 650 míst | Amazing Places
+
+Zdroj: https://www.amazingplaces.cz/cs/kouzelna-mista</description>
+   <itunes:summary>Kouzelná místa - vyberte si z 650 míst | Amazing Places
+
+Zdroj: https://www.amazingplaces.cz/cs/kouzelna-mista</itunes:summary>
+   <pubDate>Thu, 16 Jul 2026 13:56:40 GMT</pubDate>
+   <guid isPermaLink="false">1VDQBjctVSUKrqyOaipNtWRerWqc2Usux</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1VDQBjctVSUKrqyOaipNtWRerWqc2Usux" length="2882395" type="audio/mp4"/>
+ </item>
+
+ <item>
+   <title>The Laptop-Free Era Is Here!</title>
+   <description>The Laptop-Free Era Is Here!
+
+Zdroj: https://x.com/wilderko/status/2077050931061912035?s=12</description>
+   <itunes:summary>The Laptop-Free Era Is Here!
+
+Zdroj: https://x.com/wilderko/status/2077050931061912035?s=12</itunes:summary>
+   <pubDate>Thu, 16 Jul 2026 13:52:47 GMT</pubDate>
+   <guid isPermaLink="false">1JGDByzxN8qdbNf-2Cg5s74-ybuJ93x_u</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1JGDByzxN8qdbNf-2Cg5s74-ybuJ93x_u" length="3400325" type="audio/mp4"/>
+ </item>
+
+ <item>
+   <title>https://x</title>
+   <description>https://x.com/lindsaycasale/status/2077425295033036987?s=12
+
+Zdroj: https://x.com/lindsaycasale/status/2077425295033036987?s=12</description>
+   <itunes:summary>https://x.com/lindsaycasale/status/2077425295033036987?s=12
+
+Zdroj: https://x.com/lindsaycasale/status/2077425295033036987?s=12</itunes:summary>
+   <pubDate>Thu, 16 Jul 2026 13:38:16 GMT</pubDate>
+   <guid isPermaLink="false">137GorMNnIg8E7YCVu0-ukd580b73ZTru</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=137GorMNnIg8E7YCVu0-ukd580b73ZTru" length="4025828" type="audio/mp4"/>
+ </item>
+
+ <item>
+   <title>Kto zaplatí bezpodmienený základný príjem, keď nám umelá inteligencia vezme prácu?</title>
+   <description>Kto zaplatí bezpodmienený základný príjem, keď nám umelá inteligencia vezme prácu?
+
+Zdroj: https://juraj.bednar.io/blog/2026/07/09/kto-zaplati-bezpodmieneny-zakladny-prijem-ked-nam-umela-inteligencia-vezme-pracu/</description>
+   <itunes:summary>Kto zaplatí bezpodmienený základný príjem, keď nám umelá inteligencia vezme prácu?
+
+Zdroj: https://juraj.bednar.io/blog/2026/07/09/kto-zaplati-bezpodmieneny-zakladny-prijem-ked-nam-umela-inteligencia-vezme-pracu/</itunes:summary>
+   <pubDate>Thu, 16 Jul 2026 13:28:51 GMT</pubDate>
+   <guid isPermaLink="false">15swdebfzy6MxBPIV4fUKL8XpcqtLuEAy</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=15swdebfzy6MxBPIV4fUKL8XpcqtLuEAy" length="4088579" type="audio/mp4"/>
+ </item>
+
+ <item>
+   <title>vercel-labs/native: Toolkit for building native desktop apps</title>
+   <description>vercel-labs/native: Toolkit for building native desktop apps
+
+Zdroj: https://github.com/vercel-labs/native</description>
+   <itunes:summary>vercel-labs/native: Toolkit for building native desktop apps
+
+Zdroj: https://github.com/vercel-labs/native</itunes:summary>
+   <pubDate>Thu, 16 Jul 2026 13:13:42 GMT</pubDate>
+   <guid isPermaLink="false">1r-XWnD4piYdIUT_cYnJ25xsgnlc5Ws40</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1r-XWnD4piYdIUT_cYnJ25xsgnlc5Ws40" length="4273214" type="audio/mp4"/>
+ </item>
+
+ <item>
+   <title>PIIS3050503826001421</title>
+   <description>PIIS3050503826001421.pdf
+
+Zdroj: https://api.raindrop.io/v2/raindrop/1785734999/file?type=application/pdf</description>
+   <itunes:summary>PIIS3050503826001421.pdf
+
+Zdroj: https://api.raindrop.io/v2/raindrop/1785734999/file?type=application/pdf</itunes:summary>
+   <pubDate>Thu, 16 Jul 2026 13:09:04 GMT</pubDate>
+   <guid isPermaLink="false">1S7toqXsvFBnfu-HrP0zoY6bUVNxDPf00</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1S7toqXsvFBnfu-HrP0zoY6bUVNxDPf00" length="3989970" type="audio/mp4"/>
+ </item>
+
+ <item>
+   <title>Bonsai 27B - a prism-ml Collection</title>
+   <description>Bonsai 27B - a prism-ml Collection
+
+Zdroj: https://huggingface.co/collections/prism-ml/bonsai-27b</description>
+   <itunes:summary>Bonsai 27B - a prism-ml Collection
+
+Zdroj: https://huggingface.co/collections/prism-ml/bonsai-27b</itunes:summary>
+   <pubDate>Wed, 15 Jul 2026 22:25:31 GMT</pubDate>
+   <guid isPermaLink="false">15UHjVjWtUsaoQJoaTm_K80y3OB8NK4Qh</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=15UHjVjWtUsaoQJoaTm_K80y3OB8NK4Qh" length="1350673" type="audio/mp4"/>
+ </item>
+
+ <item>
+   <title>emilkowalski/skills</title>
+   <description>emilkowalski/skills
+
+Zdroj: https://github.com/emilkowalski/skills</description>
+   <itunes:summary>emilkowalski/skills
+
+Zdroj: https://github.com/emilkowalski/skills</itunes:summary>
+   <pubDate>Wed, 15 Jul 2026 22:21:28 GMT</pubDate>
+   <guid isPermaLink="false">1izVc7kNQU7INyWhRHK_paD8bAUqEDU2X</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1izVc7kNQU7INyWhRHK_paD8bAUqEDU2X" length="1287742" type="audio/mp4"/>
+ </item>
+
+ <item>
+   <title>email_2026-02-03</title>
+   <description>email_2026-02-03</description>
+   <itunes:summary>email_2026-02-03</itunes:summary>
+   <pubDate>Tue, 03 Feb 2026 23:35:05 GMT</pubDate>
+   <guid isPermaLink="false">137FtgapcKQbmUgOeSd4NbJLC3aaFWpoZ</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=137FtgapcKQbmUgOeSd4NbJLC3aaFWpoZ" length="83328" type="audio/mpeg"/>
+ </item>
+
+ <item>
+   <title> CHYTRÉ POZNÁMKY &amp; DRUHÝ MOZEK: Jak posílit vaši paměť a podstatné informace už nikdy neztratit? </title>
+   <description> CHYTRÉ POZNÁMKY &amp; DRUHÝ MOZEK: Jak posílit vaši paměť a podstatné informace už nikdy neztratit? </description>
+   <itunes:summary> CHYTRÉ POZNÁMKY &amp; DRUHÝ MOZEK: Jak posílit vaši paměť a podstatné informace už nikdy neztratit? </itunes:summary>
+   <pubDate>Mon, 13 Oct 2025 08:21:34 GMT</pubDate>
+   <guid isPermaLink="false">1cKBOmFq-GycX43mZlrj7rNULgLYAI1zI</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1cKBOmFq-GycX43mZlrj7rNULgLYAI1zI" length="130135815" type="audio/mpeg"/>
+ </item>
+
+ <item>
+   <title>state_of_ai_2025</title>
+   <description>state_of_ai_2025</description>
+   <itunes:summary>state_of_ai_2025</itunes:summary>
+   <pubDate>Sun, 12 Oct 2025 22:53:57 GMT</pubDate>
+   <guid isPermaLink="false">1pnPcKf8u-w04Xq1vrY257tFyvlEMAhA6</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1pnPcKf8u-w04Xq1vrY257tFyvlEMAhA6" length="64175373" type="audio/mpeg"/>
+ </item>
+</channel></rss>
