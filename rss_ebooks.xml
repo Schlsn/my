@@ -6,6 +6,175 @@
 <language>cs</language>
 <itunes:image href="https://drive.google.com/uc?id=1k3tBHO3sLp0L0xeOV3_9Z7zC3GWoKhDy&amp;export=download" />
 <item>
+<title>Fall in Love with the Problem, Not the Solution</title>
+<description># Analýza klíčových myšlenek knihy „Zamilujte se do problému, ne do řešení“
+
+Budování startupu není o geniálním nápadu, ale o schopnosti vyřešit reálnou frustraci. Pokud se zamilujete do svého řešení, pravděpodobně postavíte něco, co nikdo nechce. Pokud se však zamilujete do problému, získáte kompas, který vás provede celou cestou k úspěchu.
+
+## 1. Primát problému nad řešením
+Základem každého unicornu je „velký problém“ (BIG problem). Podívejte se na Waze: problémem nebyly mapy, ale ztráta času v zácpách. Refundit řeší 26 miliard eur, které turisté v Evropě ročně nevyčerpají na vratkách daní. Pontera (FeeX) vznikla, protože netransparentnost poplatků u důchodového spoření okrádá lidi o budoucnost.
+
+Pro kvalifikaci problému používejte matici, která hodnotí velikost trhu a intenzitu bolesti:
+
+| Kvadrant | Popis |
+| :--- | :--- |
+| **Vítězové (Winners)** | Mnoho uživatelů + vysoká frekvence/amplituda bolesti (Waze, WhatsApp). |
+| **Nika (Niche)** | Málo uživatelů + extrémně vysoká hodnota řešení (lék na vzácnou nemoc). |
+| **Poražení (Losers)** | Málo uživatelů + nízká hodnota/frekvence. |
+| **Sny a noční můry** | Mnoho uživatelů + velmi nízká frekvence (např. obnova řidičského průkazu). |
+
+**Klíčové metriky bolesti:** Bolest definujeme skrze **amplitudu** (jak moc to bolí, např. ztráta 20 % úspor na poplatcích) nebo **frekvenci** (jak často nás problém obtěžuje, např. každodenní dojíždění). Ideální produkt je jako zubní kartáček – používáte ho dvakrát denně.
+
+**Příběh vs. Systém:** Zapomeňte na popisy funkcí. Rozdíl v relevanci na trhu definuje váš narativ:
+*   **Příběh zaměřený na uživatele:** „Pomáháme řidičům neztrácet čas v zácpách a dostat se domů k rodině včas.“
+*   **Příběh zaměřený na produkt:** „Náš algoritmus využívá real-time GPS data k výpočtu nejefektivnější trasy.“
+
+## 2. Startup jako cesta neúspěchů (Journey of Failures)
+Budování startupu je proces testování hypotéz, kde většina pokusů selže. Pokud se bojíte chyby, už jste prohráli, protože se nepokusíte o nic nového. Jak řekl Albert Einstein: „Pokud jste nikdy neselhali, nikdy jste nezkusili nic nového.“ 
+
+Klíčem k úspěchu je filozofie **fail fast**. Michael Jordan to shrnul nejlépe: „Selhal jsem v životě znovu a znovu a znovu. A proto jsem uspěl.“ Musíte selhávat rychle, abyste měli dostatek času a prostředků vyzkoušet další variantu, než vám dojdou peníze.
+
+**Eliminace slepých uliček:** Ve Waze jsme chtěli detekovat zácpy. Zkoušeli jsme průměrování dat, dotazování řidičů, normalizaci – nic nefungovalo. Až kombinace všech neúspěšných pokusů nás dovedla k algoritmu, který detekuje zácpu na základě chování jediného vozidla. Každý neúspěch je cenná informace o tom, kudy cesta nevede. Vytvořte kulturu, kde je chyba vnímána jako investice do učení, nikoliv jako hanba.
+
+## 3. Překonání „Pouště bez trakce“
+Po počátečním nadšení narazíte na realitu: produkt nefunguje, uživatelé nerostou. Vstoupili jste do „Desert of No Traction“. Je to nejdelší a nejnebezpečnější část cesty.
+
+**Pravidla přežití v poušti:**
+1.  **Neměnit směr:** Pokud věříte, že problém je reálný, nepivotujte předčasně. Pivot je změna vize, nikoliv experimentu. V poušti dělejte malé kroky, neměňte cíl.
+2.  **Nevyčerpat palivo:** Finance jsou v poušti extrémně drahé. Musíte přežít dostatečně dlouho, abyste našli cestu ven.
+
+**Retence jako kompas:** V poušti se snadno ztratíte v kruhu. Retence (udržení uživatelů) je vaším jediným kompasem. Pokud se lidé nevracejí, jdete špatným směrem. Product-Market Fit (PMF) je vaše vstupenka z pouště k růstu.
+
+## 4. Retence jako jediná metrika Product-Market Fit (PMF)
+Jedinou absolutní pravdou o hodnotě vašeho produktu je retence. Počet stažení nebo PR články jsou „vanity metrics“. PMF nastává v momentě, kdy je produkt „dost dobrý“ na to, aby se k němu uživatelé vraceli.
+
+**Analýza churnu a Waze v USA:** Při spuštění v USA měl Waze 90% churn. Mapy byly nepoužitelné, navigace selhávala. Ale „dost dobrý“ je individuální pojem. Pro běžné řidiče byl produkt propadák, ale pro kohortu hobbyistů (nadšenců do map) měl obrovskou hodnotu, protože ho mohli sami tvořit. Cesta k PMF vedla přes iterace každé 2-3 týdny, dokud jsme neuspokojili širší kohorty uživatelů.
+
+## 5. Uživatel jako „vzorek o jednom člověku“
+Zakladatel je pro svůj produkt ten nejhorší vzorek (**Sample of One**). Podléháte vlastnímu zkreslení a předpokládáte, že masa lidí uvažuje jako vy. Irrelevantní je to, co si myslíte vy; důležité je, co dělá uživatel.
+
+**Metoda pozorování:** Data vám řeknou, *co* se děje (např. uživatel odešel z webu), ale pouze pozorování a rozhovory vysvětlí, *proč* se to děje. Uri Levine sledoval svou manželku v Madridu, jak hodinu čeká ve frontě na formulář pro vrácení daně kvůli 15 eurům. Právě tato přímá konfrontace s frustrací uživatele v reálném čase odhalila skutečnou hloubku problému, kterou žádná tabulka nezachytí.
+
+## 6. Disrupce skrze změnu chování, nikoli technologii
+Disrupce není technologický vynález, ale změna tržní rovnováhy (**Market Equilibrium**). Technologie je pouze nástroj.
+*   **Mechanismy disrupce:**
+    *   **Nový produkt:** iPhone (vše v jednom).
+    *   **Nový model:** Sdílená ekonomika.
+    *   **Nová cena:** Gmail (zničil placené modely tím, že nabídl kvalitu zdarma).
+    *   **Nové znalosti:** Pontera (vytvoření transparentnosti tam, kde byly „tajemství“).
+
+**Proč obři padají?** Blockbuster selhal, protože se soustředil na ochranu stávajícího modelu. Kodak ignoroval digitální fotografii, protože se definoval jako firma v „papírovém a chemickém průmyslu“. Zavedené firmy se disrupci zpočátku vysmívají (Steve Ballmer a iPhone), protože ohrožuje jejich status quo. Vy nehledejte technologickou převahu, hledejte psychologickou změnu v rovnováze trhu.
+
+## 7. Odvaha k těžkým rozhodnutím a role CEO
+Role CEO není o tom být oblíbený, ale o schopnosti dělat bolestivá rozhodnutí okamžitě. Existují pouze **správná rozhodnutí nebo ŽÁDNÁ rozhodnutí**. Stagnace je v startupu smrtelnější než chyba.
+
+**Paradox zkušenosti:** Správná rozhodnutí vycházejí ze zkušenosti. Zkušenost vychází ze špatných rozhodnutí. Nebojte se tedy rozhodovat.
+
+**Lidský faktor:** Pokud víte, že tým není správný (a obvykle to víte do měsíce), a nic neuděláte, pak problémem není tým, ale vy. Příklad z Bratislavy: CEO po konzultaci okamžitě propustil spoluzakladatele, kterého se bál konfrontovat. Firmě se okamžitě ulevilo. Pro zakladatele neexistuje „work-life balance“. Budování unicornu vyžaduje 200% soustředění a ochotu k nulovým kompromisům.
+
+## 8. Magie crowdsourcingu a „prázdné mapy“
+Waze ukázal, že lze vytvořit miliardovou hodnotu z ničeho (**Blank Page**). Na začátku byla mapa Izraele jen prázdná plocha. První uživatelé jezdili „v prázdnotě“ a jejich GPS stopy tvořily mapu. Viděli hodnotu v samotném procesu spoluvytváření.
+
+**Kolektivní inteligence v číslech:**
+*   **2% pravidlo:** Stačí, aby 2 % všech vozidel na silnici (cca 30–40 aut v pruhu za minutu) používala aplikaci, a získáte přesná real-time data o dopravě.
+*   **Detekce jednosměrek:** Pokud 100 aut jede jedním směrem a žádné opačným, systém v Tel Avivu automaticky pochopil, že jde o jednosměrku, aniž by tam vyslal měřicí vůz.
+
+**Evoluce mapy:**
+*   Sběr surových GPS stop (tečky v prázdnotě).
+*   Algoritmické spojování stop do ulic a křižovatek.
+*   Uživatelská editace (názvy ulic, popisná čísla).
+*   Sociální nadstavba (hlášení nehod, policie).
+
+Tato magie crowdsourcingu je důkazem, že komunita dokáže porazit i profesionální kartografické systémy díky své aktuálnosti a měřítku. Pokud vyřešíte problém dostatečně velké skupině lidí, oni sami vám pomohou postavit řešení.
+
+Zdroj: https://drive.google.com/file/d/1I1_Tqrt2aloaI7TRIWeE0nYKAGgIY0q7/view</description>
+<itunes:summary># Analýza klíčových myšlenek knihy „Zamilujte se do problému, ne do řešení“
+
+Budování startupu není o geniálním nápadu, ale o schopnosti vyřešit reálnou frustraci. Pokud se zamilujete do svého řešení, pravděpodobně postavíte něco, co nikdo nechce. Pokud se však zamilujete do problému, získáte kompas, který vás provede celou cestou k úspěchu.
+
+## 1. Primát problému nad řešením
+Základem každého unicornu je „velký problém“ (BIG problem). Podívejte se na Waze: problémem nebyly mapy, ale ztráta času v zácpách. Refundit řeší 26 miliard eur, které turisté v Evropě ročně nevyčerpají na vratkách daní. Pontera (FeeX) vznikla, protože netransparentnost poplatků u důchodového spoření okrádá lidi o budoucnost.
+
+Pro kvalifikaci problému používejte matici, která hodnotí velikost trhu a intenzitu bolesti:
+
+| Kvadrant | Popis |
+| :--- | :--- |
+| **Vítězové (Winners)** | Mnoho uživatelů + vysoká frekvence/amplituda bolesti (Waze, WhatsApp). |
+| **Nika (Niche)** | Málo uživatelů + extrémně vysoká hodnota řešení (lék na vzácnou nemoc). |
+| **Poražení (Losers)** | Málo uživatelů + nízká hodnota/frekvence. |
+| **Sny a noční můry** | Mnoho uživatelů + velmi nízká frekvence (např. obnova řidičského průkazu). |
+
+**Klíčové metriky bolesti:** Bolest definujeme skrze **amplitudu** (jak moc to bolí, např. ztráta 20 % úspor na poplatcích) nebo **frekvenci** (jak často nás problém obtěžuje, např. každodenní dojíždění). Ideální produkt je jako zubní kartáček – používáte ho dvakrát denně.
+
+**Příběh vs. Systém:** Zapomeňte na popisy funkcí. Rozdíl v relevanci na trhu definuje váš narativ:
+*   **Příběh zaměřený na uživatele:** „Pomáháme řidičům neztrácet čas v zácpách a dostat se domů k rodině včas.“
+*   **Příběh zaměřený na produkt:** „Náš algoritmus využívá real-time GPS data k výpočtu nejefektivnější trasy.“
+
+## 2. Startup jako cesta neúspěchů (Journey of Failures)
+Budování startupu je proces testování hypotéz, kde většina pokusů selže. Pokud se bojíte chyby, už jste prohráli, protože se nepokusíte o nic nového. Jak řekl Albert Einstein: „Pokud jste nikdy neselhali, nikdy jste nezkusili nic nového.“ 
+
+Klíčem k úspěchu je filozofie **fail fast**. Michael Jordan to shrnul nejlépe: „Selhal jsem v životě znovu a znovu a znovu. A proto jsem uspěl.“ Musíte selhávat rychle, abyste měli dostatek času a prostředků vyzkoušet další variantu, než vám dojdou peníze.
+
+**Eliminace slepých uliček:** Ve Waze jsme chtěli detekovat zácpy. Zkoušeli jsme průměrování dat, dotazování řidičů, normalizaci – nic nefungovalo. Až kombinace všech neúspěšných pokusů nás dovedla k algoritmu, který detekuje zácpu na základě chování jediného vozidla. Každý neúspěch je cenná informace o tom, kudy cesta nevede. Vytvořte kulturu, kde je chyba vnímána jako investice do učení, nikoliv jako hanba.
+
+## 3. Překonání „Pouště bez trakce“
+Po počátečním nadšení narazíte na realitu: produkt nefunguje, uživatelé nerostou. Vstoupili jste do „Desert of No Traction“. Je to nejdelší a nejnebezpečnější část cesty.
+
+**Pravidla přežití v poušti:**
+1.  **Neměnit směr:** Pokud věříte, že problém je reálný, nepivotujte předčasně. Pivot je změna vize, nikoliv experimentu. V poušti dělejte malé kroky, neměňte cíl.
+2.  **Nevyčerpat palivo:** Finance jsou v poušti extrémně drahé. Musíte přežít dostatečně dlouho, abyste našli cestu ven.
+
+**Retence jako kompas:** V poušti se snadno ztratíte v kruhu. Retence (udržení uživatelů) je vaším jediným kompasem. Pokud se lidé nevracejí, jdete špatným směrem. Product-Market Fit (PMF) je vaše vstupenka z pouště k růstu.
+
+## 4. Retence jako jediná metrika Product-Market Fit (PMF)
+Jedinou absolutní pravdou o hodnotě vašeho produktu je retence. Počet stažení nebo PR články jsou „vanity metrics“. PMF nastává v momentě, kdy je produkt „dost dobrý“ na to, aby se k němu uživatelé vraceli.
+
+**Analýza churnu a Waze v USA:** Při spuštění v USA měl Waze 90% churn. Mapy byly nepoužitelné, navigace selhávala. Ale „dost dobrý“ je individuální pojem. Pro běžné řidiče byl produkt propadák, ale pro kohortu hobbyistů (nadšenců do map) měl obrovskou hodnotu, protože ho mohli sami tvořit. Cesta k PMF vedla přes iterace každé 2-3 týdny, dokud jsme neuspokojili širší kohorty uživatelů.
+
+## 5. Uživatel jako „vzorek o jednom člověku“
+Zakladatel je pro svůj produkt ten nejhorší vzorek (**Sample of One**). Podléháte vlastnímu zkreslení a předpokládáte, že masa lidí uvažuje jako vy. Irrelevantní je to, co si myslíte vy; důležité je, co dělá uživatel.
+
+**Metoda pozorování:** Data vám řeknou, *co* se děje (např. uživatel odešel z webu), ale pouze pozorování a rozhovory vysvětlí, *proč* se to děje. Uri Levine sledoval svou manželku v Madridu, jak hodinu čeká ve frontě na formulář pro vrácení daně kvůli 15 eurům. Právě tato přímá konfrontace s frustrací uživatele v reálném čase odhalila skutečnou hloubku problému, kterou žádná tabulka nezachytí.
+
+## 6. Disrupce skrze změnu chování, nikoli technologii
+Disrupce není technologický vynález, ale změna tržní rovnováhy (**Market Equilibrium**). Technologie je pouze nástroj.
+*   **Mechanismy disrupce:**
+    *   **Nový produkt:** iPhone (vše v jednom).
+    *   **Nový model:** Sdílená ekonomika.
+    *   **Nová cena:** Gmail (zničil placené modely tím, že nabídl kvalitu zdarma).
+    *   **Nové znalosti:** Pontera (vytvoření transparentnosti tam, kde byly „tajemství“).
+
+**Proč obři padají?** Blockbuster selhal, protože se soustředil na ochranu stávajícího modelu. Kodak ignoroval digitální fotografii, protože se definoval jako firma v „papírovém a chemickém průmyslu“. Zavedené firmy se disrupci zpočátku vysmívají (Steve Ballmer a iPhone), protože ohrožuje jejich status quo. Vy nehledejte technologickou převahu, hledejte psychologickou změnu v rovnováze trhu.
+
+## 7. Odvaha k těžkým rozhodnutím a role CEO
+Role CEO není o tom být oblíbený, ale o schopnosti dělat bolestivá rozhodnutí okamžitě. Existují pouze **správná rozhodnutí nebo ŽÁDNÁ rozhodnutí**. Stagnace je v startupu smrtelnější než chyba.
+
+**Paradox zkušenosti:** Správná rozhodnutí vycházejí ze zkušenosti. Zkušenost vychází ze špatných rozhodnutí. Nebojte se tedy rozhodovat.
+
+**Lidský faktor:** Pokud víte, že tým není správný (a obvykle to víte do měsíce), a nic neuděláte, pak problémem není tým, ale vy. Příklad z Bratislavy: CEO po konzultaci okamžitě propustil spoluzakladatele, kterého se bál konfrontovat. Firmě se okamžitě ulevilo. Pro zakladatele neexistuje „work-life balance“. Budování unicornu vyžaduje 200% soustředění a ochotu k nulovým kompromisům.
+
+## 8. Magie crowdsourcingu a „prázdné mapy“
+Waze ukázal, že lze vytvořit miliardovou hodnotu z ničeho (**Blank Page**). Na začátku byla mapa Izraele jen prázdná plocha. První uživatelé jezdili „v prázdnotě“ a jejich GPS stopy tvořily mapu. Viděli hodnotu v samotném procesu spoluvytváření.
+
+**Kolektivní inteligence v číslech:**
+*   **2% pravidlo:** Stačí, aby 2 % všech vozidel na silnici (cca 30–40 aut v pruhu za minutu) používala aplikaci, a získáte přesná real-time data o dopravě.
+*   **Detekce jednosměrek:** Pokud 100 aut jede jedním směrem a žádné opačným, systém v Tel Avivu automaticky pochopil, že jde o jednosměrku, aniž by tam vyslal měřicí vůz.
+
+**Evoluce mapy:**
+*   Sběr surových GPS stop (tečky v prázdnotě).
+*   Algoritmické spojování stop do ulic a křižovatek.
+*   Uživatelská editace (názvy ulic, popisná čísla).
+*   Sociální nadstavba (hlášení nehod, policie).
+
+Tato magie crowdsourcingu je důkazem, že komunita dokáže porazit i profesionální kartografické systémy díky své aktuálnosti a měřítku. Pokud vyřešíte problém dostatečně velké skupině lidí, oni sami vám pomohou postavit řešení.
+
+Zdroj: https://drive.google.com/file/d/1I1_Tqrt2aloaI7TRIWeE0nYKAGgIY0q7/view</itunes:summary>
+<itunes:image href="https://drive.google.com/uc?id=1vQHpBsRMtJ9de3w1vuHB0p8DwSi6q6xZ&amp;export=download" />
+<enclosure url="https://drive.google.com/uc?id=16KHbLuTJ6RIALMZ-uqaa3YnCtsu9kWrW&amp;export=download" type="audio/mp4" />
+<pubDate>Sat, 18 Jul 2026 22:26:35 +0000</pubDate>
+<guid>https://drive.google.com/uc?id=16KHbLuTJ6RIALMZ-uqaa3YnCtsu9kWrW&amp;export=download</guid>
+</item>
+<item>
 <title>Amazing Decisions</title>
 <description># Analýza klíčových myšlenek knihy „Amazing Decisions“
 
