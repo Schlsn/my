@@ -1,1 +1,363 @@
-<rss version="2.0"><channel><title>Soukromý podcast</title><link>https://schlsn.github.io/my/</link><description>Podcast pouze pro mě</description><language>cs</language><item><title>You allowed Smuz Podcast Upload access to some of your Google Account data</title><enclosure url="https://drive.google.com/uc?export=download&amp;id=1cdXSSJ_4ahIsjKUC4OB_7GZtJhDBuXg4" type="audio/mpeg"></enclosure><guid>https://drive.google.com/uc?export=download&amp;id=1cdXSSJ_4ahIsjKUC4OB_7GZtJhDBuXg4</guid><pubDate>Mon, 20 Jul 2026 22:03:53 GMT</pubDate></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>Můj podcast</title>
+<link>https://schlsn.github.io/my/</link>
+<description>Automaticky generovaný RSS feed z Google Drive.</description>
+<language>cs</language>
+<itunes:author>Adam</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+<itunes:image href="https://drive.google.com/uc?export=download&amp;id=1KXf7Bu52Vk4cOK4CejD2Qy7TJt5AQKFv"/>
+
+ <item>
+   <title>You allowed Smuz Podcast Upload access to some of your Google Account data</title>
+   <description>Keep track of your Google Account data
+
+
+
+ai@smuz.cz
+
+ 
+
+&lt;!--[if !mso]&gt;&lt;!--&gt;
+
+&lt;!--[if false]&gt;&lt;!--&gt;
+
+
+You&apos;re receiving this email because you shared access to some of your  
+Google Account data with
+
+
+Smuz Podcast Upload
+
+
+on July 20 at 9:07 PM GMT+0 .
+
+This email summarizes the access you allowed. There’s nothing you need to  
+do right now.
+
+
+&lt;!--[if !mso]&gt;&lt;!--&gt;
+
+&lt;!--[if false]&gt;&lt;!--&gt;
+
+&lt;!--[if false]&gt;&lt;!--&gt;
+
+You&apos;re receiving this email because you shared access to some of your  
+Google Account data with
+
+
+Smuz Podcast Upload
+
+
+on July 20 at 9:07 PM GMT+0 .
+
+Od: Google &lt;noreply-accounts@google.com&gt;</description>
+   <itunes:summary>Keep track of your Google Account data
+
+
+
+ai@smuz.cz
+
+ 
+
+&lt;!--[if !mso]&gt;&lt;!--&gt;
+
+&lt;!--[if false]&gt;&lt;!--&gt;
+
+
+You&apos;re receiving this email because you shared access to some of your  
+Google Account data with
+
+
+Smuz Podcast Upload
+
+
+on July 20 at 9:07 PM GMT+0 .
+
+This email summarizes the access you allowed. There’s nothing you need to  
+do right now.
+
+
+&lt;!--[if !mso]&gt;&lt;!--&gt;
+
+&lt;!--[if false]&gt;&lt;!--&gt;
+
+&lt;!--[if false]&gt;&lt;!--&gt;
+
+You&apos;re receiving this email because you shared access to some of your  
+Google Account data with
+
+
+Smuz Podcast Upload
+
+
+on July 20 at 9:07 PM GMT+0 .
+
+Od: Google &lt;noreply-accounts@google.com&gt;</itunes:summary>
+   <pubDate>Mon, 20 Jul 2026 22:03:35 GMT</pubDate>
+   <guid isPermaLink="false">1ERImtQhy1F7YS0w-UmDhTe6twIx8FijR</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ERImtQhy1F7YS0w-UmDhTe6twIx8FijR" length="3168627" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1cdXSSJ_4ahIsjKUC4OB_7GZtJhDBuXg4"/>
+ </item>
+
+ <item>
+   <title>baidu/Unlimited-OCR · Hugging Face</title>
+   <description>Unlimited-OCR je model vyvinutý společností Baidu, který si klade za cíl vylepšit optické rozpoznávání znaků (OCR) s dlouhým horizontem, navazující na Deepseek-OCR. Model je navržen pro efektivní zpracování dokumentů a podporuje jednorázovou analýzu rozsáhlého textu. Je schopen provádět inferenci na jednotlivých obrázcích, vícestránkových obrázcích i PDF souborech. Pro nasazení a použití jsou k dispozici různé metody inference a model je integrován na několika platformách.
+
+Zdroj: https://huggingface.co/baidu/Unlimited-OCR</description>
+   <itunes:summary>Unlimited-OCR je model vyvinutý společností Baidu, který si klade za cíl vylepšit optické rozpoznávání znaků (OCR) s dlouhým horizontem, navazující na Deepseek-OCR. Model je navržen pro efektivní zpracování dokumentů a podporuje jednorázovou analýzu rozsáhlého textu. Je schopen provádět inferenci na jednotlivých obrázcích, vícestránkových obrázcích i PDF souborech. Pro nasazení a použití jsou k dispozici různé metody inference a model je integrován na několika platformách.
+
+Zdroj: https://huggingface.co/baidu/Unlimited-OCR</itunes:summary>
+   <pubDate>Mon, 20 Jul 2026 11:37:08 GMT</pubDate>
+   <guid isPermaLink="false">1Na-tpCF6nGIrVQHKoyhO7YfnVeUvmpyg</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Na-tpCF6nGIrVQHKoyhO7YfnVeUvmpyg" length="4332230" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1FU8xw4-I1Vk2-DswUtORBjzR0Q9Udkq0"/>
+ </item>
+
+ <item>
+   <title>Uiverse | The Largest Library of Open-Source UI elements</title>
+   <description>Uiverse je největší komunitní knihovna volně dostupných uživatelských rozhraní, umožňující kopíкыл, převzít a přizpůsobovat prvky přímo v HTML/CSS, Tailwind, React či Figma. Knihovna obsahuje 7 375 komponent vytvořených 346 547 přispěvateli a je zdarma pro osobní i komerční použití. Stránka nabízí vyhledávání a třídění dle značek, odkazy na jednotlivé prvky s příslušnými kódy a jednotné kopírovací tlačítka pro různé technologické stacky. Uživatelé mohou sdílet a upravovat kód online a komunikovat v Discord komunitě.
+
+Zdroj: https://uiverse.io/</description>
+   <itunes:summary>Uiverse je největší komunitní knihovna volně dostupných uživatelských rozhraní, umožňující kopíкыл, převzít a přizpůsobovat prvky přímo v HTML/CSS, Tailwind, React či Figma. Knihovna obsahuje 7 375 komponent vytvořených 346 547 přispěvateli a je zdarma pro osobní i komerční použití. Stránka nabízí vyhledávání a třídění dle značek, odkazy na jednotlivé prvky s příslušnými kódy a jednotné kopírovací tlačítka pro různé technologické stacky. Uživatelé mohou sdílet a upravovat kód online a komunikovat v Discord komunitě.
+
+Zdroj: https://uiverse.io/</itunes:summary>
+   <pubDate>Mon, 20 Jul 2026 09:35:26 GMT</pubDate>
+   <guid isPermaLink="false">1tJBiNV_dblPOO21YIq0KZPUk4wTz-F8A</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1tJBiNV_dblPOO21YIq0KZPUk4wTz-F8A" length="3712703" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1vtbWFEnZm6OAaQ_J00NR1DHV-nddQyZW"/>
+ </item>
+
+ <item>
+   <title>Messi podruhé Yamala nevykoupal. Španělsko je po šestnácti letech mistrem světa</title>
+   <description>20.07.2026 Krásné ráno! Už je to sedmapadesát let, co Neil Armstrong s Buzzem Aldrinem přistáli na Měsíci. Jeho malý krok pro člověka se zapsal do dějin a popostrčil Spojené státy ve vesmírných závodech – dnes se o totéž snaží Musk se Starship, akorát ta mu minulý týden zase odmítla odstartovat. Příjemné počteníčko. Máte 1 minutu? España. Španělsko s Laminem Yamalem srazilo Argentinu včetně Lionela Messiho a po šestnácti letech si došlo pro titul. K trofeji a zlatým medailím přidalo i miliardový balík, který FIFA vyhradila vítězi. Bronzové medaile po desetigólové přestřelce vybojovali Angličan
+
+Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</description>
+   <itunes:summary>20.07.2026 Krásné ráno! Už je to sedmapadesát let, co Neil Armstrong s Buzzem Aldrinem přistáli na Měsíci. Jeho malý krok pro člověka se zapsal do dějin a popostrčil Spojené státy ve vesmírných závodech – dnes se o totéž snaží Musk se Starship, akorát ta mu minulý týden zase odmítla odstartovat. Příjemné počteníčko. Máte 1 minutu? España. Španělsko s Laminem Yamalem srazilo Argentinu včetně Lionela Messiho a po šestnácti letech si došlo pro titul. K trofeji a zlatým medailím přidalo i miliardový balík, který FIFA vyhradila vítězi. Bronzové medaile po desetigólové přestřelce vybojovali Angličan
+
+Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</itunes:summary>
+   <pubDate>Mon, 20 Jul 2026 07:07:00 GMT</pubDate>
+   <guid isPermaLink="false">1HPutyzSxDMYXdVGUyyytzIU87XOCEb0A</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HPutyzSxDMYXdVGUyyytzIU87XOCEb0A" length="4510832" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1q-9LaXLe38LHbvkghIS6HJqVU-bg7Hl4"/>
+ </item>
+
+ <item>
+   <title>Jak hluboký problém odhalila rekonstrukce ukrajinské vlády</title>
+   <description>V tomto vydání se zaměřuje na rozsáhlou rekonstrukci ukrajinské vlády, včetně jmenování nového premiéra a změn v kabinetu. Klíčovým bodem je odvolání ministra obrany Mychajla Fedorova, které vyvolalo politickou krizi a veřejné protesty. V článku je uvedeno, že Fedorov identifikoval jedenáct systémových problémů armády a navrhl rozsáhlé technologické a organizační reformy.
+
+Od: NWSLTTR &lt;insidercz@substack.com&gt;</description>
+   <itunes:summary>V tomto vydání se zaměřuje na rozsáhlou rekonstrukci ukrajinské vlády, včetně jmenování nového premiéra a změn v kabinetu. Klíčovým bodem je odvolání ministra obrany Mychajla Fedorova, které vyvolalo politickou krizi a veřejné protesty. V článku je uvedeno, že Fedorov identifikoval jedenáct systémových problémů armády a navrhl rozsáhlé technologické a organizační reformy.
+
+Od: NWSLTTR &lt;insidercz@substack.com&gt;</itunes:summary>
+   <pubDate>Mon, 20 Jul 2026 06:04:32 GMT</pubDate>
+   <guid isPermaLink="false">11PVHOTzR3UDtKQiGJwnZ6avu-ZtfOw1U</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=11PVHOTzR3UDtKQiGJwnZ6avu-ZtfOw1U" length="3617829" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1zgtiD-EU63uj5iemkba2EUxAkR8-9f8v"/>
+ </item>
+
+ <item>
+   <title>Learning Transferable Visual Models From Natural Language Supervision</title>
+   <description>Tento výzkumný článek se zabývá omezenou obecností současných systémů počítačového vidění, které vyžadují předdefinované kategorie a dodatečná data pro nové vizuální koncepty. Navrhuje efektivní metodu předškolení vizuálních modelů, kde úkolem je předpovídat, který popisek patří k danému obrázku. Autoři využili dataset 400 milionů párů obrázků a textů z internetu k tréninku modelů schopných přenosu znalostí na jiné úlohy. Zkoumali výkon na více než 30 různých datových sadách počítačového vidění. Zjistili, že model dosahuje konkurenceschopných výsledků v režimu &quot;zero-shot&quot; transferu, často se vyrovnává plně dohlíženým baseline modelům.
+
+Zdroj: https://arxiv.org/abs/2103.00020</description>
+   <itunes:summary>Tento výzkumný článek se zabývá omezenou obecností současných systémů počítačového vidění, které vyžadují předdefinované kategorie a dodatečná data pro nové vizuální koncepty. Navrhuje efektivní metodu předškolení vizuálních modelů, kde úkolem je předpovídat, který popisek patří k danému obrázku. Autoři využili dataset 400 milionů párů obrázků a textů z internetu k tréninku modelů schopných přenosu znalostí na jiné úlohy. Zkoumali výkon na více než 30 různých datových sadách počítačového vidění. Zjistili, že model dosahuje konkurenceschopných výsledků v režimu &quot;zero-shot&quot; transferu, často se vyrovnává plně dohlíženým baseline modelům.
+
+Zdroj: https://arxiv.org/abs/2103.00020</itunes:summary>
+   <pubDate>Sun, 19 Jul 2026 22:52:21 GMT</pubDate>
+   <guid isPermaLink="false">1ngtKKm15zRiG0jN-VFcsGFOFLLNa-pqw</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ngtKKm15zRiG0jN-VFcsGFOFLLNa-pqw" length="1439764" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1_2LzwlDul-OBd9AgNWwM7bjxSmzRRraY"/>
+ </item>
+
+ <item>
+   <title>Machina (@EXM7777) on X</title>
+   <description>Tento zdroj, z příspěvku na X, představuje návod na vytvoření prvního týmu pěti AI agentů. Cílem je propojit tyto agenty do samoučící se smyčky ve sdíleném pracovním prostoru, přičemž každý agent plní specifickou funkci.
+
+Zdroj: https://x.com/exm7777/status/2078476892127318295?s=12</description>
+   <itunes:summary>Tento zdroj, z příspěvku na X, představuje návod na vytvoření prvního týmu pěti AI agentů. Cílem je propojit tyto agenty do samoučící se smyčky ve sdíleném pracovním prostoru, přičemž každý agent plní specifickou funkci.
+
+Zdroj: https://x.com/exm7777/status/2078476892127318295?s=12</itunes:summary>
+   <pubDate>Sat, 18 Jul 2026 19:35:10 GMT</pubDate>
+   <guid isPermaLink="false">13kHOmN5rabvxxUrk7K4C2r-uqKAwyvJ-</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=13kHOmN5rabvxxUrk7K4C2r-uqKAwyvJ-" length="4330736" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1aaMEqXPyfFmB4A-jxbHAB8AvMDqN6tMf"/>
+ </item>
+
+ <item>
+   <title>Powering the AI Revolution</title>
+   <description>Tento článek od J.P. Morgan hovoří o tom, jak umělá inteligence (AI) transformuje globální ekonomiky a revolucionalizuje průmyslová odvětví. Zdůrazňuje kritickou potřebu investic do strategických technologií pro zajištění bezpečnosti a odolnosti. Rozebírá masivní infrastrukturu potřebnou pro AI (zejména datová centra), výzvy spojené s jejím budováním a význam budování důvěry v ekosystém AI. Autoři rovněž zdůrazňují potenciál autonomních technologií a představují iniciativu J.P. Morgan Security and Resiliency Initiative, která se zaměřuje na financování klíčových odvětví.
+
+Zdroj: https://www.jpmorgan.com/insights/technology/artificial-intelligence/powering-the-ai-revolution</description>
+   <itunes:summary>Tento článek od J.P. Morgan hovoří o tom, jak umělá inteligence (AI) transformuje globální ekonomiky a revolucionalizuje průmyslová odvětví. Zdůrazňuje kritickou potřebu investic do strategických technologií pro zajištění bezpečnosti a odolnosti. Rozebírá masivní infrastrukturu potřebnou pro AI (zejména datová centra), výzvy spojené s jejím budováním a význam budování důvěry v ekosystém AI. Autoři rovněž zdůrazňují potenciál autonomních technologií a představují iniciativu J.P. Morgan Security and Resiliency Initiative, která se zaměřuje na financování klíčových odvětví.
+
+Zdroj: https://www.jpmorgan.com/insights/technology/artificial-intelligence/powering-the-ai-revolution</itunes:summary>
+   <pubDate>Sat, 18 Jul 2026 19:07:27 GMT</pubDate>
+   <guid isPermaLink="false">1LHvawJyNvrG1O6WqCAFKKQws9lS674Gx</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1LHvawJyNvrG1O6WqCAFKKQws9lS674Gx" length="3653687" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=18EQCe6DJilmf-afXsUSmTjj9yA-gTJG7"/>
+ </item>
+
+ <item>
+   <title>Proč o Kofole píšou i na CNN?</title>
+   <description>18.07.2026 Dobré ráno! Když budete pokračovat ve čtení, dozvíte se, kdo je muž, který bude vládnout Velké Británii, že Kofola není jediný rebel, proč Tirana láká nejlepší architekty nebo jaká je odměna za vítězství na fotbalovém mistrovství světa. Servíruje se Forbes Espresso. Ondřej Kinkor Máte 1 minutu? Kofola na CNN. Neděje se to moc často, aby to česká limonáda dotáhla až na homepage CNN. Teď se to stalo díky článku, který popisuje soupeře, kteří se z různých důvodů postavili globálnímu fenoménu jménem Coca-Cola. Nový premiér pro Británii. Sedmý za posledních deset let. Kdo je Andy Burnham
+
+Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</description>
+   <itunes:summary>18.07.2026 Dobré ráno! Když budete pokračovat ve čtení, dozvíte se, kdo je muž, který bude vládnout Velké Británii, že Kofola není jediný rebel, proč Tirana láká nejlepší architekty nebo jaká je odměna za vítězství na fotbalovém mistrovství světa. Servíruje se Forbes Espresso. Ondřej Kinkor Máte 1 minutu? Kofola na CNN. Neděje se to moc často, aby to česká limonáda dotáhla až na homepage CNN. Teď se to stalo díky článku, který popisuje soupeře, kteří se z různých důvodů postavili globálnímu fenoménu jménem Coca-Cola. Nový premiér pro Británii. Sedmý za posledních deset let. Kdo je Andy Burnham
+
+Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</itunes:summary>
+   <pubDate>Sat, 18 Jul 2026 17:22:17 GMT</pubDate>
+   <guid isPermaLink="false">1Poj9oTWMP2EnKOqRw1CkjBrpJGsfS8K6</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Poj9oTWMP2EnKOqRw1CkjBrpJGsfS8K6" length="3730632" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1r1T4V94TURnaJlrk8S-e_-W_nBkL8NWx"/>
+ </item>
+
+ <item>
+   <title>Shann³ (@shannholmberg) on X</title>
+   <description>Tweet popisuje článek, který vysvětluje, jak nastavit a ovládat Hermes Agent, vytvořit řídicí místnost, nakonfigurovat specialistické agenty a rozšířit jedno agens na celou marketingovou společnost na jednom VPS.
+
+Zdroj: https://x.com/shannholmberg/status/2055335043904492011?s=12</description>
+   <itunes:summary>Tweet popisuje článek, který vysvětluje, jak nastavit a ovládat Hermes Agent, vytvořit řídicí místnost, nakonfigurovat specialistické agenty a rozšířit jedno agens na celou marketingovou společnost na jednom VPS.
+
+Zdroj: https://x.com/shannholmberg/status/2055335043904492011?s=12</itunes:summary>
+   <pubDate>Fri, 17 Jul 2026 21:36:32 GMT</pubDate>
+   <guid isPermaLink="false">1Bhsj-Frh3ouxNdxtDqRoGh949BmNRqG_</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Bhsj-Frh3ouxNdxtDqRoGh949BmNRqG_" length="3742585" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1_ia-5zczNZ-aBeFWnz22DizUY69b3BeE"/>
+ </item>
+
+ <item>
+   <title>I’ve Started Four Companies. Every One Began as a Mind Map.</title>
+   <description>Jan Rezab popisuje, že všech jeho čtyř firem vzniklo z mentální mapy, protože mapování lépe než seznamy zachycuje větvení myšlenek a vztahy mezi nimi. Na základě zkušenosti s měřením pozornosti u Time is Ltd. zdůrazňuje nutnost rychle zachytit myšlenku. Představuje CloudMindMaps – bezplatný cloudový nástroj kompatibilní s FreeMind, který podporuje spolupráci a volitelné AI pro prvotní návrh mapy.
+
+Zdroj: https://janrezab.medium.com/ive-started-four-companies-every-one-began-as-a-mind-map-18e20d42bba9</description>
+   <itunes:summary>Jan Rezab popisuje, že všech jeho čtyř firem vzniklo z mentální mapy, protože mapování lépe než seznamy zachycuje větvení myšlenek a vztahy mezi nimi. Na základě zkušenosti s měřením pozornosti u Time is Ltd. zdůrazňuje nutnost rychle zachytit myšlenku. Představuje CloudMindMaps – bezplatný cloudový nástroj kompatibilní s FreeMind, který podporuje spolupráci a volitelné AI pro prvotní návrh mapy.
+
+Zdroj: https://janrezab.medium.com/ive-started-four-companies-every-one-began-as-a-mind-map-18e20d42bba9</itunes:summary>
+   <pubDate>Fri, 17 Jul 2026 20:35:29 GMT</pubDate>
+   <guid isPermaLink="false">1sFWsLDVfJ0Xav_HlLyRuNSnrlMGdOfJm</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sFWsLDVfJ0Xav_HlLyRuNSnrlMGdOfJm" length="1469000" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1AAFWpG9R02_YSsvGVu88V4ATF_cpuVvd"/>
+ </item>
+
+ <item>
+   <title>Miloš Čermák (@cermak) on X</title>
+   <description>Tweet Miloše Čermáka upozorňuje na nový dokument Anthropic Institute s názvem „Když AI staví AI“, který autorky Marina Favaro a Jack Clark věnují tématu seběvylepšování umělé inteligence a možnosti, aby AI sama sebe vylepšovala.
+
+Zdroj: https://x.com/cermak/status/2063712481428525376?s=12</description>
+   <itunes:summary>Tweet Miloše Čermáka upozorňuje na nový dokument Anthropic Institute s názvem „Když AI staví AI“, který autorky Marina Favaro a Jack Clark věnují tématu seběvylepšování umělé inteligence a možnosti, aby AI sama sebe vylepšovala.
+
+Zdroj: https://x.com/cermak/status/2063712481428525376?s=12</itunes:summary>
+   <pubDate>Fri, 17 Jul 2026 20:04:56 GMT</pubDate>
+   <guid isPermaLink="false">16RHb52N9PCYE1pKPlAtyQ5WgMs4jER_v</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=16RHb52N9PCYE1pKPlAtyQ5WgMs4jER_v" length="1350673" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1oWMnUmEV-gHeX24AWVYNkZxjdfLtzLo5"/>
+ </item>
+
+ <item>
+   <title>Introducing the Google Colab CLI- Google Developers Blog</title>
+   <description>Google představil Colab CLI, nástroj pro příkazovou řádku, který umožňuje vývojářům i AI agentům snadno využívat vzdálené Colab runtimes s GPU/TPU, spouštět skripty, stahovat artefakty a pracovat interaktivně, včetně podpory agentních workflow.
+
+Zdroj: https://developers.googleblog.com/introducing-the-google-colab-cli/</description>
+   <itunes:summary>Google představil Colab CLI, nástroj pro příkazovou řádku, který umožňuje vývojářům i AI agentům snadno využívat vzdálené Colab runtimes s GPU/TPU, spouštět skripty, stahovat artefakty a pracovat interaktivně, včetně podpory agentních workflow.
+
+Zdroj: https://developers.googleblog.com/introducing-the-google-colab-cli/</itunes:summary>
+   <pubDate>Fri, 17 Jul 2026 14:04:56 GMT</pubDate>
+   <guid isPermaLink="false">1_su9Rmg8xuGy1uljyYoulsqpIuZ24SEy</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_su9Rmg8xuGy1uljyYoulsqpIuZ24SEy" length="1490389" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1CEQunSGeNHkNSMRkN_ns_NVIiIVn-6Wc"/>
+ </item>
+
+ <item>
+   <title>https://valhistory.substack.com/p/bitva-u-klusina?r=1gjgrq&amp;utm_campaign=post&amp;utm_medium=web&amp;triedRedirect=true</title>
+   <description>https://valhistory.substack.com/p/bitva-u-klusina?r=1gjgrq&amp;utm_campaign=post&amp;utm_medium=web&amp;triedRedirect=true
+
+Zdroj: https://valhistory.substack.com/p/bitva-u-klusina?r=1gjgrq&amp;utm_campaign=post&amp;utm_medium=web&amp;triedRedirect=true</description>
+   <itunes:summary>https://valhistory.substack.com/p/bitva-u-klusina?r=1gjgrq&amp;utm_campaign=post&amp;utm_medium=web&amp;triedRedirect=true
+
+Zdroj: https://valhistory.substack.com/p/bitva-u-klusina?r=1gjgrq&amp;utm_campaign=post&amp;utm_medium=web&amp;triedRedirect=true</itunes:summary>
+   <pubDate>Fri, 17 Jul 2026 09:39:23 GMT</pubDate>
+   <guid isPermaLink="false">135E-2-sP1Bn1QrittW0uvzjYK9ChqZ1j</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=135E-2-sP1Bn1QrittW0uvzjYK9ChqZ1j" length="3268846" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=19anwSjiDBGjM3vNCUOvCF2xipkIQMpeV"/>
+ </item>
+
+ <item>
+   <title>Nepotřebuješ Fable 5. Potřebuješ systém.</title>
+   <description>Nepotřebuješ Fable 5. Potřebuješ systém.
+
+Zdroj: https://x.com/lukasersil/status/2075277988375957652?s=12</description>
+   <itunes:summary>Nepotřebuješ Fable 5. Potřebuješ systém.
+
+Zdroj: https://x.com/lukasersil/status/2075277988375957652?s=12</itunes:summary>
+   <pubDate>Thu, 16 Jul 2026 14:04:40 GMT</pubDate>
+   <guid isPermaLink="false">1bxlMfeAKaiiJK1YeyOiu1pCKWwemmFJC</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1bxlMfeAKaiiJK1YeyOiu1pCKWwemmFJC" length="4073639" type="audio/mp4"/>
+ </item>
+
+ <item>
+   <title>A Framework for Frontier AI and the Dawning of a New Age</title>
+   <description>A Framework for Frontier AI and the Dawning of a New Age
+
+Zdroj: https://x.com/demishassabis/status/2076957440109625718?s=12</description>
+   <itunes:summary>A Framework for Frontier AI and the Dawning of a New Age
+
+Zdroj: https://x.com/demishassabis/status/2076957440109625718?s=12</itunes:summary>
+   <pubDate>Thu, 16 Jul 2026 14:00:30 GMT</pubDate>
+   <guid isPermaLink="false">1K-FR9Ul3zydHBKt023Q-yIPZeDcJ8C-P</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1K-FR9Ul3zydHBKt023Q-yIPZeDcJ8C-P" length="3653687" type="audio/mp4"/>
+ </item>
+
+ <item>
+   <title>Kouzelná místa - vyberte si z 650 míst | Amazing Places</title>
+   <description>Kouzelná místa - vyberte si z 650 míst | Amazing Places
+
+Zdroj: https://www.amazingplaces.cz/cs/kouzelna-mista</description>
+   <itunes:summary>Kouzelná místa - vyberte si z 650 míst | Amazing Places
+
+Zdroj: https://www.amazingplaces.cz/cs/kouzelna-mista</itunes:summary>
+   <pubDate>Thu, 16 Jul 2026 13:56:40 GMT</pubDate>
+   <guid isPermaLink="false">1VDQBjctVSUKrqyOaipNtWRerWqc2Usux</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1VDQBjctVSUKrqyOaipNtWRerWqc2Usux" length="2882395" type="audio/mp4"/>
+ </item>
+
+ <item>
+   <title>The Laptop-Free Era Is Here!</title>
+   <description>The Laptop-Free Era Is Here!
+
+Zdroj: https://x.com/wilderko/status/2077050931061912035?s=12</description>
+   <itunes:summary>The Laptop-Free Era Is Here!
+
+Zdroj: https://x.com/wilderko/status/2077050931061912035?s=12</itunes:summary>
+   <pubDate>Thu, 16 Jul 2026 13:52:47 GMT</pubDate>
+   <guid isPermaLink="false">1JGDByzxN8qdbNf-2Cg5s74-ybuJ93x_u</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1JGDByzxN8qdbNf-2Cg5s74-ybuJ93x_u" length="3400325" type="audio/mp4"/>
+ </item>
+
+ <item>
+   <title>https://x.com/lindsaycasale/status/2077425295033036987?s=12</title>
+   <description>https://x.com/lindsaycasale/status/2077425295033036987?s=12
+
+Zdroj: https://x.com/lindsaycasale/status/2077425295033036987?s=12</description>
+   <itunes:summary>https://x.com/lindsaycasale/status/2077425295033036987?s=12
+
+Zdroj: https://x.com/lindsaycasale/status/2077425295033036987?s=12</itunes:summary>
+   <pubDate>Thu, 16 Jul 2026 13:38:16 GMT</pubDate>
+   <guid isPermaLink="false">137GorMNnIg8E7YCVu0-ukd580b73ZTru</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=137GorMNnIg8E7YCVu0-ukd580b73ZTru" length="4025828" type="audio/mp4"/>
+ </item>
+
+ <item>
+   <title>Kto zaplatí bezpodmienený základný príjem, keď nám umelá inteligencia vezme prácu?</title>
+   <description>Kto zaplatí bezpodmienený základný príjem, keď nám umelá inteligencia vezme prácu?
+
+Zdroj: https://juraj.bednar.io/blog/2026/07/09/kto-zaplati-bezpodmieneny-zakladny-prijem-ked-nam-umela-inteligencia-vezme-pracu/</description>
+   <itunes:summary>Kto zaplatí bezpodmienený základný príjem, keď nám umelá inteligencia vezme prácu?
+
+Zdroj: https://juraj.bednar.io/blog/2026/07/09/kto-zaplati-bezpodmieneny-zakladny-prijem-ked-nam-umela-inteligencia-vezme-pracu/</itunes:summary>
+   <pubDate>Thu, 16 Jul 2026 13:28:51 GMT</pubDate>
+   <guid isPermaLink="false">15swdebfzy6MxBPIV4fUKL8XpcqtLuEAy</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=15swdebfzy6MxBPIV4fUKL8XpcqtLuEAy" length="4088579" type="audio/mp4"/>
+ </item>
+</channel></rss>
