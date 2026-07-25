@@ -10,6 +10,62 @@
 <itunes:image href="https://example.com/podcast-cover.jpg"/>
 
  <item>
+   <title>Build an AI Second Brain(LLM Wiki Pattern) With Claude Code and Obsidian | by Tahir | May, 2026 | Medium</title>
+   <description>The article describes how to create an AI‑powered personal knowledge base by keeping raw notes separate from a wiki that is maintained by Claude Code. Raw notes (web clippings, chat logs, exports) are never edited; Claude Code processes them with slash commands such as /ingest to generate linked wiki pages, /query to retrieve answers with citations, /log to capture thoughts, and /lint to check for issues. The author illustrates the workflow by converting 42 Claude.ai conversations from JSON to markdown, adding YAML front matter, and letting Claude Code create linked wiki files in minutes. The resulting wiki shows only names and links, leaving interpretation to the user, while citations prove the provenance of any retrieved information.
+
+Zdroj: https://medium.com/@tahirbalarabe2/build-an-ai-second-brain-llm-wiki-pattern-with-claude-code-and-obsidian-fc41cc213d50</description>
+   <itunes:summary>The article describes how to create an AI‑powered personal knowledge base by keeping raw notes separate from a wiki that is maintained by Claude Code. Raw notes (web clippings, chat logs, exports) are never edited; Claude Code processes them with slash commands such as /ingest to generate linked wiki pages, /query to retrieve answers with citations, /log to capture thoughts, and /lint to check for issues. The author illustrates the workflow by converting 42 Claude.ai conversations from JSON to markdown, adding YAML front matter, and letting Claude Code create linked wiki files in minutes. The resulting wiki shows only names and links, leaving interpretation to the user, while citations prove the provenance of any retrieved information.
+
+Zdroj: https://medium.com/@tahirbalarabe2/build-an-ai-second-brain-llm-wiki-pattern-with-claude-code-and-obsidian-fc41cc213d50</itunes:summary>
+   <pubDate>Sat, 25 Jul 2026 11:58:43 GMT</pubDate>
+   <guid isPermaLink="false">10rQknrnEavW0ioTdql3q472-lM4nL-n4</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=10rQknrnEavW0ioTdql3q472-lM4nL-n4" length="4054681" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1WBXWZUi8FhZY2CItO-gdEQuuk3mpq2tm"/>
+ </item>
+
+ <item>
+   <title>Moje appka pomůže spravovat Sklik kampaně přes Claude Code. Je pro vás zdarma.</title>
+   <description>Článek představuje bezplatnou a open-source aplikaci `sklik-ppc-app`, která umožňuje spravovat PPC kampaně v Skliku pomocí Claude Code. Byla vyvinuta, protože Seznam nenabízí oficiální CLI ani MCP server pro Sklik, pouze API Drak. Appka pokrývá 88 základních příkazů pro vyhledávací i obsahové kampaně a lze ji použít buď přes konverzační rozhraní Claude Code, nebo pro pokročilé automatizace. Obsahuje také zabudované bezpečnostní mechanismy a hlídá limitace Sklik API.
+
+Zdroj: https://www.aifirst.cz/clanky/sprava-sklik-kampani-pres-claude-code</description>
+   <itunes:summary>Článek představuje bezplatnou a open-source aplikaci `sklik-ppc-app`, která umožňuje spravovat PPC kampaně v Skliku pomocí Claude Code. Byla vyvinuta, protože Seznam nenabízí oficiální CLI ani MCP server pro Sklik, pouze API Drak. Appka pokrývá 88 základních příkazů pro vyhledávací i obsahové kampaně a lze ji použít buď přes konverzační rozhraní Claude Code, nebo pro pokročilé automatizace. Obsahuje také zabudované bezpečnostní mechanismy a hlídá limitace Sklik API.
+
+Zdroj: https://www.aifirst.cz/clanky/sprava-sklik-kampani-pres-claude-code</itunes:summary>
+   <pubDate>Sat, 25 Jul 2026 11:52:56 GMT</pubDate>
+   <guid isPermaLink="false">1zNBkefj8NATUHKudsfVq_sf5nWpSmBXV</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1zNBkefj8NATUHKudsfVq_sf5nWpSmBXV" length="3426328" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1jHgS8Mll-fzikWmfd76Zbp0OADq2r1pM"/>
+ </item>
+
+ <item>
+   <title>Who’s Afraid of Chinese Models?</title>
+   <description>Článek analyzuje ekonomické dopady čínských open-weight AI modelů, jako je Kimi K3, a tvrdí, že obavy z nich jsou přehnané z ekonomického hlediska. Autor vysvětluje, že s nástupem AI se vrací mezní náklady a inteligence se stává komoditou, kde klíčem k ziskovosti je nákladová struktura. Ukazuje, že čínské modely se zdají levnější kvůli nedostatku výpočetního výkonu a vysokým cenám amerických frontier laboratoří, nikoli nutně kvůli nižším mezním nákladům. Skutečná hrozba spočívá v kybernetické bezpečnosti a závislosti na čínských řešeních kvůli americkým restrikcím.
+
+Zdroj: https://stratechery.com/2026/whos-afraid-of-chinese-models/</description>
+   <itunes:summary>Článek analyzuje ekonomické dopady čínských open-weight AI modelů, jako je Kimi K3, a tvrdí, že obavy z nich jsou přehnané z ekonomického hlediska. Autor vysvětluje, že s nástupem AI se vrací mezní náklady a inteligence se stává komoditou, kde klíčem k ziskovosti je nákladová struktura. Ukazuje, že čínské modely se zdají levnější kvůli nedostatku výpočetního výkonu a vysokým cenám amerických frontier laboratoří, nikoli nutně kvůli nižším mezním nákladům. Skutečná hrozba spočívá v kybernetické bezpečnosti a závislosti na čínských řešeních kvůli americkým restrikcím.
+
+Zdroj: https://stratechery.com/2026/whos-afraid-of-chinese-models/</itunes:summary>
+   <pubDate>Sat, 25 Jul 2026 11:48:03 GMT</pubDate>
+   <guid isPermaLink="false">1bDjKwpBKHEeDJGJ64TIvj_AHC_Fff2uf</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1bDjKwpBKHEeDJGJ64TIvj_AHC_Fff2uf" length="5607422" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1HC-u5ijqf6mjQofvyiOGdcZbY6mLaMaY"/>
+ </item>
+
+ <item>
+   <title>The Case Against Skills</title>
+   <description>Článek zkoumá koncept „dovedností“ (skills) pro AI agenty, které jsou navrženy ke zlepšení jejich výkonu, a argumentuje, že v mnoha případech mohou být kontraproduktivní. Autor upozorňuje, že moderní, pokročilé modely jsou často schopny uvažovat samostatně, a dodatečné instrukce mohou vést ke zmatkům, chybám a zvýšeným nákladům. Skutečný přínos dovedností spočívá v poskytování specifického, neveřejného kontextu nebo firemních pracovních postupů, které model sám nezná. Důkazem jsou testy a doporučení k auditu stávajících knihoven dovedností.
+
+Zdroj: https://every.to/context-window/the-case-against-skills</description>
+   <itunes:summary>Článek zkoumá koncept „dovedností“ (skills) pro AI agenty, které jsou navrženy ke zlepšení jejich výkonu, a argumentuje, že v mnoha případech mohou být kontraproduktivní. Autor upozorňuje, že moderní, pokročilé modely jsou často schopny uvažovat samostatně, a dodatečné instrukce mohou vést ke zmatkům, chybám a zvýšeným nákladům. Skutečný přínos dovedností spočívá v poskytování specifického, neveřejného kontextu nebo firemních pracovních postupů, které model sám nezná. Důkazem jsou testy a doporučení k auditu stávajících knihoven dovedností.
+
+Zdroj: https://every.to/context-window/the-case-against-skills</itunes:summary>
+   <pubDate>Sat, 25 Jul 2026 11:40:12 GMT</pubDate>
+   <guid isPermaLink="false">1RcjAE6MvewL9Y3Kr6t8SqfUTkr0lVIEd</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1RcjAE6MvewL9Y3Kr6t8SqfUTkr0lVIEd" length="3543781" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1qs5eV7tyMCxlT0bG68U_IBNuKOUwSL5r"/>
+ </item>
+
+ <item>
    <title>Víkendové Espresso: Český jestřáb nasazen. Tuzemský Black Hawk letí na pomoc s ohněm ve Francii</title>
    <description>Tento vydání Forbes Espresso přináší přehled aktuálních událostí, od vývoje v letectví a záchranných operací v Evropě po dopady pandemických opatření na trh s nápoji. Dále se zaměřuje na technologické inovace, zejména umělou inteligenci a její dopad na investice a podnikání. V neposlední řadě se věnuje životnímu stylu s představením hotelu zaměřeného na dlouhověkost a inspirativními osobnostmi z oboru. Čtenáři tak získají komplexní pohled na globální trendy a praktické tipy pro podnikatelství.
 
