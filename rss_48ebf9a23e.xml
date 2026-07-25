@@ -10,6 +10,34 @@
 <itunes:image href="https://example.com/podcast-cover.jpg"/>
 
  <item>
+   <title>Introducing the Google Colab CLI- Google Developers Blog</title>
+   <description>Google představil Colab CLI, nástroj pro příkazovou řádku, který umožňuje vývojářům i AI agentům snadno využívat vzdálené Colab runtimes s GPU/TPU, spouštět skripty, stahovat artefakty a pracovat interaktivně, včetně podpory agentních workflow.
+
+Zdroj: https://developers.googleblog.com/introducing-the-google-colab-cli/</description>
+   <itunes:summary>Google představil Colab CLI, nástroj pro příkazovou řádku, který umožňuje vývojářům i AI agentům snadno využívat vzdálené Colab runtimes s GPU/TPU, spouštět skripty, stahovat artefakty a pracovat interaktivně, včetně podpory agentních workflow.
+
+Zdroj: https://developers.googleblog.com/introducing-the-google-colab-cli/</itunes:summary>
+   <pubDate>Sat, 25 Jul 2026 15:11:12 GMT</pubDate>
+   <guid isPermaLink="false">1kZVTqFRGkxAOApS9qG00NVHxrumM6GII</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1kZVTqFRGkxAOApS9qG00NVHxrumM6GII" length="1555060" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1u_BXS495ZTd9n3kJSfYQ9e-T0muddFfU"/>
+ </item>
+
+ <item>
+   <title>Bitva u Klušina</title>
+   <description>Bitva u Klušina (4. července 1610) byla klíčovým střetem raně novověkého vojenství, v němž polsko-litevská armáda pod Żółkiewským porazila rusko-švédskou koalici. Vítězství husarů mělo dalekosáhlé následky: pád cara Vasilije IV., obsazení Kremlu a konec ruské Smuty cizí intervencí. Konflikt provázely dynastické intriky, nekompetentní velení a rozpad rusko-švédského spojenectví.
+
+Zdroj: https://valhistory.substack.com/p/bitva-u-klusina?r=1gjgrq&amp;utm_campaign=post&amp;utm_medium=web&amp;triedRedirect=true</description>
+   <itunes:summary>Bitva u Klušina (4. července 1610) byla klíčovým střetem raně novověkého vojenství, v němž polsko-litevská armáda pod Żółkiewským porazila rusko-švédskou koalici. Vítězství husarů mělo dalekosáhlé následky: pád cara Vasilije IV., obsazení Kremlu a konec ruské Smuty cizí intervencí. Konflikt provázely dynastické intriky, nekompetentní velení a rozpad rusko-švédského spojenectví.
+
+Zdroj: https://valhistory.substack.com/p/bitva-u-klusina?r=1gjgrq&amp;utm_campaign=post&amp;utm_medium=web&amp;triedRedirect=true</itunes:summary>
+   <pubDate>Sat, 25 Jul 2026 15:08:43 GMT</pubDate>
+   <guid isPermaLink="false">11t9P2xX5_taIPKnjNwWo6poZhD36VoAL</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=11t9P2xX5_taIPKnjNwWo6poZhD36VoAL" length="7586677" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1NnAZrsky75qGS0sTSLVHea2Rf64fQvop"/>
+ </item>
+
+ <item>
    <title>AI agenti jako produkční linka na akademické texty</title>
    <description>Josef Šlerka popisuje praktický průvodce pro humanitní vědy, kde propojil Karpathyho koncept „llm-wiki” se sadou promptů do výrobní linky na akademické texty pomocí AI agentů. Celý proces psaní je strukturován do čtyř bloků (teze, architektura, psaní, revize) a řízen člověkem-dispečerem v prostředí jako Claude Code. Na základě testů na studii o Karlu Čapkovi vznikla sada pravidel odchytávajících konkrétní selhání modelu; celý kit je volně na GitHubu.
 
@@ -259,33 +287,5 @@ Zdroj: https://bitcoinvkapse.cz/coinmate-family-sporeni-do-bitcoinu-deti/</itune
    <guid isPermaLink="false">1q-4pRG3Xf2jfppsTZ7RGJwK_Tbln8-DT</guid>
    <enclosure url="https://drive.google.com/uc?export=download&amp;id=1q-4pRG3Xf2jfppsTZ7RGJwK_Tbln8-DT" length="2792208" type="audio/mp4"/>
    <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1vVk9FhwN3CyQrcxjzxyKif8zXvjQ6NSE"/>
- </item>
-
- <item>
-   <title>Framework pro poznávání měst, regionů a států</title>
-   <description>Článek představuje framework otázek pro umělou inteligenci, který pomáhá lépe chápat města, regiony, státy a kultury během cestování. Autor, Jarda Vidim, si ho vytvořil pro své zvídavé poznávání každodenního života místních, veřejného prostoru, byznysu, architektury, gastronomie a dalších aspektů. Framework je rozdělen do mnoha tematických okruhů a je navržen tak, aby byl snadno přizpůsobitelný zájmům každého uživatele. Cílem je odhalit hlubší poznatky o navštíveném místě, které by jinak nemusely být zřejmé.
-
-Zdroj: https://jardavidim.substack.com/p/framework-pro-poznavani-mest-regionu</description>
-   <itunes:summary>Článek představuje framework otázek pro umělou inteligenci, který pomáhá lépe chápat města, regiony, státy a kultury během cestování. Autor, Jarda Vidim, si ho vytvořil pro své zvídavé poznávání každodenního života místních, veřejného prostoru, byznysu, architektury, gastronomie a dalších aspektů. Framework je rozdělen do mnoha tematických okruhů a je navržen tak, aby byl snadno přizpůsobitelný zájmům každého uživatele. Cílem je odhalit hlubší poznatky o navštíveném místě, které by jinak nemusely být zřejmé.
-
-Zdroj: https://jardavidim.substack.com/p/framework-pro-poznavani-mest-regionu</itunes:summary>
-   <pubDate>Fri, 24 Jul 2026 11:57:22 GMT</pubDate>
-   <guid isPermaLink="false">1i9W8pTa5HFPzCqmpyn1-uDpg51xvWuN1</guid>
-   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1i9W8pTa5HFPzCqmpyn1-uDpg51xvWuN1" length="2769689" type="audio/mp4"/>
-   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1GxTA4jdqh7H49Qis6Rgnw16TU4MhIOqu"/>
- </item>
-
- <item>
-   <title>Konec superlevných peněz a proč zakladatelé Tesly investují do „anticybertrucku“</title>
-   <description>V tomto vydání Forbes Espresso čtenáři představujeme nejaktuálnější zprávy: výkyvy ropového trhu a jejich dopady na geopolitiku, nový trend u Livesportu, inovace od zakladatelů Tesly, Elona Muska a jeho názor na filmy Christophera Nolana, nový letadlový projekt Embraer C‑390 Millennium a rady, jak AI nevyřadit z životopisu. Těšíme se na další zajímavé události a tipy pro práci a cestování.
-
-Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</description>
-   <itunes:summary>V tomto vydání Forbes Espresso čtenáři představujeme nejaktuálnější zprávy: výkyvy ropového trhu a jejich dopady na geopolitiku, nový trend u Livesportu, inovace od zakladatelů Tesly, Elona Muska a jeho názor na filmy Christophera Nolana, nový letadlový projekt Embraer C‑390 Millennium a rady, jak AI nevyřadit z životopisu. Těšíme se na další zajímavé události a tipy pro práci a cestování.
-
-Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</itunes:summary>
-   <pubDate>Fri, 24 Jul 2026 09:54:13 GMT</pubDate>
-   <guid isPermaLink="false">1Tln01WGzvHHvjNpMlLTjQZtd0FulP8ru</guid>
-   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Tln01WGzvHHvjNpMlLTjQZtd0FulP8ru" length="1806365" type="audio/mp4"/>
-   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1io3Uuh7tPJ2v50l0Swg1ydAnlWhXFzOz"/>
  </item>
 </channel></rss>
