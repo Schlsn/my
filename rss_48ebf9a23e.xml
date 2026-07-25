@@ -10,6 +10,20 @@
 <itunes:image href="https://example.com/podcast-cover.jpg"/>
 
  <item>
+   <title>How coding agents read your code (and how to write for them)</title>
+   <description>Tento článek vysvětluje, jak AI kódovací agenti navigují a interpretují kód v repozitáři, a nabízí tipy, jak psát kód, který je pro ně lépe srozumitelný. Zjišťuje, že většina agentů používá k vyhledávání kódu jednoduché textové vyhledávání, jako je ripgrep, namísto pokročilých nástrojů, jako jsou Language Server Protocols nebo grafy závislostí. Proto je klíčové používat popisné názvy funkcí, souborů a typů, které slouží jako efektivní vyhledávací termíny. Použití silných typů navíc pomáhá agentům rychleji pochopit kód a snižuje potřebu zkoumat implementaci. Autor dokládá, že lepší pojmenování a používání silných typů výrazně snižuje spotřebu tokenů a počet chybných odpovědí u agentů.
+
+Zdroj: https://modem.dev/blog/how-coding-agents-read-your-code</description>
+   <itunes:summary>Tento článek vysvětluje, jak AI kódovací agenti navigují a interpretují kód v repozitáři, a nabízí tipy, jak psát kód, který je pro ně lépe srozumitelný. Zjišťuje, že většina agentů používá k vyhledávání kódu jednoduché textové vyhledávání, jako je ripgrep, namísto pokročilých nástrojů, jako jsou Language Server Protocols nebo grafy závislostí. Proto je klíčové používat popisné názvy funkcí, souborů a typů, které slouží jako efektivní vyhledávací termíny. Použití silných typů navíc pomáhá agentům rychleji pochopit kód a snižuje potřebu zkoumat implementaci. Autor dokládá, že lepší pojmenování a používání silných typů výrazně snižuje spotřebu tokenů a počet chybných odpovědí u agentů.
+
+Zdroj: https://modem.dev/blog/how-coding-agents-read-your-code</itunes:summary>
+   <pubDate>Fri, 24 Jul 2026 23:13:48 GMT</pubDate>
+   <guid isPermaLink="false">1Z0kqEKkDKyittky5hPPYoil6C39MeILk</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Z0kqEKkDKyittky5hPPYoil6C39MeILk" length="5928200" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1K9o40gAbqrLJe7SR38f4vOD9DdlJM9Vo"/>
+ </item>
+
+ <item>
    <title>Recenze: Coinmate Family – spoření do bitcoinu pro děti - Bitcoinvkapse.cz</title>
    <description>Článek představuje a popisuje produkt Coinmate Family, který umožňuje rodičům automaticky spořit bitcoin pro své děti. Jde o strategii DCA (Dollar-Cost Averaging), kde se po nastavení trvalého příkazu z banky peníze automaticky nakupují do bitcoinu na speciálních podúčtech. Autor vysvětluje nastavení, vlastnictví prostředků a bezpečnostní aspekty, přičemž zdůrazňuje, že produkt je určen pro méně zkušené uživatele hledající pohodlné řešení.
 
