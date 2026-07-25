@@ -10,6 +10,20 @@
 <itunes:image href="https://example.com/podcast-cover.jpg"/>
 
  <item>
+   <title>Víkendové Espresso: Český jestřáb nasazen. Tuzemský Black Hawk letí na pomoc s ohněm ve Francii</title>
+   <description>Tento vydání Forbes Espresso přináší přehled aktuálních událostí, od vývoje v letectví a záchranných operací v Evropě po dopady pandemických opatření na trh s nápoji. Dále se zaměřuje na technologické inovace, zejména umělou inteligenci a její dopad na investice a podnikání. V neposlední řadě se věnuje životnímu stylu s představením hotelu zaměřeného na dlouhověkost a inspirativními osobnostmi z oboru. Čtenáři tak získají komplexní pohled na globální trendy a praktické tipy pro podnikatelství.
+
+Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</description>
+   <itunes:summary>Tento vydání Forbes Espresso přináší přehled aktuálních událostí, od vývoje v letectví a záchranných operací v Evropě po dopady pandemických opatření na trh s nápoji. Dále se zaměřuje na technologické inovace, zejména umělou inteligenci a její dopad na investice a podnikání. V neposlední řadě se věnuje životnímu stylu s představením hotelu zaměřeného na dlouhověkost a inspirativními osobnostmi z oboru. Čtenáři tak získají komplexní pohled na globální trendy a praktické tipy pro podnikatelství.
+
+Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</itunes:summary>
+   <pubDate>Sat, 25 Jul 2026 08:11:15 GMT</pubDate>
+   <guid isPermaLink="false">1Ttldy20BjxoX5Q3UmJb-x6ZhZiXm8fl8</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Ttldy20BjxoX5Q3UmJb-x6ZhZiXm8fl8" length="2075056" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1eK0KN_9HfiX8bKtBrp9kxFise0caPbr5"/>
+ </item>
+
+ <item>
    <title>How coding agents read your code (and how to write for them)</title>
    <description>Tento článek vysvětluje, jak AI kódovací agenti navigují a interpretují kód v repozitáři, a nabízí tipy, jak psát kód, který je pro ně lépe srozumitelný. Zjišťuje, že většina agentů používá k vyhledávání kódu jednoduché textové vyhledávání, jako je ripgrep, namísto pokročilých nástrojů, jako jsou Language Server Protocols nebo grafy závislostí. Proto je klíčové používat popisné názvy funkcí, souborů a typů, které slouží jako efektivní vyhledávací termíny. Použití silných typů navíc pomáhá agentům rychleji pochopit kód a snižuje potřebu zkoumat implementaci. Autor dokládá, že lepší pojmenování a používání silných typů výrazně snižuje spotřebu tokenů a počet chybných odpovědí u agentů.
 
