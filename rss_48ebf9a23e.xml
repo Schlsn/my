@@ -10,6 +10,20 @@
 <itunes:image href="https://example.com/podcast-cover.jpg"/>
 
  <item>
+   <title>Zprávy z lesa #142 🍄</title>
+   <description>Tento vydání přináší přehled nejzajímavějších událostí ze světa technologií, startupů a inovací, včetně fenoménu zombie unicornů a nejnovějších projektů od OpenAI a Hugging Face. Autor se zaměřuje i na cestovní zážitky, například skateboardovou výpravu na 3000 mil nebo projížďku Colorado, a představuje zajímavé příběhy z přírody a výzkumu. V rozdělených sekcích najdete také tipy na čtení, poslech a vzdělávání, stejně jako fotodokumentaci české krajiny. Všechno je spojeno osobní tónem a bohatým množstvím odkazů na podrobné články.
+
+Od: Filip Molčan &lt;filipmolcan@substack.com&gt;</description>
+   <itunes:summary>Tento vydání přináší přehled nejzajímavějších událostí ze světa technologií, startupů a inovací, včetně fenoménu zombie unicornů a nejnovějších projektů od OpenAI a Hugging Face. Autor se zaměřuje i na cestovní zážitky, například skateboardovou výpravu na 3000 mil nebo projížďku Colorado, a představuje zajímavé příběhy z přírody a výzkumu. V rozdělených sekcích najdete také tipy na čtení, poslech a vzdělávání, stejně jako fotodokumentaci české krajiny. Všechno je spojeno osobní tónem a bohatým množstvím odkazů na podrobné články.
+
+Od: Filip Molčan &lt;filipmolcan@substack.com&gt;</itunes:summary>
+   <pubDate>Sun, 26 Jul 2026 16:00:41 GMT</pubDate>
+   <guid isPermaLink="false">1YNJgIzXB5r4caznuwvu30FKKnUe_esF6</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YNJgIzXB5r4caznuwvu30FKKnUe_esF6" length="186291" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1JRaPouATaTf2Guw6pkENUCUeIbxamy5A"/>
+ </item>
+
+ <item>
    <title>Introducing the Google Colab CLI- Google Developers Blog</title>
    <description>Google představil Colab CLI, nástroj pro příkazovou řádku, který umožňuje vývojářům i AI agentům snadno využívat vzdálené Colab runtimes s GPU/TPU, spouštět skripty, stahovat artefakty a pracovat interaktivně, včetně podpory agentních workflow.
 
@@ -273,19 +287,5 @@ Zdroj: https://modem.dev/blog/how-coding-agents-read-your-code</itunes:summary>
    <guid isPermaLink="false">1Z0kqEKkDKyittky5hPPYoil6C39MeILk</guid>
    <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Z0kqEKkDKyittky5hPPYoil6C39MeILk" length="5928200" type="audio/mp4"/>
    <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1K9o40gAbqrLJe7SR38f4vOD9DdlJM9Vo"/>
- </item>
-
- <item>
-   <title>Recenze: Coinmate Family – spoření do bitcoinu pro děti - Bitcoinvkapse.cz</title>
-   <description>Článek představuje a popisuje produkt Coinmate Family, který umožňuje rodičům automaticky spořit bitcoin pro své děti. Jde o strategii DCA (Dollar-Cost Averaging), kde se po nastavení trvalého příkazu z banky peníze automaticky nakupují do bitcoinu na speciálních podúčtech. Autor vysvětluje nastavení, vlastnictví prostředků a bezpečnostní aspekty, přičemž zdůrazňuje, že produkt je určen pro méně zkušené uživatele hledající pohodlné řešení.
-
-Zdroj: https://bitcoinvkapse.cz/coinmate-family-sporeni-do-bitcoinu-deti/</description>
-   <itunes:summary>Článek představuje a popisuje produkt Coinmate Family, který umožňuje rodičům automaticky spořit bitcoin pro své děti. Jde o strategii DCA (Dollar-Cost Averaging), kde se po nastavení trvalého příkazu z banky peníze automaticky nakupují do bitcoinu na speciálních podúčtech. Autor vysvětluje nastavení, vlastnictví prostředků a bezpečnostní aspekty, přičemž zdůrazňuje, že produkt je určen pro méně zkušené uživatele hledající pohodlné řešení.
-
-Zdroj: https://bitcoinvkapse.cz/coinmate-family-sporeni-do-bitcoinu-deti/</itunes:summary>
-   <pubDate>Fri, 24 Jul 2026 13:00:59 GMT</pubDate>
-   <guid isPermaLink="false">1q-4pRG3Xf2jfppsTZ7RGJwK_Tbln8-DT</guid>
-   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1q-4pRG3Xf2jfppsTZ7RGJwK_Tbln8-DT" length="2792208" type="audio/mp4"/>
-   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1vVk9FhwN3CyQrcxjzxyKif8zXvjQ6NSE"/>
  </item>
 </channel></rss>
