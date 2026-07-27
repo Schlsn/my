@@ -4,7 +4,8 @@
 <title>Ebooky – Podcast</title>
 <description>Automaticky generované podcastové přehledy e-knih (NotebookLM).</description>
 <language>cs</language>
-<itunes:type>serialized</itunes:type>
+<itunes:type>serial</itunes:type>
+<itunes:new-feed-url>https://schlsn.github.io/my/rss_ebooks_serialized.xml</itunes:new-feed-url>
 <item>
 <title>How the World Really Works — 4: 2. Understanding Food Production</title>
 <description>Tato část knihy přehledně vystavuje, jak se lidská obživa od paleolitického lovu a sběru přes tradiční zemědělství dostala k moderní intenzivní výrobě potravin, kde klíčovou roli hrají fosilní paliva a elektrická energie. Autor kvantifikuje energetické nároky jednotlivých potravin (pšenice, drůbeže, rajčat, rybolov) a ukazuje, že vysoké výnosy jsou podpořeny masivními vstupy syntetických hnojiv, chemikálií a dopravou. Diskutuje omezení organického zemědělství, úspory energie, změnu jídelníčku a trvalou strukturální závislost lidstva na fosilních palivech, přičemž zdůrazňuje technologické a sociální bariéry k přechodu na udržitelnější model.
