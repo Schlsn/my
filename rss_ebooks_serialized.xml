@@ -7,8 +7,9 @@
 <link>https://schlsn.github.io/my/rss_ebooks_serialized.xml</link>
 <atom:link href="https://schlsn.github.io/my/rss_ebooks_serialized.xml" rel="self" type="application/rss+xml" />
 <itunes:type>serial</itunes:type>
+<itunes:category text="Arts"><itunes:category text="Books" /></itunes:category>
 <itunes:explicit>false</itunes:explicit>
-<itunes:image href="https://schlsn.github.io/my/podcast-artwork/ebooky-podcast.png" />
+<itunes:image href="https://schlsn.github.io/my/podcast-artwork/ebooky-podcast.jpg" />
 <item>
 <title>How the World Really Works — 5: 3. Understanding Our Material World</title>
 <description>Kapitola se zabývá materiálními základy moderní civilizace a ukazuje, že navzdory veřejné pozornosti věnované nehmotným fenoménům, jako je růst HDP či mobilní aplikace, stojí dnešní společnost na čtyřech klíčových materiálech: amoniaku, plastech, oceli a cementu. Autor popisuje fyzikální a chemické vlastnosti těchto surovin, historii technických vynálezů umožňujících jejich masovou výrobu i široké spektrum jejich současného využití v infrastruktuře, zdravotnictví a zabezpečení obživy. Text podrobně rozebírá vysokou energetickou náročnost produkce těchto materiálů a jejich zásadní závislost na fosilních palivech, kvůli níž se významně podílejí na globálních emisích oxidu uhličitého. V závěru kapitola vysvětluje, že ani přechod k obnovitelným zdrojům energie a elektromobilitě nepovede k dematerializaci ekonomiky, ale naopak vyvolá masivní poptávku po nových i stávajících surovinách.
