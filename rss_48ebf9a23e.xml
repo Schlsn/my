@@ -10,6 +10,20 @@
 <itunes:image href="https://example.com/podcast-cover.jpg"/>
 
  <item>
+   <title>Jeden úřad, jedno rozhodnutí. Žádný zázrak s novými byty ale nečekejte</title>
+   <description>V posledním vydání se autorka zaměřuje na rostoucí nedostupnost bytového bydlení v ČR, přičemž ukazuje, že v roce 2025 je potřeba více než dvojnásobek průměrné mzdy na metr čtvereční v Praze. Hlavním tématem je nový stavební zákon „jeden úřad, jedno rozhodnutí“, který má zjednodušit a urychlit procesy v oblasti výstavby. Autor diskutuje princip „ticho = souhlas“, posun k pozitivnímu regulování a stále přetrvávající omezení místními pravidly, které i přesto mohou výrazně zvyšovat náklady na stavby.
+
+Od: NWSLTTR &lt;insidercz@substack.com&gt;</description>
+   <itunes:summary>V posledním vydání se autorka zaměřuje na rostoucí nedostupnost bytového bydlení v ČR, přičemž ukazuje, že v roce 2025 je potřeba více než dvojnásobek průměrné mzdy na metr čtvereční v Praze. Hlavním tématem je nový stavební zákon „jeden úřad, jedno rozhodnutí“, který má zjednodušit a urychlit procesy v oblasti výstavby. Autor diskutuje princip „ticho = souhlas“, posun k pozitivnímu regulování a stále přetrvávající omezení místními pravidly, které i přesto mohou výrazně zvyšovat náklady na stavby.
+
+Od: NWSLTTR &lt;insidercz@substack.com&gt;</itunes:summary>
+   <pubDate>Mon, 27 Jul 2026 06:03:57 GMT</pubDate>
+   <guid isPermaLink="false">1aZs99Op9zGgVlo7gzF7TtKtGUrCFwIii</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1aZs99Op9zGgVlo7gzF7TtKtGUrCFwIii" length="2665826" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1HlNhczDkCdnX_ob5KMhVppECJ9QWfoW_"/>
+ </item>
+
+ <item>
    <title>Zprávy z lesa #142 🍄</title>
    <description>Tento vydání přináší přehled nejzajímavějších událostí ze světa technologií, startupů a inovací, včetně fenoménu zombie unicornů a nejnovějších projektů od OpenAI a Hugging Face. Autor se zaměřuje i na cestovní zážitky, například skateboardovou výpravu na 3000 mil nebo projížďku Colorado, a představuje zajímavé příběhy z přírody a výzkumu. V rozdělených sekcích najdete také tipy na čtení, poslech a vzdělávání, stejně jako fotodokumentaci české krajiny. Všechno je spojeno osobní tónem a bohatým množstvím odkazů na podrobné články.
 
@@ -273,19 +287,5 @@ Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</itunes:summary>
    <guid isPermaLink="false">1Ttldy20BjxoX5Q3UmJb-x6ZhZiXm8fl8</guid>
    <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Ttldy20BjxoX5Q3UmJb-x6ZhZiXm8fl8" length="2075056" type="audio/mp4"/>
    <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1eK0KN_9HfiX8bKtBrp9kxFise0caPbr5"/>
- </item>
-
- <item>
-   <title>How coding agents read your code (and how to write for them)</title>
-   <description>Tento článek vysvětluje, jak AI kódovací agenti navigují a interpretují kód v repozitáři, a nabízí tipy, jak psát kód, který je pro ně lépe srozumitelný. Zjišťuje, že většina agentů používá k vyhledávání kódu jednoduché textové vyhledávání, jako je ripgrep, namísto pokročilých nástrojů, jako jsou Language Server Protocols nebo grafy závislostí. Proto je klíčové používat popisné názvy funkcí, souborů a typů, které slouží jako efektivní vyhledávací termíny. Použití silných typů navíc pomáhá agentům rychleji pochopit kód a snižuje potřebu zkoumat implementaci. Autor dokládá, že lepší pojmenování a používání silných typů výrazně snižuje spotřebu tokenů a počet chybných odpovědí u agentů.
-
-Zdroj: https://modem.dev/blog/how-coding-agents-read-your-code</description>
-   <itunes:summary>Tento článek vysvětluje, jak AI kódovací agenti navigují a interpretují kód v repozitáři, a nabízí tipy, jak psát kód, který je pro ně lépe srozumitelný. Zjišťuje, že většina agentů používá k vyhledávání kódu jednoduché textové vyhledávání, jako je ripgrep, namísto pokročilých nástrojů, jako jsou Language Server Protocols nebo grafy závislostí. Proto je klíčové používat popisné názvy funkcí, souborů a typů, které slouží jako efektivní vyhledávací termíny. Použití silných typů navíc pomáhá agentům rychleji pochopit kód a snižuje potřebu zkoumat implementaci. Autor dokládá, že lepší pojmenování a používání silných typů výrazně snižuje spotřebu tokenů a počet chybných odpovědí u agentů.
-
-Zdroj: https://modem.dev/blog/how-coding-agents-read-your-code</itunes:summary>
-   <pubDate>Fri, 24 Jul 2026 23:13:48 GMT</pubDate>
-   <guid isPermaLink="false">1Z0kqEKkDKyittky5hPPYoil6C39MeILk</guid>
-   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Z0kqEKkDKyittky5hPPYoil6C39MeILk" length="5928200" type="audio/mp4"/>
-   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1K9o40gAbqrLJe7SR38f4vOD9DdlJM9Vo"/>
  </item>
 </channel></rss>
