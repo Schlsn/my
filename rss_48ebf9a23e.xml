@@ -10,6 +10,19 @@
 <itunes:image href="https://example.com/podcast-cover.jpg"/>
 
  <item>
+   <title>You Can’t Demand the Click If You Won’t Give the Link</title>
+   <description>Tento vydání se zaměřuje na problémy SEO a AI, zejména na dopad AI Overviews na návštěvnost a spravedlnost. Autor kritizuje praktikování citací a nedodržování odkazů u publikací a zdůrazňuje nutnost správné citace. Dále představuje nadcházející webinář od J. Granta o AI search pipeline, spolu s podporou AirOps a Jolly Search. V závěru je nabídnuta pracovní pozice na pozici Partnerships Manageru v Jolly.
+
+Od: #SEOForLunch &lt;seoforlunch@substack.com&gt;</description>
+   <itunes:summary>Tento vydání se zaměřuje na problémy SEO a AI, zejména na dopad AI Overviews na návštěvnost a spravedlnost. Autor kritizuje praktikování citací a nedodržování odkazů u publikací a zdůrazňuje nutnost správné citace. Dále představuje nadcházející webinář od J. Granta o AI search pipeline, spolu s podporou AirOps a Jolly Search. V závěru je nabídnuta pracovní pozice na pozici Partnerships Manageru v Jolly.
+
+Od: #SEOForLunch &lt;seoforlunch@substack.com&gt;</itunes:summary>
+   <pubDate>Tue, 28 Jul 2026 17:44:51 GMT</pubDate>
+   <guid isPermaLink="false">1qnRZMeMJ72Dbyc-XztyEVTsQbJ_1glby</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qnRZMeMJ72Dbyc-XztyEVTsQbJ_1glby" length="3553562" type="audio/mp4"/>
+ </item>
+
+ <item>
    <title>Praha je opět slavná a tentokrát za tím není levné pivo</title>
    <description>V tomto vydání se Forbes Espresso zaměřuje na globální technologické trendy, od čínské výroby čipů po americký satelitní závod, a přitom nahlíží i na místní události, jako je otevření IMAX sálu ve Floře. Dále přináší zprávy o regulacích v Indii, o dědickém sporu Bernarda Arnaulta a o finančních potížích německého výrobce baterií Varta. Článek se dotýká také vývoje českých realit a zdravotnického sektoru.
 
@@ -273,19 +286,5 @@ Zdroj: https://stratechery.com/2026/whos-afraid-of-chinese-models/</itunes:summa
    <guid isPermaLink="false">1bDjKwpBKHEeDJGJ64TIvj_AHC_Fff2uf</guid>
    <enclosure url="https://drive.google.com/uc?export=download&amp;id=1bDjKwpBKHEeDJGJ64TIvj_AHC_Fff2uf" length="5607422" type="audio/mp4"/>
    <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1HC-u5ijqf6mjQofvyiOGdcZbY6mLaMaY"/>
- </item>
-
- <item>
-   <title>The Case Against Skills</title>
-   <description>Článek zkoumá koncept „dovedností“ (skills) pro AI agenty, které jsou navrženy ke zlepšení jejich výkonu, a argumentuje, že v mnoha případech mohou být kontraproduktivní. Autor upozorňuje, že moderní, pokročilé modely jsou často schopny uvažovat samostatně, a dodatečné instrukce mohou vést ke zmatkům, chybám a zvýšeným nákladům. Skutečný přínos dovedností spočívá v poskytování specifického, neveřejného kontextu nebo firemních pracovních postupů, které model sám nezná. Důkazem jsou testy a doporučení k auditu stávajících knihoven dovedností.
-
-Zdroj: https://every.to/context-window/the-case-against-skills</description>
-   <itunes:summary>Článek zkoumá koncept „dovedností“ (skills) pro AI agenty, které jsou navrženy ke zlepšení jejich výkonu, a argumentuje, že v mnoha případech mohou být kontraproduktivní. Autor upozorňuje, že moderní, pokročilé modely jsou často schopny uvažovat samostatně, a dodatečné instrukce mohou vést ke zmatkům, chybám a zvýšeným nákladům. Skutečný přínos dovedností spočívá v poskytování specifického, neveřejného kontextu nebo firemních pracovních postupů, které model sám nezná. Důkazem jsou testy a doporučení k auditu stávajících knihoven dovedností.
-
-Zdroj: https://every.to/context-window/the-case-against-skills</itunes:summary>
-   <pubDate>Sat, 25 Jul 2026 11:40:12 GMT</pubDate>
-   <guid isPermaLink="false">1RcjAE6MvewL9Y3Kr6t8SqfUTkr0lVIEd</guid>
-   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1RcjAE6MvewL9Y3Kr6t8SqfUTkr0lVIEd" length="3543781" type="audio/mp4"/>
-   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1qs5eV7tyMCxlT0bG68U_IBNuKOUwSL5r"/>
  </item>
 </channel></rss>
