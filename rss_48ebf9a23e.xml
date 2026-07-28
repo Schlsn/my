@@ -10,6 +10,20 @@
 <itunes:image href="https://example.com/podcast-cover.jpg"/>
 
  <item>
+   <title>Praha je opět slavná a tentokrát za tím není levné pivo</title>
+   <description>V tomto vydání se Forbes Espresso zaměřuje na globální technologické trendy, od čínské výroby čipů po americký satelitní závod, a přitom nahlíží i na místní události, jako je otevření IMAX sálu ve Floře. Dále přináší zprávy o regulacích v Indii, o dědickém sporu Bernarda Arnaulta a o finančních potížích německého výrobce baterií Varta. Článek se dotýká také vývoje českých realit a zdravotnického sektoru.
+
+Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</description>
+   <itunes:summary>V tomto vydání se Forbes Espresso zaměřuje na globální technologické trendy, od čínské výroby čipů po americký satelitní závod, a přitom nahlíží i na místní události, jako je otevření IMAX sálu ve Floře. Dále přináší zprávy o regulacích v Indii, o dědickém sporu Bernarda Arnaulta a o finančních potížích německého výrobce baterií Varta. Článek se dotýká také vývoje českých realit a zdravotnického sektoru.
+
+Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</itunes:summary>
+   <pubDate>Tue, 28 Jul 2026 05:38:21 GMT</pubDate>
+   <guid isPermaLink="false">160KCONgTUcxCRKT48rGDVzQtY8q6_9Q7</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=160KCONgTUcxCRKT48rGDVzQtY8q6_9Q7" length="2273061" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1_D1TZFjvjxIU37z2jTqC2nn3ajMmw-mw"/>
+ </item>
+
+ <item>
    <title>Jeden úřad, jedno rozhodnutí. Žádný zázrak s novými byty ale nečekejte</title>
    <description>V posledním vydání se autorka zaměřuje na rostoucí nedostupnost bytového bydlení v ČR, přičemž ukazuje, že v roce 2025 je potřeba více než dvojnásobek průměrné mzdy na metr čtvereční v Praze. Hlavním tématem je nový stavební zákon „jeden úřad, jedno rozhodnutí“, který má zjednodušit a urychlit procesy v oblasti výstavby. Autor diskutuje princip „ticho = souhlas“, posun k pozitivnímu regulování a stále přetrvávající omezení místními pravidly, které i přesto mohou výrazně zvyšovat náklady na stavby.
 
@@ -273,19 +287,5 @@ Zdroj: https://every.to/context-window/the-case-against-skills</itunes:summary>
    <guid isPermaLink="false">1RcjAE6MvewL9Y3Kr6t8SqfUTkr0lVIEd</guid>
    <enclosure url="https://drive.google.com/uc?export=download&amp;id=1RcjAE6MvewL9Y3Kr6t8SqfUTkr0lVIEd" length="3543781" type="audio/mp4"/>
    <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1qs5eV7tyMCxlT0bG68U_IBNuKOUwSL5r"/>
- </item>
-
- <item>
-   <title>Víkendové Espresso: Český jestřáb nasazen. Tuzemský Black Hawk letí na pomoc s ohněm ve Francii</title>
-   <description>Tento vydání Forbes Espresso přináší přehled aktuálních událostí, od vývoje v letectví a záchranných operací v Evropě po dopady pandemických opatření na trh s nápoji. Dále se zaměřuje na technologické inovace, zejména umělou inteligenci a její dopad na investice a podnikání. V neposlední řadě se věnuje životnímu stylu s představením hotelu zaměřeného na dlouhověkost a inspirativními osobnostmi z oboru. Čtenáři tak získají komplexní pohled na globální trendy a praktické tipy pro podnikatelství.
-
-Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</description>
-   <itunes:summary>Tento vydání Forbes Espresso přináší přehled aktuálních událostí, od vývoje v letectví a záchranných operací v Evropě po dopady pandemických opatření na trh s nápoji. Dále se zaměřuje na technologické inovace, zejména umělou inteligenci a její dopad na investice a podnikání. V neposlední řadě se věnuje životnímu stylu s představením hotelu zaměřeného na dlouhověkost a inspirativními osobnostmi z oboru. Čtenáři tak získají komplexní pohled na globální trendy a praktické tipy pro podnikatelství.
-
-Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</itunes:summary>
-   <pubDate>Sat, 25 Jul 2026 08:11:15 GMT</pubDate>
-   <guid isPermaLink="false">1Ttldy20BjxoX5Q3UmJb-x6ZhZiXm8fl8</guid>
-   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Ttldy20BjxoX5Q3UmJb-x6ZhZiXm8fl8" length="2075056" type="audio/mp4"/>
-   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1eK0KN_9HfiX8bKtBrp9kxFise0caPbr5"/>
  </item>
 </channel></rss>
