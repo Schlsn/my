@@ -10,6 +10,20 @@
 <itunes:image href="https://example.com/podcast-cover.jpg"/>
 
  <item>
+   <title>Vpředu byznys, vzadu hnojník. Miliardový pád WCA má pokračování</title>
+   <description>V tomto vydání Forbes Espresso se zaměřuje na největší události českého i globálního trhu: pokračování kriminální kauzy WCA, obraty ve stavebnictví, akvizice software firem a rostoucí úspěch AI start‑upů. Dále přináší pohled na strategii finanční šéfkuchařky Uniqa, mezinárodní politické setkání v Bílém domě a neobvyklý propad akcií BMW. Čtenářům nabídne i přehled trendů ve wellness investicích a nový filmový projekt Spider‑Man.
+
+Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</description>
+   <itunes:summary>V tomto vydání Forbes Espresso se zaměřuje na největší události českého i globálního trhu: pokračování kriminální kauzy WCA, obraty ve stavebnictví, akvizice software firem a rostoucí úspěch AI start‑upů. Dále přináší pohled na strategii finanční šéfkuchařky Uniqa, mezinárodní politické setkání v Bílém domě a neobvyklý propad akcií BMW. Čtenářům nabídne i přehled trendů ve wellness investicích a nový filmový projekt Spider‑Man.
+
+Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</itunes:summary>
+   <pubDate>Wed, 29 Jul 2026 07:15:29 GMT</pubDate>
+   <guid isPermaLink="false">1FUmFdnOaqWExqYUDvtOod800tfNCd3wB</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1FUmFdnOaqWExqYUDvtOod800tfNCd3wB" length="2113999" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1R52IZi9KTbsBZtFASGSz8y0JmPgleegY"/>
+ </item>
+
+ <item>
    <title>Írán, Amerika a Izrael v pasti vlastní převahy</title>
    <description>Konflikt mezi Íránem, Spojenými státy a Izraelem se vyvíjí z krátkodobé hostilita na dlouhodobou, regionální válku s propojenými frontami. Hlavní pozornost je zaměřena na kontrolu a riziko v Hormuzském průlivu, kde Írán využívá administrativní a vojenské nástroje k omezení mezinárodní dopravy. USA prosazují vyčerpávací kampaň a sankce, zatímco situace v Libanonu, zejména s Hizballáhem, představuje další komplikaci. Důsledky konfliktu se promítají do globálního trhu s ropou a plynem a mají významný dopad na Evropu, včetně České republiky.
 
@@ -272,19 +286,5 @@ Zdroj: https://medium.com/@tahirbalarabe2/what-is-llm-wiki-pattern-persistent-kn
    <guid isPermaLink="false">10SJX1WIHY1epCkxnk89QIxackbsVRWkl</guid>
    <enclosure url="https://drive.google.com/uc?export=download&amp;id=10SJX1WIHY1epCkxnk89QIxackbsVRWkl" length="5431361" type="audio/mp4"/>
    <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1IWqpYqeQ_VT18Vf6i0ROcUo3TiH0RFxw"/>
- </item>
-
- <item>
-   <title>What is Open Knowledge Format(OKF)? | by Tahir | Jun, 2026 | Medium</title>
-   <description>Článek představuje Open Knowledge Format (OKF), otevřenou, dodavatelsky neutrální specifikaci navrženou pro řešení problému roztříštěného kontextu pro AI agenty. Popisuje OKF jako formalizaci vzoru LLM wiki, který využívá jednoduché Markdown soubory s YAML frontmatterem pro vytváření přenositelných a interoperabilních znalostních bází. Cílem je umožnit AI systémům snadno konzumovat a sdílet kontext napříč různými systémy a organizacemi bez nutnosti komplexních integrací.
-
-Zdroj: https://medium.com/@tahirbalarabe2/what-is-open-knowledge-format-okf-270b20791802</description>
-   <itunes:summary>Článek představuje Open Knowledge Format (OKF), otevřenou, dodavatelsky neutrální specifikaci navrženou pro řešení problému roztříštěného kontextu pro AI agenty. Popisuje OKF jako formalizaci vzoru LLM wiki, který využívá jednoduché Markdown soubory s YAML frontmatterem pro vytváření přenositelných a interoperabilních znalostních bází. Cílem je umožnit AI systémům snadno konzumovat a sdílet kontext napříč různými systémy a organizacemi bez nutnosti komplexních integrací.
-
-Zdroj: https://medium.com/@tahirbalarabe2/what-is-open-knowledge-format-okf-270b20791802</itunes:summary>
-   <pubDate>Sat, 25 Jul 2026 12:04:22 GMT</pubDate>
-   <guid isPermaLink="false">1ehNRZbdmYJA9K4VAS6XSR0vn0BmcxPd0</guid>
-   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ehNRZbdmYJA9K4VAS6XSR0vn0BmcxPd0" length="3962638" type="audio/mp4"/>
-   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1BJcvIp6F7JIjSsuieaSzSgeiyEU_t8oj"/>
  </item>
 </channel></rss>
