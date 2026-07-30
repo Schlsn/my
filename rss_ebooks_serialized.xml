@@ -11,6 +11,72 @@
 <itunes:explicit>false</itunes:explicit>
 <itunes:image href="https://schlsn.github.io/my/podcast-artwork/ebooky-podcast-2d05762368c0.jpg" />
 <item>
+<title>Alchemy — 23: 1.9: Be Careful with Maths: Or Why the Need to Look Rational Can Make You Act Dumb</title>
+<description>Osobně bych raději řídil firmu bez matematiků než s matematiky druhé kategorie. Pamatujte si totiž, že kdykoliv cokoliv průměrujete, sčítáte nebo násobíte, přicházíte o cenné informace. A pamatujte si také, že jediná odlehlá hodnota dokáže způsobit mimořádné zkreslení reality – přesně tak, jako když Bill Gates vejde na fotbalový stadion a okamžitě tím zvedne průměrnou úroveň majetku každého člověka v hledišti o milion dolarů.
+
+Reklamní agentura, pro kterou pracuji, kdysi rozesílala poštovní nabídky pro jednoho charitativního klienta. Všimli jsme si, že jedno z výtvarných zpracování výrazně překonalo to druhé v čistém výnosu. Protože mezi oběma variantami nebyl velký rozdíl, rozsah tohoto rozdílu ve výsledcích nás překvapil. Když jsme to začali zkoumat, zjistili jsme, že jeden člověk odpověděl šekem na padesát tisíc liber. Jedna jediná odlehlá hodnota dokázala vytvořit iluzi obrovského rozdílu.
+
+Podívejme se na další příklad toho, jak může jediný chybný údaj vést k šíleným závěrům, pokud mu nerozumíme v řádném kontextu. Mám palivovou kartu, kterou platím za benzín do auta, a při každém tankování zadávám na platebním terminálu stav tachometru. Po roce začala společnost vydávající palivové karty uvádět na mé měsíční výpisy průměrnou spotřebu paliva na ujetou vzdálenost. Byla to pěkná myšlenka, jenže mě začala přivádět k šílenství, protože moje auto bylo každý měsíc méně a méně úsporné. Dlouho jsem nad tím lámal hlavu, strachoval se z úniku paliva, a dokonce přemýšlel, zda mi někdo neodčerpává benzín z nádrže.
+
+Pak jsem si ale vzpomněl: krátce poté, co mi firma palivovou kartu dala, jsem na ni jednou zapomněl a místo toho zaplatil běžnou kreditní kartou. To znamenalo, že podle údajů v databázi karty jsem v jednom období ujel vzdálenost dvou plných nádrží na jednu jedinou nádrž. Protože tato anomálie stále ležela v databázi, každý následující odjetý měsíc dělal mé statistiky spotřeby horší a horší, jak jsem se vracel k průměru. Jediný anomální datový bod způsobil, že všechny ostatní údaje byly zavádějící.
+
+Ale vraťme se k mé předchozí myšlence. V matematice je desetkrát jedna vždycky to samé jako jednatkrát deset. Jenže v reálném životě to platí jen málokdy. Můžete deset lidí napálit jednou, ale napálit jednoho člověka desetkrát za sebou je o dost těžší.
+
+Na kolika dalších věcech jsou však podobné předpoklady postaveny? Představte si na moment paralelní vesmír, ve kterém by nebyly vynalezeny obchody a veškerý obchod by probíhal online. To se může zdát jako fantastická představa, ale víceméně to popisuje americký venkov před sto lety. V roce 1919 představovaly tištěné katalogy společností Sears, Roebuck a Montgomery Ward pro padesát dva procent Američanů ve venkovských oblastech hlavní způsob, jak nakoupit cokoliv vzdáleně exotického. V tomto roce utratili Američané za zásilkové nákupy přes pět set milionů dolarů, z čehož polovina připadala právě na tyto dvě firmy.
+
+Přesto v roce 1925 společnost Sears otevřela svůj první kamenný obchod. Do roku 1929 jich obě firmy dohromady otevřely dalších osm set. Nákup sítě Whole Foods společností Amazon je možná jen opakováním historie.
+
+Online nakupování je totiž velmi dobrý způsob, jak si může deset lidí koupit jednu věc. Není to ale dobrý způsob, jak si může jeden člověk koupit deset věcí najednou. Zkuste si koupit deset různých věcí současně online a nastane chaos. Zboží dorazí ve čtyřech různých dnech, dodávkové vozy se u vašeho domu objevují v různou dobu a jedno doručení vždycky selže.
+
+Naopak skvělá věc na řetězci Walmart, kterou investoři mají tendenci přehlížet, spočívá v tom, že lidé přijedou, nakoupí čtyřicet sedm různých věcí a pak si je na vlastní náklady odvezou domů. Amazon může být velmi velkým podnikem, pokud prodává jednu věc čtyřiceti sedmi lidem. Pokud ale nedokáže prodat čtyřicet sedm věcí jednomu člověku, existuje strop pro to, jak velký může být.
+
+Mnohé další matematické modely zahrnující lidi dělají tu chybu, že předpokládají, že desetkrát jedna se rovná jednatkrát deset. Náš daňový systém například předpokládá, že deset lidí, kteří vydělají sedmdesát tisíc liber za jeden rok svého života, by mělo být zdaněno stejnou částkou jako jeden člověk, který vydělává sedmdesát tisíc liber deset po sobě jdoucích let. Přitom jsem nikdy neslyšel, že by to někdo zpochybňoval. Je to další příklad špatné matematiky?
+
+Nedávno jsem se účastnil diskuse o přeplněnosti vlaků. Metriky opět nerozlišují mezi deseti lidmi, kteří musejí stát deset procent času, a jedním člověkem, který musí stát po celou dobu. Tyto dvě věci ale nejsou ani trochu stejné. Pokud jsem příležitostný cestující a musím stát jednou za měsíc, budiž. Pokud jsem ale zaplatil tři tisíce liber za časovou jízdenku a nikdy jsem nedostal místo k sezení, cítil bych se okraden.
+
+Když problém přeformulujeme tímto způsobem, stane se snáze řešitelným. Proč nevypravit každý den dva vlaky v každém směru výhradně pro držitele časových jízdenek? Nebo jim nedat právo sedět v první třídě, když je druhá třída plná? Nebo ještě lépe: rozšířit první třídu a dovolit všem držitelům časových jízdenek v ní sedět.
+
+Problém přeplněnosti vlaků jste tím sice nevyřešili, ale vyřešili jste ho pro ty, kteří jsou jím nejvíce postiženi. A to je to, na čem skutečně záleží.
+
+Zdroj: https://drive.google.com/file/d/17C2Xyxu8sbBlJDZ81QzOGsmpXHnCyeIZ/view</description>
+<itunes:summary>Osobně bych raději řídil firmu bez matematiků než s matematiky druhé kategorie. Pamatujte si totiž, že kdykoliv cokoliv průměrujete, sčítáte nebo násobíte, přicházíte o cenné informace. A pamatujte si také, že jediná odlehlá hodnota dokáže způsobit mimořádné zkreslení reality – přesně tak, jako když Bill Gates vejde na fotbalový stadion a okamžitě tím zvedne průměrnou úroveň majetku každého člověka v hledišti o milion dolarů.
+
+Reklamní agentura, pro kterou pracuji, kdysi rozesílala poštovní nabídky pro jednoho charitativního klienta. Všimli jsme si, že jedno z výtvarných zpracování výrazně překonalo to druhé v čistém výnosu. Protože mezi oběma variantami nebyl velký rozdíl, rozsah tohoto rozdílu ve výsledcích nás překvapil. Když jsme to začali zkoumat, zjistili jsme, že jeden člověk odpověděl šekem na padesát tisíc liber. Jedna jediná odlehlá hodnota dokázala vytvořit iluzi obrovského rozdílu.
+
+Podívejme se na další příklad toho, jak může jediný chybný údaj vést k šíleným závěrům, pokud mu nerozumíme v řádném kontextu. Mám palivovou kartu, kterou platím za benzín do auta, a při každém tankování zadávám na platebním terminálu stav tachometru. Po roce začala společnost vydávající palivové karty uvádět na mé měsíční výpisy průměrnou spotřebu paliva na ujetou vzdálenost. Byla to pěkná myšlenka, jenže mě začala přivádět k šílenství, protože moje auto bylo každý měsíc méně a méně úsporné. Dlouho jsem nad tím lámal hlavu, strachoval se z úniku paliva, a dokonce přemýšlel, zda mi někdo neodčerpává benzín z nádrže.
+
+Pak jsem si ale vzpomněl: krátce poté, co mi firma palivovou kartu dala, jsem na ni jednou zapomněl a místo toho zaplatil běžnou kreditní kartou. To znamenalo, že podle údajů v databázi karty jsem v jednom období ujel vzdálenost dvou plných nádrží na jednu jedinou nádrž. Protože tato anomálie stále ležela v databázi, každý následující odjetý měsíc dělal mé statistiky spotřeby horší a horší, jak jsem se vracel k průměru. Jediný anomální datový bod způsobil, že všechny ostatní údaje byly zavádějící.
+
+Ale vraťme se k mé předchozí myšlence. V matematice je desetkrát jedna vždycky to samé jako jednatkrát deset. Jenže v reálném životě to platí jen málokdy. Můžete deset lidí napálit jednou, ale napálit jednoho člověka desetkrát za sebou je o dost těžší.
+
+Na kolika dalších věcech jsou však podobné předpoklady postaveny? Představte si na moment paralelní vesmír, ve kterém by nebyly vynalezeny obchody a veškerý obchod by probíhal online. To se může zdát jako fantastická představa, ale víceméně to popisuje americký venkov před sto lety. V roce 1919 představovaly tištěné katalogy společností Sears, Roebuck a Montgomery Ward pro padesát dva procent Američanů ve venkovských oblastech hlavní způsob, jak nakoupit cokoliv vzdáleně exotického. V tomto roce utratili Američané za zásilkové nákupy přes pět set milionů dolarů, z čehož polovina připadala právě na tyto dvě firmy.
+
+Přesto v roce 1925 společnost Sears otevřela svůj první kamenný obchod. Do roku 1929 jich obě firmy dohromady otevřely dalších osm set. Nákup sítě Whole Foods společností Amazon je možná jen opakováním historie.
+
+Online nakupování je totiž velmi dobrý způsob, jak si může deset lidí koupit jednu věc. Není to ale dobrý způsob, jak si může jeden člověk koupit deset věcí najednou. Zkuste si koupit deset různých věcí současně online a nastane chaos. Zboží dorazí ve čtyřech různých dnech, dodávkové vozy se u vašeho domu objevují v různou dobu a jedno doručení vždycky selže.
+
+Naopak skvělá věc na řetězci Walmart, kterou investoři mají tendenci přehlížet, spočívá v tom, že lidé přijedou, nakoupí čtyřicet sedm různých věcí a pak si je na vlastní náklady odvezou domů. Amazon může být velmi velkým podnikem, pokud prodává jednu věc čtyřiceti sedmi lidem. Pokud ale nedokáže prodat čtyřicet sedm věcí jednomu člověku, existuje strop pro to, jak velký může být.
+
+Mnohé další matematické modely zahrnující lidi dělají tu chybu, že předpokládají, že desetkrát jedna se rovná jednatkrát deset. Náš daňový systém například předpokládá, že deset lidí, kteří vydělají sedmdesát tisíc liber za jeden rok svého života, by mělo být zdaněno stejnou částkou jako jeden člověk, který vydělává sedmdesát tisíc liber deset po sobě jdoucích let. Přitom jsem nikdy neslyšel, že by to někdo zpochybňoval. Je to další příklad špatné matematiky?
+
+Nedávno jsem se účastnil diskuse o přeplněnosti vlaků. Metriky opět nerozlišují mezi deseti lidmi, kteří musejí stát deset procent času, a jedním člověkem, který musí stát po celou dobu. Tyto dvě věci ale nejsou ani trochu stejné. Pokud jsem příležitostný cestující a musím stát jednou za měsíc, budiž. Pokud jsem ale zaplatil tři tisíce liber za časovou jízdenku a nikdy jsem nedostal místo k sezení, cítil bych se okraden.
+
+Když problém přeformulujeme tímto způsobem, stane se snáze řešitelným. Proč nevypravit každý den dva vlaky v každém směru výhradně pro držitele časových jízdenek? Nebo jim nedat právo sedět v první třídě, když je druhá třída plná? Nebo ještě lépe: rozšířit první třídu a dovolit všem držitelům časových jízdenek v ní sedět.
+
+Problém přeplněnosti vlaků jste tím sice nevyřešili, ale vyřešili jste ho pro ty, kteří jsou jím nejvíce postiženi. A to je to, na čem skutečně záleží.
+
+Zdroj: https://drive.google.com/file/d/17C2Xyxu8sbBlJDZ81QzOGsmpXHnCyeIZ/view</itunes:summary>
+<link>https://drive.google.com/file/d/17C2Xyxu8sbBlJDZ81QzOGsmpXHnCyeIZ/view</link>
+<itunes:image href="https://schlsn.github.io/my/podcast-artwork/alchemy-9f3fc374a2a4.png" />
+<itunes:duration>326</itunes:duration>
+<itunes:season>24</itunes:season>
+<itunes:episode>23</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<enclosure url="https://drive.google.com/uc?id=1Yc12nUc4DQS0-y4BaSXt7hosZk5IJTfv&amp;export=download" length="4369757" type="audio/mp4" />
+<pubDate>Tue, 28 Jul 2026 03:13:32 +0000</pubDate>
+<guid isPermaLink="false">1Yc12nUc4DQS0-y4BaSXt7hosZk5IJTfv</guid>
+</item>
+<item>
 <title>Alchemy — 22: 1.8: ‘A Change in Perspective Is Worth 80 IQ Points’</title>
 <description>„Změna perspektivy má cenu osmdesáti bodů IQ.“ Tak to alespoň prohlásil Alan Kay, jeden z průkopníků počítačové grafiky, a je to možná ta nejlepší obhajoba lidské tvořivosti vyjádřená v méně než deseti slovech. Mám však silné podezření, že pravdivý je i přesný opak: neschopnost změnit úhel pohledu odpovídá okamžitému poklesu inteligence.
 
