@@ -11,6 +11,104 @@
 <itunes:explicit>false</itunes:explicit>
 <itunes:image href="https://schlsn.github.io/my/podcast-artwork/ebooky-podcast-2d05762368c0.jpg" />
 <item>
+<title>Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success — 3: Chapter One: Building Growth Teams</title>
+<description>V roce 2012 stál BitTorrent na křižovatce. Růst jeho slavného desktopového softwaru se zastavil. Lidé hromadně přecházeli na chytré telefony a čas i pozornost jim začaly brát služby jako YouTube nebo Netflix. Do firmy přišel nový ředitel produktového managementu Pramod Sokke s jasným úkolem: postavit mobilní aplikaci a znovu zažehnout růst.
+
+BitTorrent fungoval tak, jako většina tehdejších i dnešních firem – v oddělených silách. Vývojáři a produktoví manažeři stavěli aplikaci, zatímco marketingový tým seděl opodál a staral se o jediné: přivést na web nebo do obchodu nové uživatele. Jakmile byla nová mobilní aplikace hotová, marketing spustil klasickou kampaň. Tiskové zprávy, sociální sítě, placená reklama. Aplikace byla skvělá, kampaň silná, ale výsledky? Vlažné.
+
+Pramod se proto rozhodl přivést specialistku na produktový marketing Annabell Satterfield. Její šéf v marketingu jí dal jasný pokyn: nejprve splň naše marketingové cíle a přiveď nové zákazníky. Teprve až to bude hotové, můžeš si hrát s produktem.
+
+Annabell se ale pustila do zjišťování dat a hovorů s uživateli. A to, co objevila, přímo protiřečilo pokynům jejího šéfa. Největší příležitosti k růstu totiž neležely nahoře v trychtýři, tedy v získávání nových lidí, ale hluboko uvnitř produktu. Mobilní aplikace byla zdarma, ale existovala i placená verze Pro. Annabell rozposlala neplatícím uživatelům jednoduchý dotazník s otázkou, proč si placenou verzi nekoupili. Produktový tým měl desítky složitých teorií. Nejobvyklejší odpověď je ale všechny šokovala. Zněla: My jsme vůbec nevěděli, že nějaká placená verze existuje.
+
+Vývojáři si mysleli, že placenou verzi propagují agresivně, ale uživatelé si výzev k nákupu jednoduše nevšimli. Tým reagoval okamžitě. Na hlavní obrazovku přidal jedno výrazné tlačítko s výzvou k upgradu. Změna trvala pár dní a stála nula korun. Výsledek? Okamžitý nárůst denních tržeb z upgradů o 92 procent.
+
+Brzy následoval další úspěch. Annabell si všimla, že denní počet stažení aplikace na Google Play prudce padá pokaždé, když se na prvních místech objeví negativní recenze. Společně s Pramodem vytvořili takzvaný milostný hack. Naprogramovali výzvu, která uživatele požádala o hodnocení přesně ve chvíli, kdy dokončil stažení svého prvního souboru – tedy v momentě, kdy byl z aplikace nejvíce nadšený. Počet čtyř- a pětihvězdičkových recenzí vzrostl o 900 procent a stažení aplikace vyletěla vzhůru. V tu chvíli přišel za Annabell jeden z inženýrů a zeptal se: Máš ještě nějaké nápady? Co dalšího můžeme udělat?
+
+Tento příběh z BitTorrentu ukazuje něco, co je v korporátním světě bohužel extrémně vzácné: hlubokou spolupráci mezi vývojem, marketingem a datovou analytikou. Ve většině firem vládne izolace. Studie společnosti McKinsey ukázala, že osmdesát procent vedoucích pracovníků považuje sdílení znalostí napříč odděleními za klíčové pro růst, ale jen čtvrtina z nich popsanou spolupráci ve vlastní firmě reálně vidí. Výzkumníci z Harvardu dokonce zjistili, že dva lidé ze stejného oddělení spolu komunikují tisíckrát častěji než dva kolegové z jiných úseků.
+
+Tradiční sila brzdí inovace. Vývojáři a produktoví designéři dokážou vymyslet úžasná řešení, ale často jednoduše nevědí, co zákazníci skutečně potřebují a za co jsou ochotni platit. Řešením tohoto problému je vytvoření takzvaného růstového týmu – tedy multidisciplinární skupiny lidí, kteří společně bourají zdi mezi odděleními.
+
+Jak takový růstový tým vypadá v praxi? Není to otázka jedné profese. Ideální tým propojuje znalost byznysu, datovou analytiku a inženýrskou schopnost rychle měnit produkt a testovat hypotézy. Velikost týmu se může pohybovat od pěti lidí ve start-upu až po více než stovku specialistů ve firmách jako LinkedIn.
+
+Srdcem každého růstového týmu je jeho lídr, takzvaný Growth Lead. Představte si ho jako polního velitele, který kombinuje roli manažera, produktového vlastníka a vědce. Určuje hlavní zaměření týmu a drží tempo experimentů. Každý týden řídí pravidelné růstové schůzky a dohlíží na to, aby se tým nenechal rozptýlit nápady, které nesměřují k aktuálnímu cíli. Správný lídr rozumí datům, vývoji produktu i psychologii uživatelů. A především dokáže udržet morálku a nadšení i ve chvílích, kdy experimenty selžou. Slepé uličky a nefunkční testy jsou totiž běžnou součástí růstového procesu.
+
+Druhým klíčovým hráčem je produktový manažer, který bývá označován za generálního ředitele daného produktu. Propojuje priority firmy s realitou vývoje.
+
+Nezastupitelnou roli mají softwaroví inženýři. Růstový hacking vyrůstá ze samotné podstaty inženýrského myšlení – z hledání inovativních technických řešení. V BitTorrentu to byli právě vývojáři, kteří na základě dotazníku navrhli novou funkci pro placenou verzi Pro: automatické vypnutí stahování na pozadí, pokud baterie telefonu klesne pod 35 procent. Tato funkce pro úsporu baterie oslovila náročné uživatele a zvedla tržby o dalších 47 procent. Pokud vývojáře zavřete do role pouhých vykonavatelů cizích zadání, přicházíte o jejich obrovský kreativní potenciál.
+
+Tým doplňují marketingoví specialisté, kteří přinášejí znalost akvizičních kanálů a textace, datoví analytici, kteří dokážou správně navrhnout statisticky platné testy a číst v uživatelském chování, a produktoví designéři, kteří bdí nad uživatelským zážitkem a zrychlují realizaci nápadů.
+
+Jak celý proces funguje v praxi? Růstový hacking je neustálý cyklus čtyř kroků. Prvním krokem je analýza dat a sběr poznatků. Druhým krokem je generování nápadů. Třetím krokem je prioritizace experimentů a čtvrtým jejich samotné spuštění. Následuje vyhodnocení výsledků a návrat na začátek. Tým se schází jednou týdně na krátké, intenzivní schůzce. Rychle opouští neúspěšné pokusy, investuje do nadějných směrů a sčítá malá i velká vítězství.
+
+Aby ale růstový tým mohl fungovat, potřebuje jednu zcela zásadní podmínku: přímou podporu nejvyššího vedení. Růst nemůže být vedlejším projektem zkoušeným po večerech. Bez silného sponzora v nejvyšším vedení narazí tým na byrokracii, obranu vlastních pískovišť a korporátní setrvačnost.
+
+Skvělým příkladem je Mark Zuckerberg. Když mu v roce 2005 jeden z prvních zaměstnanců Facebooku navrhl nápad na generování tržeb, Zuckerberg ho přerušil, vstal a na tabuli napsal obřími písmeny jediné slovo: RŮST. Dala se přednost rozšiřování uživatelské základny před okamžitým ziskem. Podobně Spencer Rascoff, ředitel realitního portálu Zillow, dokázal sjednotit celou firmu kolem ročních růstových iniciativ. Když Zillow prohrával v neplaceném vyhledávání s konkurentem Trulia, vyhlásil optimalizaci pro vyhledávače jako hlavní úkol pro všechny týmy. Zillow nakonec Trulii překonal a v roce 2015 ji koupil za tři miliardy dolarů.
+
+V praxi se růstové týmy nejčastěji organizují dvěma způsoby. Prvním je produktově vedený model, kde růstový tým podléhá vedení daného produktu. Tento přístup využívají společnosti jako Pinterest, Twitter nebo Dropbox. V Pinterestu například jeden ze specializovaných týmů testuje výhradně frekvenci a obsah e-mailů a mobilních notifikací. Vytvořili dokonce algoritmický nástroj Copytune, který v reálném čase testuje desítky variant zpráv ve více než třiceti jazycích a na web přivádí miliony aktivních uživatelů.
+
+Druhým modelem je nezávislý růstový tým, který stojí mimo tradiční produktové struktury a zodpovídá se přímo řediteli růstu nebo generálnímu řediteli. Tento model využívá například Uber nebo Facebook. Nezávislý tým má volnou ruku k experimentům napříč všemi produkty a může hledat příležitosti i mimo stávající portfolio. Příkladem ze světa tradičního obchodu je společnost Walmart, která v Silicon Valley koupila inovační centrum a vytvořila z něj samostatnou divizi zaměřenou na digitální růst.
+
+Zavedení růstového týmu se málokdy obejde bez vnitřního odporu. Značkaři se bojí o změnu tónu komunikace, designéři se obávají narušení estetiky a vývojáři nechtějí ztrácet čas s testy, které mohou selhat. Nejlepším lékem na tento odpor jsou tvrdá data. Data dokážou zničit takzvané firemní mýty – zažité představy o tom, co zákazníci chtějí. Ve společnosti Qualaroo panovala skálopevná víra, že firma nemůže zdražit. Když ale růstový tým spustil cenový test, data ukázala, že ceny lze zvýšit o více než čtyři sta procent, aniž by to zastavilo příliv nových platících zákazníků.
+
+Pokud chcete s růstovým hackingem začít, nezkoušejte změnit celou firmu přes noc. Začněte v malém. Vytvořte malý tým pro jeden produkt, jednu konkrétní fázi zákaznického trychtýře nebo jednu metriku. Učiňte z malých vítězství nakažlivý příklad pro ostatní.
+
+Před všemi experimenty a škálováním však leží jedno klíčové varování, na které autoři důrazně upozorňují. Žádné rychlé testování ani agresivní marketing nenahradí produkt, který lidé nemilují. Pokud váš produkt není pro zákazníky skutečně nezbytný a neřeší jejich reálnou potřebu, jakékoliv úsilí o růst dříve či později narazí do zdi. Než tedy zařadíte vyšší rychlostní stupeň, musíte si být jisti tím nejzákladnějším: že držíte v rukou produkt, bez kterého se vaši uživatelé už nechtějí obejít.
+
+Zdroj: https://drive.google.com/file/d/11x-05-J7nSspW0tIyeCEX6wewfP-UJ4J/view</description>
+<itunes:summary>V roce 2012 stál BitTorrent na křižovatce. Růst jeho slavného desktopového softwaru se zastavil. Lidé hromadně přecházeli na chytré telefony a čas i pozornost jim začaly brát služby jako YouTube nebo Netflix. Do firmy přišel nový ředitel produktového managementu Pramod Sokke s jasným úkolem: postavit mobilní aplikaci a znovu zažehnout růst.
+
+BitTorrent fungoval tak, jako většina tehdejších i dnešních firem – v oddělených silách. Vývojáři a produktoví manažeři stavěli aplikaci, zatímco marketingový tým seděl opodál a staral se o jediné: přivést na web nebo do obchodu nové uživatele. Jakmile byla nová mobilní aplikace hotová, marketing spustil klasickou kampaň. Tiskové zprávy, sociální sítě, placená reklama. Aplikace byla skvělá, kampaň silná, ale výsledky? Vlažné.
+
+Pramod se proto rozhodl přivést specialistku na produktový marketing Annabell Satterfield. Její šéf v marketingu jí dal jasný pokyn: nejprve splň naše marketingové cíle a přiveď nové zákazníky. Teprve až to bude hotové, můžeš si hrát s produktem.
+
+Annabell se ale pustila do zjišťování dat a hovorů s uživateli. A to, co objevila, přímo protiřečilo pokynům jejího šéfa. Největší příležitosti k růstu totiž neležely nahoře v trychtýři, tedy v získávání nových lidí, ale hluboko uvnitř produktu. Mobilní aplikace byla zdarma, ale existovala i placená verze Pro. Annabell rozposlala neplatícím uživatelům jednoduchý dotazník s otázkou, proč si placenou verzi nekoupili. Produktový tým měl desítky složitých teorií. Nejobvyklejší odpověď je ale všechny šokovala. Zněla: My jsme vůbec nevěděli, že nějaká placená verze existuje.
+
+Vývojáři si mysleli, že placenou verzi propagují agresivně, ale uživatelé si výzev k nákupu jednoduše nevšimli. Tým reagoval okamžitě. Na hlavní obrazovku přidal jedno výrazné tlačítko s výzvou k upgradu. Změna trvala pár dní a stála nula korun. Výsledek? Okamžitý nárůst denních tržeb z upgradů o 92 procent.
+
+Brzy následoval další úspěch. Annabell si všimla, že denní počet stažení aplikace na Google Play prudce padá pokaždé, když se na prvních místech objeví negativní recenze. Společně s Pramodem vytvořili takzvaný milostný hack. Naprogramovali výzvu, která uživatele požádala o hodnocení přesně ve chvíli, kdy dokončil stažení svého prvního souboru – tedy v momentě, kdy byl z aplikace nejvíce nadšený. Počet čtyř- a pětihvězdičkových recenzí vzrostl o 900 procent a stažení aplikace vyletěla vzhůru. V tu chvíli přišel za Annabell jeden z inženýrů a zeptal se: Máš ještě nějaké nápady? Co dalšího můžeme udělat?
+
+Tento příběh z BitTorrentu ukazuje něco, co je v korporátním světě bohužel extrémně vzácné: hlubokou spolupráci mezi vývojem, marketingem a datovou analytikou. Ve většině firem vládne izolace. Studie společnosti McKinsey ukázala, že osmdesát procent vedoucích pracovníků považuje sdílení znalostí napříč odděleními za klíčové pro růst, ale jen čtvrtina z nich popsanou spolupráci ve vlastní firmě reálně vidí. Výzkumníci z Harvardu dokonce zjistili, že dva lidé ze stejného oddělení spolu komunikují tisíckrát častěji než dva kolegové z jiných úseků.
+
+Tradiční sila brzdí inovace. Vývojáři a produktoví designéři dokážou vymyslet úžasná řešení, ale často jednoduše nevědí, co zákazníci skutečně potřebují a za co jsou ochotni platit. Řešením tohoto problému je vytvoření takzvaného růstového týmu – tedy multidisciplinární skupiny lidí, kteří společně bourají zdi mezi odděleními.
+
+Jak takový růstový tým vypadá v praxi? Není to otázka jedné profese. Ideální tým propojuje znalost byznysu, datovou analytiku a inženýrskou schopnost rychle měnit produkt a testovat hypotézy. Velikost týmu se může pohybovat od pěti lidí ve start-upu až po více než stovku specialistů ve firmách jako LinkedIn.
+
+Srdcem každého růstového týmu je jeho lídr, takzvaný Growth Lead. Představte si ho jako polního velitele, který kombinuje roli manažera, produktového vlastníka a vědce. Určuje hlavní zaměření týmu a drží tempo experimentů. Každý týden řídí pravidelné růstové schůzky a dohlíží na to, aby se tým nenechal rozptýlit nápady, které nesměřují k aktuálnímu cíli. Správný lídr rozumí datům, vývoji produktu i psychologii uživatelů. A především dokáže udržet morálku a nadšení i ve chvílích, kdy experimenty selžou. Slepé uličky a nefunkční testy jsou totiž běžnou součástí růstového procesu.
+
+Druhým klíčovým hráčem je produktový manažer, který bývá označován za generálního ředitele daného produktu. Propojuje priority firmy s realitou vývoje.
+
+Nezastupitelnou roli mají softwaroví inženýři. Růstový hacking vyrůstá ze samotné podstaty inženýrského myšlení – z hledání inovativních technických řešení. V BitTorrentu to byli právě vývojáři, kteří na základě dotazníku navrhli novou funkci pro placenou verzi Pro: automatické vypnutí stahování na pozadí, pokud baterie telefonu klesne pod 35 procent. Tato funkce pro úsporu baterie oslovila náročné uživatele a zvedla tržby o dalších 47 procent. Pokud vývojáře zavřete do role pouhých vykonavatelů cizích zadání, přicházíte o jejich obrovský kreativní potenciál.
+
+Tým doplňují marketingoví specialisté, kteří přinášejí znalost akvizičních kanálů a textace, datoví analytici, kteří dokážou správně navrhnout statisticky platné testy a číst v uživatelském chování, a produktoví designéři, kteří bdí nad uživatelským zážitkem a zrychlují realizaci nápadů.
+
+Jak celý proces funguje v praxi? Růstový hacking je neustálý cyklus čtyř kroků. Prvním krokem je analýza dat a sběr poznatků. Druhým krokem je generování nápadů. Třetím krokem je prioritizace experimentů a čtvrtým jejich samotné spuštění. Následuje vyhodnocení výsledků a návrat na začátek. Tým se schází jednou týdně na krátké, intenzivní schůzce. Rychle opouští neúspěšné pokusy, investuje do nadějných směrů a sčítá malá i velká vítězství.
+
+Aby ale růstový tým mohl fungovat, potřebuje jednu zcela zásadní podmínku: přímou podporu nejvyššího vedení. Růst nemůže být vedlejším projektem zkoušeným po večerech. Bez silného sponzora v nejvyšším vedení narazí tým na byrokracii, obranu vlastních pískovišť a korporátní setrvačnost.
+
+Skvělým příkladem je Mark Zuckerberg. Když mu v roce 2005 jeden z prvních zaměstnanců Facebooku navrhl nápad na generování tržeb, Zuckerberg ho přerušil, vstal a na tabuli napsal obřími písmeny jediné slovo: RŮST. Dala se přednost rozšiřování uživatelské základny před okamžitým ziskem. Podobně Spencer Rascoff, ředitel realitního portálu Zillow, dokázal sjednotit celou firmu kolem ročních růstových iniciativ. Když Zillow prohrával v neplaceném vyhledávání s konkurentem Trulia, vyhlásil optimalizaci pro vyhledávače jako hlavní úkol pro všechny týmy. Zillow nakonec Trulii překonal a v roce 2015 ji koupil za tři miliardy dolarů.
+
+V praxi se růstové týmy nejčastěji organizují dvěma způsoby. Prvním je produktově vedený model, kde růstový tým podléhá vedení daného produktu. Tento přístup využívají společnosti jako Pinterest, Twitter nebo Dropbox. V Pinterestu například jeden ze specializovaných týmů testuje výhradně frekvenci a obsah e-mailů a mobilních notifikací. Vytvořili dokonce algoritmický nástroj Copytune, který v reálném čase testuje desítky variant zpráv ve více než třiceti jazycích a na web přivádí miliony aktivních uživatelů.
+
+Druhým modelem je nezávislý růstový tým, který stojí mimo tradiční produktové struktury a zodpovídá se přímo řediteli růstu nebo generálnímu řediteli. Tento model využívá například Uber nebo Facebook. Nezávislý tým má volnou ruku k experimentům napříč všemi produkty a může hledat příležitosti i mimo stávající portfolio. Příkladem ze světa tradičního obchodu je společnost Walmart, která v Silicon Valley koupila inovační centrum a vytvořila z něj samostatnou divizi zaměřenou na digitální růst.
+
+Zavedení růstového týmu se málokdy obejde bez vnitřního odporu. Značkaři se bojí o změnu tónu komunikace, designéři se obávají narušení estetiky a vývojáři nechtějí ztrácet čas s testy, které mohou selhat. Nejlepším lékem na tento odpor jsou tvrdá data. Data dokážou zničit takzvané firemní mýty – zažité představy o tom, co zákazníci chtějí. Ve společnosti Qualaroo panovala skálopevná víra, že firma nemůže zdražit. Když ale růstový tým spustil cenový test, data ukázala, že ceny lze zvýšit o více než čtyři sta procent, aniž by to zastavilo příliv nových platících zákazníků.
+
+Pokud chcete s růstovým hackingem začít, nezkoušejte změnit celou firmu přes noc. Začněte v malém. Vytvořte malý tým pro jeden produkt, jednu konkrétní fázi zákaznického trychtýře nebo jednu metriku. Učiňte z malých vítězství nakažlivý příklad pro ostatní.
+
+Před všemi experimenty a škálováním však leží jedno klíčové varování, na které autoři důrazně upozorňují. Žádné rychlé testování ani agresivní marketing nenahradí produkt, který lidé nemilují. Pokud váš produkt není pro zákazníky skutečně nezbytný a neřeší jejich reálnou potřebu, jakékoliv úsilí o růst dříve či později narazí do zdi. Než tedy zařadíte vyšší rychlostní stupeň, musíte si být jisti tím nejzákladnějším: že držíte v rukou produkt, bez kterého se vaši uživatelé už nechtějí obejít.
+
+Zdroj: https://drive.google.com/file/d/11x-05-J7nSspW0tIyeCEX6wewfP-UJ4J/view</itunes:summary>
+<link>https://drive.google.com/file/d/11x-05-J7nSspW0tIyeCEX6wewfP-UJ4J/view</link>
+<itunes:image href="https://schlsn.github.io/my/podcast-artwork/hacking-growth-how-today-s-fastest-growing-companies-drive-breakout-success-7994b4787980.png" />
+<itunes:duration>579</itunes:duration>
+<itunes:season>23</itunes:season>
+<itunes:episode>3</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<enclosure url="https://drive.google.com/uc?id=1pj_PP4gVgoz053EaZXn3sXQKqYqfiT7s&amp;export=download" length="7728900" type="audio/mp4" />
+<pubDate>Tue, 28 Jul 2026 02:42:32 +0000</pubDate>
+<guid isPermaLink="false">1pj_PP4gVgoz053EaZXn3sXQKqYqfiT7s</guid>
+</item>
+<item>
 <title>Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success — 2: Introduction</title>
 <description>V roce 2008 zazvonil Seanovi Ellisovi telefon. Na druhém konci byl Drew Houston, zakladatel tehdy ročního startupu Dropbox. Jeho služba pro ukládání a sdílení souborů v cloudu měla skvělý start mezi technologickými nadšenci v Silicon Valley. Druhé předváděcí video se stalo hitem na síti Digg a čekací listina na betaverzi během okamžiku narostla z pěti tisíc na pětasedmdesát tisíc zájemců. Jenže po oficiálním spuštění se růst zastavil. Houston narazil na zeď a nevěděl, jak oslovit běžné uživatele mimo komunitu IT elity.
 
