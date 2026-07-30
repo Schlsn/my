@@ -10,6 +10,20 @@
 <itunes:image href="https://example.com/podcast-cover.jpg"/>
 
  <item>
+   <title>Kouzelníci v Porsche, hladová FIFA a Pražský hrad bez cetek</title>
+   <description>Tento newsletter přináší řadu aktuálních témat, od úspěchů Porsche a plánů FIFA, přes pozoruhodnou pozici EP Group v globálním žebříčku, až po nedávný incident s umělou inteligencí. Dále se dotýká českého realitního trhu, rozrostu řetězce Action, změn v Pražském hradu a exotické destinace Palmarola. Čtenáři získají přehled o ekonomických trendech, sportovních strategiích a zajímavých kulturních novinkách.
+
+Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</description>
+   <itunes:summary>Tento newsletter přináší řadu aktuálních témat, od úspěchů Porsche a plánů FIFA, přes pozoruhodnou pozici EP Group v globálním žebříčku, až po nedávný incident s umělou inteligencí. Dále se dotýká českého realitního trhu, rozrostu řetězce Action, změn v Pražském hradu a exotické destinace Palmarola. Čtenáři získají přehled o ekonomických trendech, sportovních strategiích a zajímavých kulturních novinkách.
+
+Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</itunes:summary>
+   <pubDate>Thu, 30 Jul 2026 06:40:47 GMT</pubDate>
+   <guid isPermaLink="false">1E1vOfVrWLkzCqcqUZvh6chvTKIeDV8VR</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1E1vOfVrWLkzCqcqUZvh6chvTKIeDV8VR" length="1373052" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=12lCFfUXh1IdXz-wkZQuI7w93VavkoQXH"/>
+ </item>
+
+ <item>
    <title>Vpředu byznys, vzadu hnojník. Miliardový pád WCA má pokračování</title>
    <description>V tomto vydání Forbes Espresso se zaměřuje na největší události českého i globálního trhu: pokračování kriminální kauzy WCA, obraty ve stavebnictví, akvizice software firem a rostoucí úspěch AI start‑upů. Dále přináší pohled na strategii finanční šéfkuchařky Uniqa, mezinárodní politické setkání v Bílém domě a neobvyklý propad akcií BMW. Čtenářům nabídne i přehled trendů ve wellness investicích a nový filmový projekt Spider‑Man.
 
@@ -272,19 +286,5 @@ Zdroj: https://medium.com/@tahirbalarabe2/automate-ai-second-brain-llm-wiki-patt
    <guid isPermaLink="false">1q-rPy9hFwxPIfOLj_5856RffONpgh_I1</guid>
    <enclosure url="https://drive.google.com/uc?export=download&amp;id=1q-rPy9hFwxPIfOLj_5856RffONpgh_I1" length="4177281" type="audio/mp4"/>
    <itunes:image href="https://drive.google.com/uc?export=download&amp;id=15vKzi2W3w_3Yuck7hr5QpvUQdQRUll8L"/>
- </item>
-
- <item>
-   <title>What is LLM Wiki Pattern? Persistent Knowledge with LLM Wikis | by Tahir | Medium</title>
-   <description>Článek představuje koncept LLM Wiki vzoru, který přesouvá správu znalostí z pouhého vyhledávání na kumulaci a kompilaci informací. Vysvětluje, jak velké jazykové modely (LLM) mohou působit jako „výzkumní asistenti“, kteří automaticky udržují a rozšiřují znalostní bázi ve formě wiki stránek z markdown souborů. Klade důraz na to, že LLM zvládají zdlouhavou údržbu, která by pro člověka byla příliš náročná. Cílem je vytvořit živou, křížově odkazovanou mapu poznání.
-
-Zdroj: https://medium.com/@tahirbalarabe2/what-is-llm-wiki-pattern-persistent-knowledge-with-llm-wikis-3227f561abc1</description>
-   <itunes:summary>Článek představuje koncept LLM Wiki vzoru, který přesouvá správu znalostí z pouhého vyhledávání na kumulaci a kompilaci informací. Vysvětluje, jak velké jazykové modely (LLM) mohou působit jako „výzkumní asistenti“, kteří automaticky udržují a rozšiřují znalostní bázi ve formě wiki stránek z markdown souborů. Klade důraz na to, že LLM zvládají zdlouhavou údržbu, která by pro člověka byla příliš náročná. Cílem je vytvořit živou, křížově odkazovanou mapu poznání.
-
-Zdroj: https://medium.com/@tahirbalarabe2/what-is-llm-wiki-pattern-persistent-knowledge-with-llm-wikis-3227f561abc1</itunes:summary>
-   <pubDate>Sat, 25 Jul 2026 12:11:59 GMT</pubDate>
-   <guid isPermaLink="false">10SJX1WIHY1epCkxnk89QIxackbsVRWkl</guid>
-   <enclosure url="https://drive.google.com/uc?export=download&amp;id=10SJX1WIHY1epCkxnk89QIxackbsVRWkl" length="5431361" type="audio/mp4"/>
-   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1IWqpYqeQ_VT18Vf6i0ROcUo3TiH0RFxw"/>
  </item>
 </channel></rss>
