@@ -10,6 +10,19 @@
 <itunes:image href="https://example.com/podcast-cover.jpg"/>
 
  <item>
+   <title>🦄 PPC Digest: AI agenti přebírají kampaně, leady i optimalizaci 🤖</title>
+   <description>Tento vydání PPC Digest přináší řadu nových funkcí a vylepšení od Googlu i Meta. Mezi hlavní body patří rozšíření témat v PMax kampaních, nová AI funkce v travel kampaních, vylepšení vizuální ukázky TEXT CUSTOMIZATION, report AI PERFORMANCE INSIGHTS v Merchant Center, zobrazení „HOW THIS AD WAS MADE“, rozšíření Shopping Ads do 14 zemí, testování AI generovaných shrnutí v Search, a příchod AI agenta do instantních formulářů Meta. Tyto aktualizace usnadňují optimalizaci kampaní a posilují využití umělé inteligence ve výpovědních nástrojích.
+
+Od: &quot;uLab&quot; &lt;brainfood@brainfood.ulab.rocks&gt;</description>
+   <itunes:summary>Tento vydání PPC Digest přináší řadu nových funkcí a vylepšení od Googlu i Meta. Mezi hlavní body patří rozšíření témat v PMax kampaních, nová AI funkce v travel kampaních, vylepšení vizuální ukázky TEXT CUSTOMIZATION, report AI PERFORMANCE INSIGHTS v Merchant Center, zobrazení „HOW THIS AD WAS MADE“, rozšíření Shopping Ads do 14 zemí, testování AI generovaných shrnutí v Search, a příchod AI agenta do instantních formulářů Meta. Tyto aktualizace usnadňují optimalizaci kampaní a posilují využití umělé inteligence ve výpovědních nástrojích.
+
+Od: &quot;uLab&quot; &lt;brainfood@brainfood.ulab.rocks&gt;</itunes:summary>
+   <pubDate>Fri, 31 Jul 2026 09:34:52 GMT</pubDate>
+   <guid isPermaLink="false">1yaKIftSn79CiWjHt2QFLDwbUutCFCBx3</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yaKIftSn79CiWjHt2QFLDwbUutCFCBx3" length="4258837" type="audio/mp4"/>
+ </item>
+
+ <item>
    <title>Klimatická změna nahrává Číně a úsvit firem bez zaměstnanců</title>
    <description>V tomto vydání Forbes Espresso se zaměřuje na dopady klimatických změn v Číně a globální obchod, popisuje nárůst firem s jediným zaměstnancem díky umělé inteligenci, upozorňuje na nová cla ohrožující levnou módní trh a přináší trendy v luxusním bydlení a rekordní spotřebu piva v ČR. Kultura a sport se objevují v rozhovoru s fyzioterapeutem a celebrity. Celkově je to kombinace ekonomických, ekologických a lifestyle témat.
 
@@ -271,19 +284,5 @@ Zdroj: https://www.jpmorgan.com/insights/technology/artificial-intelligence/powe
    <guid isPermaLink="false">1spFHzArQrbT9cRkhD_59Hf0IXnDUq-rs</guid>
    <enclosure url="https://drive.google.com/uc?export=download&amp;id=1spFHzArQrbT9cRkhD_59Hf0IXnDUq-rs" length="4178233" type="audio/mp4"/>
    <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1MmUUNEp4JlRSbRXzq19C14b0ay-GhE6-"/>
- </item>
-
- <item>
-   <title>Learning Transferable Visual Models From Natural Language Supervision</title>
-   <description>Tento výzkumný článek se zabývá omezenou obecností současných systémů počítačového vidění, které vyžadují předdefinované kategorie a dodatečná data pro nové vizuální koncepty. Navrhuje efektivní metodu předškolení vizuálních modelů, kde úkolem je předpovídat, který popisek patří k danému obrázku. Autoři využili dataset 400 milionů párů obrázků a textů z internetu k tréninku modelů schopných přenosu znalostí na jiné úlohy. Zkoumali výkon na více než 30 různých datových sadách počítačového vidění. Zjistili, že model dosahuje konkurenceschopných výsledků v režimu &quot;zero-shot&quot; transferu, často se vyrovnává plně dohlíženým baseline modelům.
-
-Zdroj: https://arxiv.org/abs/2103.00020</description>
-   <itunes:summary>Tento výzkumný článek se zabývá omezenou obecností současných systémů počítačového vidění, které vyžadují předdefinované kategorie a dodatečná data pro nové vizuální koncepty. Navrhuje efektivní metodu předškolení vizuálních modelů, kde úkolem je předpovídat, který popisek patří k danému obrázku. Autoři využili dataset 400 milionů párů obrázků a textů z internetu k tréninku modelů schopných přenosu znalostí na jiné úlohy. Zkoumali výkon na více než 30 různých datových sadách počítačového vidění. Zjistili, že model dosahuje konkurenceschopných výsledků v režimu &quot;zero-shot&quot; transferu, často se vyrovnává plně dohlíženým baseline modelům.
-
-Zdroj: https://arxiv.org/abs/2103.00020</itunes:summary>
-   <pubDate>Sat, 25 Jul 2026 12:31:11 GMT</pubDate>
-   <guid isPermaLink="false">1nwQPxMmNCXaFrvYMkxMpfFkH8qloU-e3</guid>
-   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nwQPxMmNCXaFrvYMkxMpfFkH8qloU-e3" length="2521146" type="audio/mp4"/>
-   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1s_qQc7QomXvf4dxOhZFZ2ACqu0YXO-bj"/>
  </item>
 </channel></rss>
