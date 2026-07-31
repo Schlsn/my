@@ -10,6 +10,19 @@
 <itunes:image href="https://example.com/podcast-cover.jpg"/>
 
  <item>
+   <title>Klimatická změna nahrává Číně a úsvit firem bez zaměstnanců</title>
+   <description>V tomto vydání Forbes Espresso se zaměřuje na dopady klimatických změn v Číně a globální obchod, popisuje nárůst firem s jediným zaměstnancem díky umělé inteligenci, upozorňuje na nová cla ohrožující levnou módní trh a přináší trendy v luxusním bydlení a rekordní spotřebu piva v ČR. Kultura a sport se objevují v rozhovoru s fyzioterapeutem a celebrity. Celkově je to kombinace ekonomických, ekologických a lifestyle témat.
+
+Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</description>
+   <itunes:summary>V tomto vydání Forbes Espresso se zaměřuje na dopady klimatických změn v Číně a globální obchod, popisuje nárůst firem s jediným zaměstnancem díky umělé inteligenci, upozorňuje na nová cla ohrožující levnou módní trh a přináší trendy v luxusním bydlení a rekordní spotřebu piva v ČR. Kultura a sport se objevují v rozhovoru s fyzioterapeutem a celebrity. Celkově je to kombinace ekonomických, ekologických a lifestyle témat.
+
+Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</itunes:summary>
+   <pubDate>Fri, 31 Jul 2026 06:56:13 GMT</pubDate>
+   <guid isPermaLink="false">1iDGfsxoNBiOOk9TeRbC1t9UEmCqyEIXl</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1iDGfsxoNBiOOk9TeRbC1t9UEmCqyEIXl" length="2360946" type="audio/mp4"/>
+ </item>
+
+ <item>
    <title>4 vibe marketing builds on automating websites, content &amp; quality checks</title>
    <description>Tento e‑mail představuje čtyři projekty, které ukazují, jak AI může automatizovat webovou tvorbu, SEO, audit kódu a tvorbu marketingových materiálů. Autor popisuje každou stavbu a zdůrazňuje roli člověka pouze při schvalování a rozhodování. Dále sdílí krátké tipy a odkazy na další zdroje.
 
@@ -272,19 +285,5 @@ Zdroj: https://arxiv.org/abs/2103.00020</itunes:summary>
    <guid isPermaLink="false">1nwQPxMmNCXaFrvYMkxMpfFkH8qloU-e3</guid>
    <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nwQPxMmNCXaFrvYMkxMpfFkH8qloU-e3" length="2521146" type="audio/mp4"/>
    <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1s_qQc7QomXvf4dxOhZFZ2ACqu0YXO-bj"/>
- </item>
-
- <item>
-   <title>Uiverse | The Largest Library of Open-Source UI elements</title>
-   <description>Uiverse je největší komunitní knihovna volně dostupných uživatelských rozhraní, umožňující kopíкыл, převzít a přizpůsobovat prvky přímo v HTML/CSS, Tailwind, React či Figma. Knihovna obsahuje 7 375 komponent vytvořených 346 547 přispěvateli a je zdarma pro osobní i komerční použití. Stránka nabízí vyhledávání a třídění dle značek, odkazy na jednotlivé prvky s příslušnými kódy a jednotné kopírovací tlačítka pro různé technologické stacky. Uživatelé mohou sdílet a upravovat kód online a komunikovat v Discord komunitě.
-
-Zdroj: https://uiverse.io/</description>
-   <itunes:summary>Uiverse je největší komunitní knihovna volně dostupných uživatelských rozhraní, umožňující kopíкыл, převzít a přizpůsobovat prvky přímo v HTML/CSS, Tailwind, React či Figma. Knihovna obsahuje 7 375 komponent vytvořených 346 547 přispěvateli a je zdarma pro osobní i komerční použití. Stránka nabízí vyhledávání a třídění dle značek, odkazy na jednotlivé prvky s příslušnými kódy a jednotné kopírovací tlačítka pro různé technologické stacky. Uživatelé mohou sdílet a upravovat kód online a komunikovat v Discord komunitě.
-
-Zdroj: https://uiverse.io/</itunes:summary>
-   <pubDate>Sat, 25 Jul 2026 12:27:30 GMT</pubDate>
-   <guid isPermaLink="false">1kK1r-_c9wTUPlYGDHzljoMWlOPTcKFUd</guid>
-   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1kK1r-_c9wTUPlYGDHzljoMWlOPTcKFUd" length="3671350" type="audio/mp4"/>
-   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1OXITdBfh4xzvgm_jKNVtYsDB8j3Xv6Xp"/>
  </item>
 </channel></rss>
