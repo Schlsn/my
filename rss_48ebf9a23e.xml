@@ -10,6 +10,34 @@
 <itunes:image href="https://example.com/podcast-cover.jpg"/>
 
  <item>
+   <title>4 vibe marketing builds on automating websites, content &amp; quality checks</title>
+   <description>Tento e‑mail představuje čtyři projekty, které ukazují, jak AI může automatizovat webovou tvorbu, SEO, audit kódu a tvorbu marketingových materiálů. Autor popisuje každou stavbu a zdůrazňuje roli člověka pouze při schvalování a rozhodování. Dále sdílí krátké tipy a odkazy na další zdroje.
+
+Od: The Vibe Marketer &lt;thevibemarketer@mail.beehiiv.com&gt;</description>
+   <itunes:summary>Tento e‑mail představuje čtyři projekty, které ukazují, jak AI může automatizovat webovou tvorbu, SEO, audit kódu a tvorbu marketingových materiálů. Autor popisuje každou stavbu a zdůrazňuje roli člověka pouze při schvalování a rozhodování. Dále sdílí krátké tipy a odkazy na další zdroje.
+
+Od: The Vibe Marketer &lt;thevibemarketer@mail.beehiiv.com&gt;</itunes:summary>
+   <pubDate>Thu, 30 Jul 2026 23:11:08 GMT</pubDate>
+   <guid isPermaLink="false">13cuFj7cF6oHdOu-Jce7oUh05dn_F8CRy</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=13cuFj7cF6oHdOu-Jce7oUh05dn_F8CRy" length="3629340" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1Ifc2GDefuzMvW0CjaeiwAHIFQLBvf3b2"/>
+ </item>
+
+ <item>
+   <title>4 vibe marketing builds on automating websites, content &amp; quality checks</title>
+   <description>V tomto vydání se Vibe Marketer zaměřuje na čtyři projekty, které ukazují, jak automatizace a AI mohou zefektivnit tvorbu webových stránek, obsahu a auditování. Popisuje, jak jednotliví tvůrci delegují úkoly na agenty a kontrolují výstupy pouze při schválení. Vysvětluje konkrétní nástroje a postupy, které umožňují rychlejší vydávání obsahu a zlepšení kvality kódu. Čtenářům přináší praktické příklady a odkazy na kódy a weby, kde mohou vidět výsledky.
+
+Od: The Vibe Marketer &lt;thevibemarketer@mail.beehiiv.com&gt;</description>
+   <itunes:summary>V tomto vydání se Vibe Marketer zaměřuje na čtyři projekty, které ukazují, jak automatizace a AI mohou zefektivnit tvorbu webových stránek, obsahu a auditování. Popisuje, jak jednotliví tvůrci delegují úkoly na agenty a kontrolují výstupy pouze při schválení. Vysvětluje konkrétní nástroje a postupy, které umožňují rychlejší vydávání obsahu a zlepšení kvality kódu. Čtenářům přináší praktické příklady a odkazy na kódy a weby, kde mohou vidět výsledky.
+
+Od: The Vibe Marketer &lt;thevibemarketer@mail.beehiiv.com&gt;</itunes:summary>
+   <pubDate>Thu, 30 Jul 2026 23:05:44 GMT</pubDate>
+   <guid isPermaLink="false">1rcYl1T8TeNP1vvo1F46Y-4Pw3uVoMAW1</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rcYl1T8TeNP1vvo1F46Y-4Pw3uVoMAW1" length="3300796" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1Ifc2GDefuzMvW0CjaeiwAHIFQLBvf3b2"/>
+ </item>
+
+ <item>
    <title>Kouzelníci v Porsche, hladová FIFA a Pražský hrad bez cetek</title>
    <description>Tento newsletter přináší řadu aktuálních témat, od úspěchů Porsche a plánů FIFA, přes pozoruhodnou pozici EP Group v globálním žebříčku, až po nedávný incident s umělou inteligencí. Dále se dotýká českého realitního trhu, rozrostu řetězce Action, změn v Pražském hradu a exotické destinace Palmarola. Čtenáři získají přehled o ekonomických trendech, sportovních strategiích a zajímavých kulturních novinkách.
 
@@ -258,33 +286,5 @@ Zdroj: https://uiverse.io/</itunes:summary>
    <guid isPermaLink="false">1kK1r-_c9wTUPlYGDHzljoMWlOPTcKFUd</guid>
    <enclosure url="https://drive.google.com/uc?export=download&amp;id=1kK1r-_c9wTUPlYGDHzljoMWlOPTcKFUd" length="3671350" type="audio/mp4"/>
    <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1OXITdBfh4xzvgm_jKNVtYsDB8j3Xv6Xp"/>
- </item>
-
- <item>
-   <title>baidu/Unlimited-OCR · Hugging Face</title>
-   <description>Unlimited-OCR je model vyvinutý společností Baidu, který si klade za cíl vylepšit optické rozpoznávání znaků (OCR) s dlouhým horizontem, navazující na Deepseek-OCR. Model je navržen pro efektivní zpracování dokumentů a podporuje jednorázovou analýzu rozsáhlého textu. Je schopen provádět inferenci na jednotlivých obrázcích, vícestránkových obrázcích i PDF souborech. Pro nasazení a použití jsou k dispozici různé metody inference a model je integrován na několika platformách.
-
-Zdroj: https://huggingface.co/baidu/Unlimited-OCR</description>
-   <itunes:summary>Unlimited-OCR je model vyvinutý společností Baidu, který si klade za cíl vylepšit optické rozpoznávání znaků (OCR) s dlouhým horizontem, navazující na Deepseek-OCR. Model je navržen pro efektivní zpracování dokumentů a podporuje jednorázovou analýzu rozsáhlého textu. Je schopen provádět inferenci na jednotlivých obrázcích, vícestránkových obrázcích i PDF souborech. Pro nasazení a použití jsou k dispozici různé metody inference a model je integrován na několika platformách.
-
-Zdroj: https://huggingface.co/baidu/Unlimited-OCR</itunes:summary>
-   <pubDate>Sat, 25 Jul 2026 12:21:31 GMT</pubDate>
-   <guid isPermaLink="false">1Ag7qAEZ7NrLEafyBbNcMKq53TjSDMXUe</guid>
-   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Ag7qAEZ7NrLEafyBbNcMKq53TjSDMXUe" length="2359073" type="audio/mp4"/>
-   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1DAQM91R5w_edIwzEIc5UB7JsXGriyqrY"/>
- </item>
-
- <item>
-   <title>Automate AI Second Brain(LLM Wiki Pattern) With Claude Code and Obsidian | by Tahir | Jun, 2026 | Medium</title>
-   <description>Tento článek popisuje, jak vytvořit automatizovaný systém pro správu znalostí, nazývaný „AI Second Brain“, s využitím nástrojů jako Claude Code a Obsidian. Autor vysvětluje, že místo pouhého ukládání informací by měl systém aktivně orientovat uživatele a spravovat jeho každodenní úkoly. Zdroj se zaměřuje na integraci živých dat, automatizaci procesů a význam zpětné vazby pro neustálé zlepšování systému. Cílem je transformovat poznámkový systém do plnohodnotného osobního operačního systému, který běží na pozadí.
-
-Zdroj: https://medium.com/@tahirbalarabe2/automate-ai-second-brain-llm-wiki-pattern-with-claude-code-and-obsidian-38bc07c9214e</description>
-   <itunes:summary>Tento článek popisuje, jak vytvořit automatizovaný systém pro správu znalostí, nazývaný „AI Second Brain“, s využitím nástrojů jako Claude Code a Obsidian. Autor vysvětluje, že místo pouhého ukládání informací by měl systém aktivně orientovat uživatele a spravovat jeho každodenní úkoly. Zdroj se zaměřuje na integraci živých dat, automatizaci procesů a význam zpětné vazby pro neustálé zlepšování systému. Cílem je transformovat poznámkový systém do plnohodnotného osobního operačního systému, který běží na pozadí.
-
-Zdroj: https://medium.com/@tahirbalarabe2/automate-ai-second-brain-llm-wiki-pattern-with-claude-code-and-obsidian-38bc07c9214e</itunes:summary>
-   <pubDate>Sat, 25 Jul 2026 12:17:56 GMT</pubDate>
-   <guid isPermaLink="false">1q-rPy9hFwxPIfOLj_5856RffONpgh_I1</guid>
-   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1q-rPy9hFwxPIfOLj_5856RffONpgh_I1" length="4177281" type="audio/mp4"/>
-   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=15vKzi2W3w_3Yuck7hr5QpvUQdQRUll8L"/>
  </item>
 </channel></rss>
