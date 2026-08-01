@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Jedna kniha za půl hodiny</title>
+<description>České poslechové adaptace naučných knih: jedna kniha, jedna epizoda, hlavní myšlenky, příklady a praktický krok přibližně za dvacet až třicet minut.</description>
+<language>cs</language>
+<link>https://schlsn.github.io/my/rss_ebooks_one_book.xml</link>
+<atom:link href="https://schlsn.github.io/my/rss_ebooks_one_book.xml" rel="self" type="application/rss+xml" />
+<itunes:type>episodic</itunes:type>
+<itunes:category text="Arts"><itunes:category text="Books" /></itunes:category>
+<itunes:explicit>false</itunes:explicit>
+<itunes:image href="https://schlsn.github.io/my/podcast-artwork/ebooky-podcast-2d05762368c0.jpg" />
+</channel>
+</rss>
