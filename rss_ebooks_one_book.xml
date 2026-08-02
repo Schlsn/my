@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Jedna kniha za půl hodiny</title>
+<title>Ebook in 30 Minutes</title>
 <description>České poslechové adaptace naučných knih: jedna kniha, jedna epizoda, hlavní myšlenky, příklady a praktický krok přibližně za dvacet až třicet minut.</description>
 <language>cs</language>
 <link>https://schlsn.github.io/my/rss_ebooks_one_book.xml</link>
@@ -9,7 +9,7 @@
 <itunes:type>episodic</itunes:type>
 <itunes:category text="Arts"><itunes:category text="Books" /></itunes:category>
 <itunes:explicit>false</itunes:explicit>
-<lastBuildDate>Sat, 01 Aug 2026 22:39:26 +0000</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 05:27:23 +0000</lastBuildDate>
 <itunes:image href="https://schlsn.github.io/my/podcast-artwork/ebooky-podcast-2d05762368c0.jpg" />
 <item>
 <title>Atomic Habits: An Easy &amp; Proven Way to Build Good Habits &amp; Break Bad Ones</title>
