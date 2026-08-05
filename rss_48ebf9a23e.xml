@@ -1,1 +1,288 @@
-<rss version="2.0"><channel><title>Soukromý podcast</title><link>https://schlsn.github.io/my/</link><description>Podcast pouze pro mě</description><language>cs</language><item><title>Game, set, match! S kým se spojil Křetínský v bitvě o West Ham? A co dávají českým tenistkám do vody?</title><enclosure url="https://drive.google.com/uc?export=download&amp;id=17mqRjBULIFX-fqYWZaZic8Fn8R8zKGfJ" type="audio/mpeg"></enclosure><guid>https://drive.google.com/uc?export=download&amp;id=17mqRjBULIFX-fqYWZaZic8Fn8R8zKGfJ</guid><pubDate>Wed, 05 Aug 2026 06:12:32 GMT</pubDate></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>Můj podcast</title>
+<link>https://schlsn.github.io/my/</link>
+<description>Automaticky generovaný RSS feed z Google Drive.</description>
+<language>cs</language>
+<itunes:author>Adam</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+<itunes:image href="https://example.com/podcast-cover.jpg"/>
+
+ <item>
+   <title>Game, set, match! S kým se spojil Křetínský v bitvě o West Ham? A co dávají českým tenistkám do vody?</title>
+   <description>V tomto vydání se Forbes Espresso věnuje českému tenisovému úspěchu, snaze Daniela Křetínského převzít West Ham, nedostatku munice v USA a dalším ekonomickým zprávám. Dále se čtenáři dozví o Sheinovi, který se chystá na burzu, rozšiřování Sportega po Evropě, fondu Jet Investment a SpaceX misi na Měsíc. V neposlední řadě je zmíněn i osobní příběh právníka Richarda Singera.
+
+Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</description>
+   <itunes:summary>V tomto vydání se Forbes Espresso věnuje českému tenisovému úspěchu, snaze Daniela Křetínského převzít West Ham, nedostatku munice v USA a dalším ekonomickým zprávám. Dále se čtenáři dozví o Sheinovi, který se chystá na burzu, rozšiřování Sportega po Evropě, fondu Jet Investment a SpaceX misi na Měsíc. V neposlední řadě je zmíněn i osobní příběh právníka Richarda Singera.
+
+Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</itunes:summary>
+   <pubDate>Wed, 05 Aug 2026 06:12:08 GMT</pubDate>
+   <guid isPermaLink="false">1BJk6mFDTn1T18yp0ua61bfe6Z3rbB60_</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1BJk6mFDTn1T18yp0ua61bfe6Z3rbB60_" length="1534580" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=17mqRjBULIFX-fqYWZaZic8Fn8R8zKGfJ"/>
+ </item>
+
+ <item>
+   <title>Are riches really in the niches?</title>
+   <description>V tomto vydání se zaměřuje na přínos specializace na konkrétní trhy a jak rychleji získávat placené zákazníky. Autor vysvětluje, proč je lepší cílit na menší, ale výkonně platebně ochotné segmenty, a přináší konkrétní strategie pro produkty FounderOS a SlideDrift. Dále uvádí praktické rady k tvorbě vlastního případového studia a kombinaci LinkedInové komunikace s e-mailovými kampaněmi. Poslední část nabízí rychlé tipy a nástroje pro marketing s AI.
+
+Od: The Vibe Marketer &lt;thevibemarketer@mail.beehiiv.com&gt;</description>
+   <itunes:summary>V tomto vydání se zaměřuje na přínos specializace na konkrétní trhy a jak rychleji získávat placené zákazníky. Autor vysvětluje, proč je lepší cílit na menší, ale výkonně platebně ochotné segmenty, a přináší konkrétní strategie pro produkty FounderOS a SlideDrift. Dále uvádí praktické rady k tvorbě vlastního případového studia a kombinaci LinkedInové komunikace s e-mailovými kampaněmi. Poslední část nabízí rychlé tipy a nástroje pro marketing s AI.
+
+Od: The Vibe Marketer &lt;thevibemarketer@mail.beehiiv.com&gt;</itunes:summary>
+   <pubDate>Tue, 04 Aug 2026 21:36:39 GMT</pubDate>
+   <guid isPermaLink="false">1q01ICvudiDryIg-oSBxH32kJdYCLvQUn</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1q01ICvudiDryIg-oSBxH32kJdYCLvQUn" length="2796756" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1DLeeTTGDooy4WYQ2utegbRghR8o_4Nyi"/>
+ </item>
+
+ <item>
+   <title>Are riches really in the niches?</title>
+   <description>V tomto vydání se autor zaměřuje na význam cílení na úzké trhy a představuje dva případy, jak to implementovat. Pro FounderOS se nabízí strategie zaměřená na malé podniky mimo AI start‑up prostředí a balíčkování služeb. Pro SlideDrift se navrhují výstupní taktiky založené na přímém využití obsahu a cílení na servisní profesionály. Autor zdůrazňuje, že úspěch spočívá v hlubokém pochopení konkrétního zákazníka a řešení jeho konkrétního problému.
+
+Od: The Vibe Marketer &lt;thevibemarketer@mail.beehiiv.com&gt;</description>
+   <itunes:summary>V tomto vydání se autor zaměřuje na význam cílení na úzké trhy a představuje dva případy, jak to implementovat. Pro FounderOS se nabízí strategie zaměřená na malé podniky mimo AI start‑up prostředí a balíčkování služeb. Pro SlideDrift se navrhují výstupní taktiky založené na přímém využití obsahu a cílení na servisní profesionály. Autor zdůrazňuje, že úspěch spočívá v hlubokém pochopení konkrétního zákazníka a řešení jeho konkrétního problému.
+
+Od: The Vibe Marketer &lt;thevibemarketer@mail.beehiiv.com&gt;</itunes:summary>
+   <pubDate>Tue, 04 Aug 2026 21:32:23 GMT</pubDate>
+   <guid isPermaLink="false">1lBqk310DtmX5MfCILxCgB7zfkbFvjnwa</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1lBqk310DtmX5MfCILxCgB7zfkbFvjnwa" length="3534374" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1DLeeTTGDooy4WYQ2utegbRghR8o_4Nyi"/>
+ </item>
+
+ <item>
+   <title>Jak Hypata zpracovává velké množství dokumentů | Vibecoding.cz</title>
+   <description>Článek popisuje vývoj a fungování AI agenta Hypata, který vznikl z potřeby autora efektivně zpracovávat obrovské množství dokumentů týkajících se telekomunikačních standardů 3GPP. Hypata, vyvinutá pomocí Claude Code, slouží nejen k archivaci dat, ale především k identifikaci klíčových otázek a poskytování uceleného přehledu o vývoji mobilních sítí. Autor zdůrazňuje, že technologie samotná je méně důležitá než jasná představa o účelu dat a jejich praktickém využití, což demonstruje na úspěchu &quot;3GPP Exploreru&quot; oproti neúspěšnému pokusu o analýzu práce v poslanecké sněmovně.
+
+Zdroj: https://www.vibecoding.cz/articles/ostatni/jak-hypata-zpracovava-velke-mnozstvi-dokumentu/</description>
+   <itunes:summary>Článek popisuje vývoj a fungování AI agenta Hypata, který vznikl z potřeby autora efektivně zpracovávat obrovské množství dokumentů týkajících se telekomunikačních standardů 3GPP. Hypata, vyvinutá pomocí Claude Code, slouží nejen k archivaci dat, ale především k identifikaci klíčových otázek a poskytování uceleného přehledu o vývoji mobilních sítí. Autor zdůrazňuje, že technologie samotná je méně důležitá než jasná představa o účelu dat a jejich praktickém využití, což demonstruje na úspěchu &quot;3GPP Exploreru&quot; oproti neúspěšnému pokusu o analýzu práce v poslanecké sněmovně.
+
+Zdroj: https://www.vibecoding.cz/articles/ostatni/jak-hypata-zpracovava-velke-mnozstvi-dokumentu/</itunes:summary>
+   <pubDate>Tue, 04 Aug 2026 19:52:59 GMT</pubDate>
+   <guid isPermaLink="false">1e7Rkctg8N2uEPeMNTXNLMSmBIo4JQg38</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1e7Rkctg8N2uEPeMNTXNLMSmBIo4JQg38" length="3822552" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1pmErleDmzV_XuXoDjqJJcspR8UIV4DBq"/>
+ </item>
+
+ <item>
+   <title>The Shape of Things to Come, Part 1: The Continuous Thunderdome — Steve Yegge</title>
+   <description>Autor Steve Yegge popisuje svou vizi budoucnosti softwarového vývoje s autonomními AI agenty, kterou aplikuje na svou 30 let starou hru Wyvern. Představuje svůj systém &quot;Wheelhouse&quot;, který mu umožňuje řídit flotily AI agentů a zajišťovat nepřetržitou práci na rozsáhlých projektech. Článek detailně vysvětluje, jak používá nástroje jako Beads a strategie pro efektivní správu API tokenů. Yegge také předpovídá brzký zánik lidského code review a transformaci CI/CD systémů v důsledku nástupu agentního vývoje. Zdůrazňuje, že jeho zkušenosti jsou předzvěstí změn, které brzy ovlivní všechny vývojáře.
+
+Zdroj: https://yegge.ai/essays/the-shape-of-things-to-come/</description>
+   <itunes:summary>Autor Steve Yegge popisuje svou vizi budoucnosti softwarového vývoje s autonomními AI agenty, kterou aplikuje na svou 30 let starou hru Wyvern. Představuje svůj systém &quot;Wheelhouse&quot;, který mu umožňuje řídit flotily AI agentů a zajišťovat nepřetržitou práci na rozsáhlých projektech. Článek detailně vysvětluje, jak používá nástroje jako Beads a strategie pro efektivní správu API tokenů. Yegge také předpovídá brzký zánik lidského code review a transformaci CI/CD systémů v důsledku nástupu agentního vývoje. Zdůrazňuje, že jeho zkušenosti jsou předzvěstí změn, které brzy ovlivní všechny vývojáře.
+
+Zdroj: https://yegge.ai/essays/the-shape-of-things-to-come/</itunes:summary>
+   <pubDate>Tue, 04 Aug 2026 19:47:22 GMT</pubDate>
+   <guid isPermaLink="false">12-rrnZgkwM-48Ed7atUBAL8qjBg-2vVR</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=12-rrnZgkwM-48Ed7atUBAL8qjBg-2vVR" length="5639411" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=12W1Ip-PteaCIonill_ZLNGGsFx0e5uLy"/>
+ </item>
+
+ <item>
+   <title>🦄 PPC Digest: AI agenti přebírají kampaně, leady i optimalizaci 🤖</title>
+   <description>Tento vydání PPC Digest přináší řadu nových funkcí a vylepšení od Googlu i Meta. Mezi hlavní body patří rozšíření témat v PMax kampaních, nová AI funkce v travel kampaních, vylepšení vizuální ukázky TEXT CUSTOMIZATION, report AI PERFORMANCE INSIGHTS v Merchant Center, zobrazení „HOW THIS AD WAS MADE“, rozšíření Shopping Ads do 14 zemí, testování AI generovaných shrnutí v Search, a příchod AI agenta do instantních formulářů Meta. Tyto aktualizace usnadňují optimalizaci kampaní a posilují využití umělé inteligence ve výpovědních nástrojích.
+
+Od: &quot;uLab&quot; &lt;brainfood@brainfood.ulab.rocks&gt;</description>
+   <itunes:summary>Tento vydání PPC Digest přináší řadu nových funkcí a vylepšení od Googlu i Meta. Mezi hlavní body patří rozšíření témat v PMax kampaních, nová AI funkce v travel kampaních, vylepšení vizuální ukázky TEXT CUSTOMIZATION, report AI PERFORMANCE INSIGHTS v Merchant Center, zobrazení „HOW THIS AD WAS MADE“, rozšíření Shopping Ads do 14 zemí, testování AI generovaných shrnutí v Search, a příchod AI agenta do instantních formulářů Meta. Tyto aktualizace usnadňují optimalizaci kampaní a posilují využití umělé inteligence ve výpovědních nástrojích.
+
+Od: &quot;uLab&quot; &lt;brainfood@brainfood.ulab.rocks&gt;</itunes:summary>
+   <pubDate>Fri, 31 Jul 2026 09:34:52 GMT</pubDate>
+   <guid isPermaLink="false">1yaKIftSn79CiWjHt2QFLDwbUutCFCBx3</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yaKIftSn79CiWjHt2QFLDwbUutCFCBx3" length="4258837" type="audio/mp4"/>
+ </item>
+
+ <item>
+   <title>Klimatická změna nahrává Číně a úsvit firem bez zaměstnanců</title>
+   <description>V tomto vydání Forbes Espresso se zaměřuje na dopady klimatických změn v Číně a globální obchod, popisuje nárůst firem s jediným zaměstnancem díky umělé inteligenci, upozorňuje na nová cla ohrožující levnou módní trh a přináší trendy v luxusním bydlení a rekordní spotřebu piva v ČR. Kultura a sport se objevují v rozhovoru s fyzioterapeutem a celebrity. Celkově je to kombinace ekonomických, ekologických a lifestyle témat.
+
+Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</description>
+   <itunes:summary>V tomto vydání Forbes Espresso se zaměřuje na dopady klimatických změn v Číně a globální obchod, popisuje nárůst firem s jediným zaměstnancem díky umělé inteligenci, upozorňuje na nová cla ohrožující levnou módní trh a přináší trendy v luxusním bydlení a rekordní spotřebu piva v ČR. Kultura a sport se objevují v rozhovoru s fyzioterapeutem a celebrity. Celkově je to kombinace ekonomických, ekologických a lifestyle témat.
+
+Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</itunes:summary>
+   <pubDate>Fri, 31 Jul 2026 06:56:13 GMT</pubDate>
+   <guid isPermaLink="false">1iDGfsxoNBiOOk9TeRbC1t9UEmCqyEIXl</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1iDGfsxoNBiOOk9TeRbC1t9UEmCqyEIXl" length="2360946" type="audio/mp4"/>
+ </item>
+
+ <item>
+   <title>4 vibe marketing builds on automating websites, content &amp; quality checks</title>
+   <description>Tento e‑mail představuje čtyři projekty, které ukazují, jak AI může automatizovat webovou tvorbu, SEO, audit kódu a tvorbu marketingových materiálů. Autor popisuje každou stavbu a zdůrazňuje roli člověka pouze při schvalování a rozhodování. Dále sdílí krátké tipy a odkazy na další zdroje.
+
+Od: The Vibe Marketer &lt;thevibemarketer@mail.beehiiv.com&gt;</description>
+   <itunes:summary>Tento e‑mail představuje čtyři projekty, které ukazují, jak AI může automatizovat webovou tvorbu, SEO, audit kódu a tvorbu marketingových materiálů. Autor popisuje každou stavbu a zdůrazňuje roli člověka pouze při schvalování a rozhodování. Dále sdílí krátké tipy a odkazy na další zdroje.
+
+Od: The Vibe Marketer &lt;thevibemarketer@mail.beehiiv.com&gt;</itunes:summary>
+   <pubDate>Thu, 30 Jul 2026 23:11:08 GMT</pubDate>
+   <guid isPermaLink="false">13cuFj7cF6oHdOu-Jce7oUh05dn_F8CRy</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=13cuFj7cF6oHdOu-Jce7oUh05dn_F8CRy" length="3629340" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1Ifc2GDefuzMvW0CjaeiwAHIFQLBvf3b2"/>
+ </item>
+
+ <item>
+   <title>4 vibe marketing builds on automating websites, content &amp; quality checks</title>
+   <description>V tomto vydání se Vibe Marketer zaměřuje na čtyři projekty, které ukazují, jak automatizace a AI mohou zefektivnit tvorbu webových stránek, obsahu a auditování. Popisuje, jak jednotliví tvůrci delegují úkoly na agenty a kontrolují výstupy pouze při schválení. Vysvětluje konkrétní nástroje a postupy, které umožňují rychlejší vydávání obsahu a zlepšení kvality kódu. Čtenářům přináší praktické příklady a odkazy na kódy a weby, kde mohou vidět výsledky.
+
+Od: The Vibe Marketer &lt;thevibemarketer@mail.beehiiv.com&gt;</description>
+   <itunes:summary>V tomto vydání se Vibe Marketer zaměřuje na čtyři projekty, které ukazují, jak automatizace a AI mohou zefektivnit tvorbu webových stránek, obsahu a auditování. Popisuje, jak jednotliví tvůrci delegují úkoly na agenty a kontrolují výstupy pouze při schválení. Vysvětluje konkrétní nástroje a postupy, které umožňují rychlejší vydávání obsahu a zlepšení kvality kódu. Čtenářům přináší praktické příklady a odkazy na kódy a weby, kde mohou vidět výsledky.
+
+Od: The Vibe Marketer &lt;thevibemarketer@mail.beehiiv.com&gt;</itunes:summary>
+   <pubDate>Thu, 30 Jul 2026 23:05:44 GMT</pubDate>
+   <guid isPermaLink="false">1rcYl1T8TeNP1vvo1F46Y-4Pw3uVoMAW1</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rcYl1T8TeNP1vvo1F46Y-4Pw3uVoMAW1" length="3300796" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1Ifc2GDefuzMvW0CjaeiwAHIFQLBvf3b2"/>
+ </item>
+
+ <item>
+   <title>Kouzelníci v Porsche, hladová FIFA a Pražský hrad bez cetek</title>
+   <description>Tento newsletter přináší řadu aktuálních témat, od úspěchů Porsche a plánů FIFA, přes pozoruhodnou pozici EP Group v globálním žebříčku, až po nedávný incident s umělou inteligencí. Dále se dotýká českého realitního trhu, rozrostu řetězce Action, změn v Pražském hradu a exotické destinace Palmarola. Čtenáři získají přehled o ekonomických trendech, sportovních strategiích a zajímavých kulturních novinkách.
+
+Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</description>
+   <itunes:summary>Tento newsletter přináší řadu aktuálních témat, od úspěchů Porsche a plánů FIFA, přes pozoruhodnou pozici EP Group v globálním žebříčku, až po nedávný incident s umělou inteligencí. Dále se dotýká českého realitního trhu, rozrostu řetězce Action, změn v Pražském hradu a exotické destinace Palmarola. Čtenáři získají přehled o ekonomických trendech, sportovních strategiích a zajímavých kulturních novinkách.
+
+Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</itunes:summary>
+   <pubDate>Thu, 30 Jul 2026 06:40:47 GMT</pubDate>
+   <guid isPermaLink="false">1E1vOfVrWLkzCqcqUZvh6chvTKIeDV8VR</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1E1vOfVrWLkzCqcqUZvh6chvTKIeDV8VR" length="1373052" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=12lCFfUXh1IdXz-wkZQuI7w93VavkoQXH"/>
+ </item>
+
+ <item>
+   <title>Vpředu byznys, vzadu hnojník. Miliardový pád WCA má pokračování</title>
+   <description>V tomto vydání Forbes Espresso se zaměřuje na největší události českého i globálního trhu: pokračování kriminální kauzy WCA, obraty ve stavebnictví, akvizice software firem a rostoucí úspěch AI start‑upů. Dále přináší pohled na strategii finanční šéfkuchařky Uniqa, mezinárodní politické setkání v Bílém domě a neobvyklý propad akcií BMW. Čtenářům nabídne i přehled trendů ve wellness investicích a nový filmový projekt Spider‑Man.
+
+Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</description>
+   <itunes:summary>V tomto vydání Forbes Espresso se zaměřuje na největší události českého i globálního trhu: pokračování kriminální kauzy WCA, obraty ve stavebnictví, akvizice software firem a rostoucí úspěch AI start‑upů. Dále přináší pohled na strategii finanční šéfkuchařky Uniqa, mezinárodní politické setkání v Bílém domě a neobvyklý propad akcií BMW. Čtenářům nabídne i přehled trendů ve wellness investicích a nový filmový projekt Spider‑Man.
+
+Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</itunes:summary>
+   <pubDate>Wed, 29 Jul 2026 07:15:29 GMT</pubDate>
+   <guid isPermaLink="false">1FUmFdnOaqWExqYUDvtOod800tfNCd3wB</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1FUmFdnOaqWExqYUDvtOod800tfNCd3wB" length="2113999" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1R52IZi9KTbsBZtFASGSz8y0JmPgleegY"/>
+ </item>
+
+ <item>
+   <title>Írán, Amerika a Izrael v pasti vlastní převahy</title>
+   <description>Konflikt mezi Íránem, Spojenými státy a Izraelem se vyvíjí z krátkodobé hostilita na dlouhodobou, regionální válku s propojenými frontami. Hlavní pozornost je zaměřena na kontrolu a riziko v Hormuzském průlivu, kde Írán využívá administrativní a vojenské nástroje k omezení mezinárodní dopravy. USA prosazují vyčerpávací kampaň a sankce, zatímco situace v Libanonu, zejména s Hizballáhem, představuje další komplikaci. Důsledky konfliktu se promítají do globálního trhu s ropou a plynem a mají významný dopad na Evropu, včetně České republiky.
+
+Od: NWSLTTR &lt;insidercz@substack.com&gt;</description>
+   <itunes:summary>Konflikt mezi Íránem, Spojenými státy a Izraelem se vyvíjí z krátkodobé hostilita na dlouhodobou, regionální válku s propojenými frontami. Hlavní pozornost je zaměřena na kontrolu a riziko v Hormuzském průlivu, kde Írán využívá administrativní a vojenské nástroje k omezení mezinárodní dopravy. USA prosazují vyčerpávací kampaň a sankce, zatímco situace v Libanonu, zejména s Hizballáhem, představuje další komplikaci. Důsledky konfliktu se promítají do globálního trhu s ropou a plynem a mají významný dopad na Evropu, včetně České republiky.
+
+Od: NWSLTTR &lt;insidercz@substack.com&gt;</itunes:summary>
+   <pubDate>Wed, 29 Jul 2026 05:23:44 GMT</pubDate>
+   <guid isPermaLink="false">1lalwEfHXG2IRNbd2da5--mhE-fz-HLhZ</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1lalwEfHXG2IRNbd2da5--mhE-fz-HLhZ" length="6879962" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1aJUuxPW21HlM7P0XV5kGN2ghxCPtU0Mx"/>
+ </item>
+
+ <item>
+   <title>How I turned newsletter into a Linkedin content engine</title>
+   <description>V tomto vydání popisuje autor, jak pomocí nástrojů Beehiiv, Claude, Buffer a Zapier vytvořit z newsletteru LinkedIn obsahový engine bez kódu. Detailně vysvětluje krok za krokem, jak přenést obsah z newsletteru na LinkedIn, jak generovat obrázky, a jak je automaticky naplánovat v Bufferu. Dále představuje nový skill content-atomizer a nabízí tipy na budoucí automatizaci a zpětnou vazbu od publikace.
+
+Od: The Vibe Marketer &lt;thevibemarketer@mail.beehiiv.com&gt;</description>
+   <itunes:summary>V tomto vydání popisuje autor, jak pomocí nástrojů Beehiiv, Claude, Buffer a Zapier vytvořit z newsletteru LinkedIn obsahový engine bez kódu. Detailně vysvětluje krok za krokem, jak přenést obsah z newsletteru na LinkedIn, jak generovat obrázky, a jak je automaticky naplánovat v Bufferu. Dále představuje nový skill content-atomizer a nabízí tipy na budoucí automatizaci a zpětnou vazbu od publikace.
+
+Od: The Vibe Marketer &lt;thevibemarketer@mail.beehiiv.com&gt;</itunes:summary>
+   <pubDate>Wed, 29 Jul 2026 05:13:39 GMT</pubDate>
+   <guid isPermaLink="false">1XL-AtdPtFN2UDBcsdjN4FSBgvegvq-DT</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XL-AtdPtFN2UDBcsdjN4FSBgvegvq-DT" length="2959519" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1pz3Ak-C7JpNWY5y7dNiE7N6XHkmzGfDB"/>
+ </item>
+
+ <item>
+   <title>How I turned newsletter into a Linkedin content engine</title>
+   <description>V tomto vydání autor ukazuje, jak převést newsletter na LinkedIn engine pomocí Beehiiv, Claude, Buffer a Zapier MCP. Popisuje krok‑po‑kroku postup nastavení, stažení, re‑purposingu, designu obrázků a publikace. Zdůrazňuje výhody atomizace, automatizace a generování obrázků. Nabízí tipy na optimalizaci AI modelu a nastavení opakujícího se workflow.
+
+Od: The Vibe Marketer &lt;thevibemarketer@mail.beehiiv.com&gt;</description>
+   <itunes:summary>V tomto vydání autor ukazuje, jak převést newsletter na LinkedIn engine pomocí Beehiiv, Claude, Buffer a Zapier MCP. Popisuje krok‑po‑kroku postup nastavení, stažení, re‑purposingu, designu obrázků a publikace. Zdůrazňuje výhody atomizace, automatizace a generování obrázků. Nabízí tipy na optimalizaci AI modelu a nastavení opakujícího se workflow.
+
+Od: The Vibe Marketer &lt;thevibemarketer@mail.beehiiv.com&gt;</itunes:summary>
+   <pubDate>Wed, 29 Jul 2026 05:08:12 GMT</pubDate>
+   <guid isPermaLink="false">1hsAjeTo4ith4_HDPJvByg_AqUHqzP3q5</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1hsAjeTo4ith4_HDPJvByg_AqUHqzP3q5" length="3990909" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1pz3Ak-C7JpNWY5y7dNiE7N6XHkmzGfDB"/>
+ </item>
+
+ <item>
+   <title>You Can’t Demand the Click If You Won’t Give the Link</title>
+   <description>Tento vydání se zaměřuje na problémy SEO a AI, zejména na dopad AI Overviews na návštěvnost a spravedlnost. Autor kritizuje praktikování citací a nedodržování odkazů u publikací a zdůrazňuje nutnost správné citace. Dále představuje nadcházející webinář od J. Granta o AI search pipeline, spolu s podporou AirOps a Jolly Search. V závěru je nabídnuta pracovní pozice na pozici Partnerships Manageru v Jolly.
+
+Od: #SEOForLunch &lt;seoforlunch@substack.com&gt;</description>
+   <itunes:summary>Tento vydání se zaměřuje na problémy SEO a AI, zejména na dopad AI Overviews na návštěvnost a spravedlnost. Autor kritizuje praktikování citací a nedodržování odkazů u publikací a zdůrazňuje nutnost správné citace. Dále představuje nadcházející webinář od J. Granta o AI search pipeline, spolu s podporou AirOps a Jolly Search. V závěru je nabídnuta pracovní pozice na pozici Partnerships Manageru v Jolly.
+
+Od: #SEOForLunch &lt;seoforlunch@substack.com&gt;</itunes:summary>
+   <pubDate>Tue, 28 Jul 2026 17:44:51 GMT</pubDate>
+   <guid isPermaLink="false">1qnRZMeMJ72Dbyc-XztyEVTsQbJ_1glby</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qnRZMeMJ72Dbyc-XztyEVTsQbJ_1glby" length="3553562" type="audio/mp4"/>
+ </item>
+
+ <item>
+   <title>Praha je opět slavná a tentokrát za tím není levné pivo</title>
+   <description>V tomto vydání se Forbes Espresso zaměřuje na globální technologické trendy, od čínské výroby čipů po americký satelitní závod, a přitom nahlíží i na místní události, jako je otevření IMAX sálu ve Floře. Dále přináší zprávy o regulacích v Indii, o dědickém sporu Bernarda Arnaulta a o finančních potížích německého výrobce baterií Varta. Článek se dotýká také vývoje českých realit a zdravotnického sektoru.
+
+Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</description>
+   <itunes:summary>V tomto vydání se Forbes Espresso zaměřuje na globální technologické trendy, od čínské výroby čipů po americký satelitní závod, a přitom nahlíží i na místní události, jako je otevření IMAX sálu ve Floře. Dále přináší zprávy o regulacích v Indii, o dědickém sporu Bernarda Arnaulta a o finančních potížích německého výrobce baterií Varta. Článek se dotýká také vývoje českých realit a zdravotnického sektoru.
+
+Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</itunes:summary>
+   <pubDate>Tue, 28 Jul 2026 05:38:21 GMT</pubDate>
+   <guid isPermaLink="false">160KCONgTUcxCRKT48rGDVzQtY8q6_9Q7</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=160KCONgTUcxCRKT48rGDVzQtY8q6_9Q7" length="2273061" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1_D1TZFjvjxIU37z2jTqC2nn3ajMmw-mw"/>
+ </item>
+
+ <item>
+   <title>Jeden úřad, jedno rozhodnutí. Žádný zázrak s novými byty ale nečekejte</title>
+   <description>V posledním vydání se autorka zaměřuje na rostoucí nedostupnost bytového bydlení v ČR, přičemž ukazuje, že v roce 2025 je potřeba více než dvojnásobek průměrné mzdy na metr čtvereční v Praze. Hlavním tématem je nový stavební zákon „jeden úřad, jedno rozhodnutí“, který má zjednodušit a urychlit procesy v oblasti výstavby. Autor diskutuje princip „ticho = souhlas“, posun k pozitivnímu regulování a stále přetrvávající omezení místními pravidly, které i přesto mohou výrazně zvyšovat náklady na stavby.
+
+Od: NWSLTTR &lt;insidercz@substack.com&gt;</description>
+   <itunes:summary>V posledním vydání se autorka zaměřuje na rostoucí nedostupnost bytového bydlení v ČR, přičemž ukazuje, že v roce 2025 je potřeba více než dvojnásobek průměrné mzdy na metr čtvereční v Praze. Hlavním tématem je nový stavební zákon „jeden úřad, jedno rozhodnutí“, který má zjednodušit a urychlit procesy v oblasti výstavby. Autor diskutuje princip „ticho = souhlas“, posun k pozitivnímu regulování a stále přetrvávající omezení místními pravidly, které i přesto mohou výrazně zvyšovat náklady na stavby.
+
+Od: NWSLTTR &lt;insidercz@substack.com&gt;</itunes:summary>
+   <pubDate>Mon, 27 Jul 2026 06:03:57 GMT</pubDate>
+   <guid isPermaLink="false">1aZs99Op9zGgVlo7gzF7TtKtGUrCFwIii</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1aZs99Op9zGgVlo7gzF7TtKtGUrCFwIii" length="2665826" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1HlNhczDkCdnX_ob5KMhVppECJ9QWfoW_"/>
+ </item>
+
+ <item>
+   <title>Zprávy z lesa #142 🍄</title>
+   <description>Tento vydání přináší přehled nejzajímavějších událostí ze světa technologií, startupů a inovací, včetně fenoménu zombie unicornů a nejnovějších projektů od OpenAI a Hugging Face. Autor se zaměřuje i na cestovní zážitky, například skateboardovou výpravu na 3000 mil nebo projížďku Colorado, a představuje zajímavé příběhy z přírody a výzkumu. V rozdělených sekcích najdete také tipy na čtení, poslech a vzdělávání, stejně jako fotodokumentaci české krajiny. Všechno je spojeno osobní tónem a bohatým množstvím odkazů na podrobné články.
+
+Od: Filip Molčan &lt;filipmolcan@substack.com&gt;</description>
+   <itunes:summary>Tento vydání přináší přehled nejzajímavějších událostí ze světa technologií, startupů a inovací, včetně fenoménu zombie unicornů a nejnovějších projektů od OpenAI a Hugging Face. Autor se zaměřuje i na cestovní zážitky, například skateboardovou výpravu na 3000 mil nebo projížďku Colorado, a představuje zajímavé příběhy z přírody a výzkumu. V rozdělených sekcích najdete také tipy na čtení, poslech a vzdělávání, stejně jako fotodokumentaci české krajiny. Všechno je spojeno osobní tónem a bohatým množstvím odkazů na podrobné články.
+
+Od: Filip Molčan &lt;filipmolcan@substack.com&gt;</itunes:summary>
+   <pubDate>Sun, 26 Jul 2026 16:00:41 GMT</pubDate>
+   <guid isPermaLink="false">1YNJgIzXB5r4caznuwvu30FKKnUe_esF6</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YNJgIzXB5r4caznuwvu30FKKnUe_esF6" length="186291" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1JRaPouATaTf2Guw6pkENUCUeIbxamy5A"/>
+ </item>
+
+ <item>
+   <title>Introducing the Google Colab CLI- Google Developers Blog</title>
+   <description>Google představil Colab CLI, nástroj pro příkazovou řádku, který umožňuje vývojářům i AI agentům snadno využívat vzdálené Colab runtimes s GPU/TPU, spouštět skripty, stahovat artefakty a pracovat interaktivně, včetně podpory agentních workflow.
+
+Zdroj: https://developers.googleblog.com/introducing-the-google-colab-cli/</description>
+   <itunes:summary>Google představil Colab CLI, nástroj pro příkazovou řádku, který umožňuje vývojářům i AI agentům snadno využívat vzdálené Colab runtimes s GPU/TPU, spouštět skripty, stahovat artefakty a pracovat interaktivně, včetně podpory agentních workflow.
+
+Zdroj: https://developers.googleblog.com/introducing-the-google-colab-cli/</itunes:summary>
+   <pubDate>Sat, 25 Jul 2026 15:11:12 GMT</pubDate>
+   <guid isPermaLink="false">1kZVTqFRGkxAOApS9qG00NVHxrumM6GII</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1kZVTqFRGkxAOApS9qG00NVHxrumM6GII" length="1555060" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1u_BXS495ZTd9n3kJSfYQ9e-T0muddFfU"/>
+ </item>
+
+ <item>
+   <title>Bitva u Klušina</title>
+   <description>Bitva u Klušina (4. července 1610) byla klíčovým střetem raně novověkého vojenství, v němž polsko-litevská armáda pod Żółkiewským porazila rusko-švédskou koalici. Vítězství husarů mělo dalekosáhlé následky: pád cara Vasilije IV., obsazení Kremlu a konec ruské Smuty cizí intervencí. Konflikt provázely dynastické intriky, nekompetentní velení a rozpad rusko-švédského spojenectví.
+
+Zdroj: https://valhistory.substack.com/p/bitva-u-klusina?r=1gjgrq&amp;utm_campaign=post&amp;utm_medium=web&amp;triedRedirect=true</description>
+   <itunes:summary>Bitva u Klušina (4. července 1610) byla klíčovým střetem raně novověkého vojenství, v němž polsko-litevská armáda pod Żółkiewským porazila rusko-švédskou koalici. Vítězství husarů mělo dalekosáhlé následky: pád cara Vasilije IV., obsazení Kremlu a konec ruské Smuty cizí intervencí. Konflikt provázely dynastické intriky, nekompetentní velení a rozpad rusko-švédského spojenectví.
+
+Zdroj: https://valhistory.substack.com/p/bitva-u-klusina?r=1gjgrq&amp;utm_campaign=post&amp;utm_medium=web&amp;triedRedirect=true</itunes:summary>
+   <pubDate>Sat, 25 Jul 2026 15:08:43 GMT</pubDate>
+   <guid isPermaLink="false">11t9P2xX5_taIPKnjNwWo6poZhD36VoAL</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=11t9P2xX5_taIPKnjNwWo6poZhD36VoAL" length="7586677" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1NnAZrsky75qGS0sTSLVHea2Rf64fQvop"/>
+ </item>
+</channel></rss>
