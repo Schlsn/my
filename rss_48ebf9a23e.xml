@@ -1,1 +1,289 @@
-<rss version="2.0"><channel><title>Soukromý podcast</title><link>https://schlsn.github.io/my/</link><description>Podcast pouze pro mě</description><language>cs</language><item><title>Entities Are The Foundation of Modern SEO</title><enclosure url="https://drive.google.com/uc?export=download&amp;id=1qhZN4eCVDmFmcuzMUyKLxBlPlO4eGpAx" type="audio/mpeg"></enclosure><guid>https://drive.google.com/uc?export=download&amp;id=1qhZN4eCVDmFmcuzMUyKLxBlPlO4eGpAx</guid><pubDate>Tue, 08 Sep 2026 20:17:54 GMT</pubDate></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>Můj podcast</title>
+<link>https://schlsn.github.io/my/</link>
+<description>Automaticky generovaný RSS feed z Google Drive.</description>
+<language>cs</language>
+<itunes:author>Adam</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+<itunes:image href="https://example.com/podcast-cover.jpg"/>
+
+ <item>
+   <title>Entities Are The Foundation of Modern SEO</title>
+   <description>Článek vysvětluje, že Entity SEO je praxe snižování nejednoznačnosti kolem klíčových entit (lidí, míst, organizací, produktů) pro moderní systémy vyhledávání informací, jako je Google Knowledge Graph a LLM. Zdůrazňuje, že jasná, konzistentní a dobře podložená identita entity je klíčová pro zjistitelnost a vnímání značky, pomáhá systémům správně interpretovat a propojovat signály. Autor navrhuje rámec pro Entity SEO, zaměřený na vlastněné vlastnosti, explicitní popisy, důvěryhodnost, získané zmínky a nepřetržité monitorování.
+
+Zdroj: https://www.leadershipinseo.com/p/entities-are-the-foundation-of-modern</description>
+   <itunes:summary>Článek vysvětluje, že Entity SEO je praxe snižování nejednoznačnosti kolem klíčových entit (lidí, míst, organizací, produktů) pro moderní systémy vyhledávání informací, jako je Google Knowledge Graph a LLM. Zdůrazňuje, že jasná, konzistentní a dobře podložená identita entity je klíčová pro zjistitelnost a vnímání značky, pomáhá systémům správně interpretovat a propojovat signály. Autor navrhuje rámec pro Entity SEO, zaměřený na vlastněné vlastnosti, explicitní popisy, důvěryhodnost, získané zmínky a nepřetržité monitorování.
+
+Zdroj: https://www.leadershipinseo.com/p/entities-are-the-foundation-of-modern</itunes:summary>
+   <pubDate>Tue, 08 Sep 2026 20:17:34 GMT</pubDate>
+   <guid isPermaLink="false">13VLV86nQSHPvHxYkBKL8sXcb_x7zXeS0</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=13VLV86nQSHPvHxYkBKL8sXcb_x7zXeS0" length="3257932" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1XiHolJ3ULG6VMP5cH-r8B2m3tvFyuCUf"/>
+ </item>
+
+ <item>
+   <title>Entities Are The Foundation of Modern SEO</title>
+   <description>Článek vysvětluje, že Entity SEO je praxe snižování nejednoznačnosti kolem klíčových entit (lidí, míst, organizací, produktů) pro moderní systémy vyhledávání informací, jako je Google Knowledge Graph a LLM. Zdůrazňuje, že jasná, konzistentní a dobře podložená identita entity je klíčová pro zjistitelnost a vnímání značky, pomáhá systémům správně interpretovat a propojovat signály. Autor navrhuje rámec pro Entity SEO, zaměřený na vlastněné vlastnosti, explicitní popisy, důvěryhodnost, získané zmínky a nepřetržité monitorování.
+
+Zdroj: https://www.leadershipinseo.com/p/entities-are-the-foundation-of-modern</description>
+   <itunes:summary>Článek vysvětluje, že Entity SEO je praxe snižování nejednoznačnosti kolem klíčových entit (lidí, míst, organizací, produktů) pro moderní systémy vyhledávání informací, jako je Google Knowledge Graph a LLM. Zdůrazňuje, že jasná, konzistentní a dobře podložená identita entity je klíčová pro zjistitelnost a vnímání značky, pomáhá systémům správně interpretovat a propojovat signály. Autor navrhuje rámec pro Entity SEO, zaměřený na vlastněné vlastnosti, explicitní popisy, důvěryhodnost, získané zmínky a nepřetržité monitorování.
+
+Zdroj: https://www.leadershipinseo.com/p/entities-are-the-foundation-of-modern</itunes:summary>
+   <pubDate>Tue, 08 Sep 2026 19:48:07 GMT</pubDate>
+   <guid isPermaLink="false">1gQIiDcUU1f-wFsEsdUalvT6J-TPkybNL</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1gQIiDcUU1f-wFsEsdUalvT6J-TPkybNL" length="3475642" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1XiHolJ3ULG6VMP5cH-r8B2m3tvFyuCUf"/>
+ </item>
+
+ <item>
+   <title>5 steps to building Reddit authority for Google and ChatGPT visibility</title>
+   <description>Článek představuje pětikrokový rámec pro budování autority značky na platformě Reddit, s cílem zlepšit její viditelnost ve výsledcích vyhledávání Google a AI, jako je ChatGPT. Zdůrazňuje, že Reddit není zkratka k citacím AI, ale spíše prostředí pro budování důvěryhodnosti a poskytování hodnotného obsahu komunitě. Autor argumentuje, že autentická participace a propojení komunitních poznatků s vlastními zdroji značky vedou k přirozenému doporučování v AI vyhledávání a lepším SEO výsledkům.
+
+Zdroj: https://searchengineland.com/building-reddit-authority-visibility-486084</description>
+   <itunes:summary>Článek představuje pětikrokový rámec pro budování autority značky na platformě Reddit, s cílem zlepšit její viditelnost ve výsledcích vyhledávání Google a AI, jako je ChatGPT. Zdůrazňuje, že Reddit není zkratka k citacím AI, ale spíše prostředí pro budování důvěryhodnosti a poskytování hodnotného obsahu komunitě. Autor argumentuje, že autentická participace a propojení komunitních poznatků s vlastními zdroji značky vedou k přirozenému doporučování v AI vyhledávání a lepším SEO výsledkům.
+
+Zdroj: https://searchengineland.com/building-reddit-authority-visibility-486084</itunes:summary>
+   <pubDate>Tue, 08 Sep 2026 19:18:04 GMT</pubDate>
+   <guid isPermaLink="false">1TRGuWToEfHLwY1QXUkVs8mxpm_STREhs</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1TRGuWToEfHLwY1QXUkVs8mxpm_STREhs" length="3387822" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1uXBYjukkws_p6t0NW2XtI2-_Hhnizg1L"/>
+ </item>
+
+ <item>
+   <title>5 steps to building Reddit authority for Google and ChatGPT visibility</title>
+   <description>Článek představuje pětikrokový rámec pro budování autority značky na platformě Reddit, s cílem zlepšit její viditelnost ve výsledcích vyhledávání Google a AI, jako je ChatGPT. Zdůrazňuje, že Reddit není zkratka k citacím AI, ale spíše prostředí pro budování důvěryhodnosti a poskytování hodnotného obsahu komunitě. Autor argumentuje, že autentická participace a propojení komunitních poznatků s vlastními zdroji značky vedou k přirozenému doporučování v AI vyhledávání a lepším SEO výsledkům.
+
+Zdroj: https://searchengineland.com/building-reddit-authority-visibility-486084</description>
+   <itunes:summary>Článek představuje pětikrokový rámec pro budování autority značky na platformě Reddit, s cílem zlepšit její viditelnost ve výsledcích vyhledávání Google a AI, jako je ChatGPT. Zdůrazňuje, že Reddit není zkratka k citacím AI, ale spíše prostředí pro budování důvěryhodnosti a poskytování hodnotného obsahu komunitě. Autor argumentuje, že autentická participace a propojení komunitních poznatků s vlastními zdroji značky vedou k přirozenému doporučování v AI vyhledávání a lepším SEO výsledkům.
+
+Zdroj: https://searchengineland.com/building-reddit-authority-visibility-486084</itunes:summary>
+   <pubDate>Tue, 08 Sep 2026 18:46:20 GMT</pubDate>
+   <guid isPermaLink="false">1g_BWV5EaxmWm81OGUKX1sCYSKn3pWZ2b</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1g_BWV5EaxmWm81OGUKX1sCYSKn3pWZ2b" length="2650619" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1uXBYjukkws_p6t0NW2XtI2-_Hhnizg1L"/>
+ </item>
+
+ <item>
+   <title>5 steps to building Reddit authority for Google and ChatGPT visibility</title>
+   <description>Článek představuje pětikrokový rámec pro budování autority značky na platformě Reddit, s cílem zlepšit její viditelnost ve výsledcích vyhledávání Google a AI, jako je ChatGPT. Zdůrazňuje, že Reddit není zkratka k citacím AI, ale spíše prostředí pro budování důvěryhodnosti a poskytování hodnotného obsahu komunitě. Autor argumentuje, že autentická participace a propojení komunitních poznatků s vlastními zdroji značky vedou k přirozenému doporučování v AI vyhledávání a lepším SEO výsledkům.
+
+Zdroj: https://searchengineland.com/building-reddit-authority-visibility-486084</description>
+   <itunes:summary>Článek představuje pětikrokový rámec pro budování autority značky na platformě Reddit, s cílem zlepšit její viditelnost ve výsledcích vyhledávání Google a AI, jako je ChatGPT. Zdůrazňuje, že Reddit není zkratka k citacím AI, ale spíše prostředí pro budování důvěryhodnosti a poskytování hodnotného obsahu komunitě. Autor argumentuje, že autentická participace a propojení komunitních poznatků s vlastními zdroji značky vedou k přirozenému doporučování v AI vyhledávání a lepším SEO výsledkům.
+
+Zdroj: https://searchengineland.com/building-reddit-authority-visibility-486084</itunes:summary>
+   <pubDate>Tue, 08 Sep 2026 18:18:18 GMT</pubDate>
+   <guid isPermaLink="false">1wVmDUOgdDjvI_EYFvp4j0ExlQprTjn-D</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wVmDUOgdDjvI_EYFvp4j0ExlQprTjn-D" length="3336801" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1uXBYjukkws_p6t0NW2XtI2-_Hhnizg1L"/>
+ </item>
+
+ <item>
+   <title>5 steps to building Reddit authority for Google and ChatGPT visibility</title>
+   <description>Článek představuje pětikrokový rámec pro budování autority značky na platformě Reddit, s cílem zlepšit její viditelnost ve výsledcích vyhledávání Google a AI, jako je ChatGPT. Zdůrazňuje, že Reddit není zkratka k citacím AI, ale spíše prostředí pro budování důvěryhodnosti a poskytování hodnotného obsahu komunitě. Autor argumentuje, že autentická participace a propojení komunitních poznatků s vlastními zdroji značky vedou k přirozenému doporučování v AI vyhledávání a lepším SEO výsledkům.
+
+Zdroj: https://searchengineland.com/building-reddit-authority-visibility-486084</description>
+   <itunes:summary>Článek představuje pětikrokový rámec pro budování autority značky na platformě Reddit, s cílem zlepšit její viditelnost ve výsledcích vyhledávání Google a AI, jako je ChatGPT. Zdůrazňuje, že Reddit není zkratka k citacím AI, ale spíše prostředí pro budování důvěryhodnosti a poskytování hodnotného obsahu komunitě. Autor argumentuje, že autentická participace a propojení komunitních poznatků s vlastními zdroji značky vedou k přirozenému doporučování v AI vyhledávání a lepším SEO výsledkům.
+
+Zdroj: https://searchengineland.com/building-reddit-authority-visibility-486084</itunes:summary>
+   <pubDate>Tue, 08 Sep 2026 17:47:54 GMT</pubDate>
+   <guid isPermaLink="false">1lKNva-ZRWeJEN6dnrE1wKcW6jmjPyfQd</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1lKNva-ZRWeJEN6dnrE1wKcW6jmjPyfQd" length="3491302" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1uXBYjukkws_p6t0NW2XtI2-_Hhnizg1L"/>
+ </item>
+
+ <item>
+   <title>What&apos;s Working in Health Ads in 2026?</title>
+   <description>Článek analyzuje účinné strategie ve zdravotnických reklamách pro rok 2026, přičemž zdůrazňuje, že nejlepší kampaně se zaměřují na lidi, nikoli na produkty. Popisuje, jak empatie, vyprávění příběhů a jasné sdělení budují důvěru a inspirují k akci. Představuje deset úspěšných reklamních kampaní jako příklady a rozebírá klíčové výzvy, jako je složitý jazyk a budování důvěry, a strategie pro oslovení cílového publika v oblasti zdravotnictví.
+
+Zdroj: https://influee.co/blog/health-ads</description>
+   <itunes:summary>Článek analyzuje účinné strategie ve zdravotnických reklamách pro rok 2026, přičemž zdůrazňuje, že nejlepší kampaně se zaměřují na lidi, nikoli na produkty. Popisuje, jak empatie, vyprávění příběhů a jasné sdělení budují důvěru a inspirují k akci. Představuje deset úspěšných reklamních kampaní jako příklady a rozebírá klíčové výzvy, jako je složitý jazyk a budování důvěry, a strategie pro oslovení cílového publika v oblasti zdravotnictví.
+
+Zdroj: https://influee.co/blog/health-ads</itunes:summary>
+   <pubDate>Tue, 08 Sep 2026 08:51:58 GMT</pubDate>
+   <guid isPermaLink="false">1pOzvCHoOM7FNrs-56xEr1GTj8K54MWD5</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1pOzvCHoOM7FNrs-56xEr1GTj8K54MWD5" length="2780591" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1vGkZjeZxiC68ch2P5nLXSFQL2tcp1s6T"/>
+ </item>
+
+ <item>
+   <title>How To Make Facebook Ads HIPAA-Compliant and Still Get Conversion Tracking</title>
+   <description>Článek vysvětluje, jak mohou zdravotnické organizace používat reklamy na Facebooku a sledování konverzí a zároveň dodržovat předpisy HIPAA, přestože Meta Pixel není kompatibilní s HIPAA. Zdůrazňuje, že standardní nastavení Meta Pixelu shromažďuje chráněné zdravotnické informace (PHI), což vede k právním rizikům a pokutám. Řešením je odstranění Pixelu a zavedení „governance layer“ pro filtrování citlivých dat, zajišťující, že do Meta jsou odesílány pouze nezbytné informace pro atribuci a optimalizaci, nikoli PHI. Článek také zmiňuje nedávné právní úpravy ohledně IP adres, ale potvrzuje přetrvávající riziko úniku PHI.
+
+Zdroj: https://www.freshpaint.io/blog/how-to-make-facebook-ads-hipaa-compliant-and-still-get-conversion-tracking</description>
+   <itunes:summary>Článek vysvětluje, jak mohou zdravotnické organizace používat reklamy na Facebooku a sledování konverzí a zároveň dodržovat předpisy HIPAA, přestože Meta Pixel není kompatibilní s HIPAA. Zdůrazňuje, že standardní nastavení Meta Pixelu shromažďuje chráněné zdravotnické informace (PHI), což vede k právním rizikům a pokutám. Řešením je odstranění Pixelu a zavedení „governance layer“ pro filtrování citlivých dat, zajišťující, že do Meta jsou odesílány pouze nezbytné informace pro atribuci a optimalizaci, nikoli PHI. Článek také zmiňuje nedávné právní úpravy ohledně IP adres, ale potvrzuje přetrvávající riziko úniku PHI.
+
+Zdroj: https://www.freshpaint.io/blog/how-to-make-facebook-ads-hipaa-compliant-and-still-get-conversion-tracking</itunes:summary>
+   <pubDate>Tue, 08 Sep 2026 08:45:49 GMT</pubDate>
+   <guid isPermaLink="false">1aL0r81qnCICN9LCD8098DhGS5DYs3MSf</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1aL0r81qnCICN9LCD8098DhGS5DYs3MSf" length="2472441" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1Q9gvRbOydBb0fxj45o6iDyo5rvBK_WD3"/>
+ </item>
+
+ <item>
+   <title>10 Leading Healthcare Marketing Trends for 2026</title>
+   <description>Článek představuje 13 hlavních trendů v marketingu zdravotnických zařízení pro rok 2026. Zdůrazňuje, že většina pacientů dnes hledá lékaře online (65 % dle průzkumu DigitalSilk) a 72 % čte recenze s důvěrou pouze v lékaře s hodnocením 4 hvězdičky a výše. Globální trh zdravotnické reklamy dosahuje téměř 45 miliard dolarů, přičemž 70 % rozpočtů směřuje do digitálu. Článek vysvětluje, že digitální marketing umožňuje lepší kontrolu rozpočtu, okamžitou zpětnou vazbu a přivedení kvalitnějších pacientů, kteří přesně vědí, jaké služby potřebují.
+
+Zdroj: https://netpeak.us/blog/13-leading-healthcare-marketing-trends-for-2026/</description>
+   <itunes:summary>Článek představuje 13 hlavních trendů v marketingu zdravotnických zařízení pro rok 2026. Zdůrazňuje, že většina pacientů dnes hledá lékaře online (65 % dle průzkumu DigitalSilk) a 72 % čte recenze s důvěrou pouze v lékaře s hodnocením 4 hvězdičky a výše. Globální trh zdravotnické reklamy dosahuje téměř 45 miliard dolarů, přičemž 70 % rozpočtů směřuje do digitálu. Článek vysvětluje, že digitální marketing umožňuje lepší kontrolu rozpočtu, okamžitou zpětnou vazbu a přivedení kvalitnějších pacientů, kteří přesně vědí, jaké služby potřebují.
+
+Zdroj: https://netpeak.us/blog/13-leading-healthcare-marketing-trends-for-2026/</itunes:summary>
+   <pubDate>Tue, 08 Sep 2026 08:13:23 GMT</pubDate>
+   <guid isPermaLink="false">1Wl0H5aqcVFtvqK1zjEfBf3XilsI7qoNi</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Wl0H5aqcVFtvqK1zjEfBf3XilsI7qoNi" length="2693619" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1s9ue6o6EBLu2uairXYZfJ55T_zhlRrHV"/>
+ </item>
+
+ <item>
+   <title>Meta Tightened Its Healthcare Ad Rules in 2026. Here Is How to Keep Your Ads Running.</title>
+   <description>Článek popisuje zpřísnění pravidel společnosti Meta pro reklamu ve zdravotnictví, ke kterému došlo v roce 2026, a uvádí, že to vedlo k vysokému počtu zamítnutých kampaní. Hlavním důvodem změn je snaha Meta minimalizovat právní rizika spojená s odhalováním nebo naznačováním osobní zdravotní situace uživatelů. Zdroj dále vysvětluje konkrétní změny v pravidlech, identifikuje běžné chyby vedoucí k zamítnutí a navrhuje, jakým způsobem mohou zdravotnické praxe dál efektivně inzerovat v souladu s novými předpisy.
+
+Zdroj: https://etherealmindsdigital.com/blog/meta-2026-healthcare-ad-rules-medical-practices/</description>
+   <itunes:summary>Článek popisuje zpřísnění pravidel společnosti Meta pro reklamu ve zdravotnictví, ke kterému došlo v roce 2026, a uvádí, že to vedlo k vysokému počtu zamítnutých kampaní. Hlavním důvodem změn je snaha Meta minimalizovat právní rizika spojená s odhalováním nebo naznačováním osobní zdravotní situace uživatelů. Zdroj dále vysvětluje konkrétní změny v pravidlech, identifikuje běžné chyby vedoucí k zamítnutí a navrhuje, jakým způsobem mohou zdravotnické praxe dál efektivně inzerovat v souladu s novými předpisy.
+
+Zdroj: https://etherealmindsdigital.com/blog/meta-2026-healthcare-ad-rules-medical-practices/</itunes:summary>
+   <pubDate>Tue, 08 Sep 2026 08:02:59 GMT</pubDate>
+   <guid isPermaLink="false">12aPpnMrQJtC1d913uKtd_lMPl72FNFdr</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=12aPpnMrQJtC1d913uKtd_lMPl72FNFdr" length="2191715" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1x8INugdkG_MDUbNrG9w8IPrqZ9a9Kzrm"/>
+ </item>
+
+ <item>
+   <title>An Alien Mind | OpenAI</title>
+   <description>Článek od hlavního vědce OpenAI Jakuba Pachockého pojednává o rychlém pokroku umělé inteligence, zejména v oblasti uvažovacích modelů, a s ním spojených výzvách. Autor popisuje obavy z blížící se superinteligence a zdůrazňuje klíčové problémy se zarovnáváním AI s lidskými hodnotami a monitorováním jejích interních procesů. Varuje před důsledky nekontrolovaného rozvoje a apeluje na opatrnost, budování obranných systémů a mezinárodní koordinaci v oblasti AI.
+
+Zdroj: https://openai.com/index/an-alien-mind/</description>
+   <itunes:summary>Článek od hlavního vědce OpenAI Jakuba Pachockého pojednává o rychlém pokroku umělé inteligence, zejména v oblasti uvažovacích modelů, a s ním spojených výzvách. Autor popisuje obavy z blížící se superinteligence a zdůrazňuje klíčové problémy se zarovnáváním AI s lidskými hodnotami a monitorováním jejích interních procesů. Varuje před důsledky nekontrolovaného rozvoje a apeluje na opatrnost, budování obranných systémů a mezinárodní koordinaci v oblasti AI.
+
+Zdroj: https://openai.com/index/an-alien-mind/</itunes:summary>
+   <pubDate>Tue, 08 Sep 2026 07:57:49 GMT</pubDate>
+   <guid isPermaLink="false">1SpygnnU7jlLqxWq0A2Z2iGKLmLtItf5U</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1SpygnnU7jlLqxWq0A2Z2iGKLmLtItf5U" length="2584492" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1IMcPBNPCKB6OPgvzlisBSeMkqx1muq3h"/>
+ </item>
+
+ <item>
+   <title>Google Merchant Center Showing AI Prompts For Report</title>
+   <description>Článek popisuje, jak Google Merchant Center omylem zobrazil interní pokyny pro umělou inteligenci místo souhrnných statistik výkonu. Uživatel Vipul Kumar si všiml, že systém místo snadno stravitelného shrnutí nejlepších produktů, které řídily výkon, zobrazil samotné prompt instrukce a akce. Tento dočasný glitch odhalil, co AI analyzuje a jak formuluje své odpovědi. I když nešlo o nic zásadního, byla to zajímavá ukázka zákulisí fungování AI v nástroji.
+
+Zdroj: https://www.seroundtable.com/google-merchant-center-ai-prompts-42023.html</description>
+   <itunes:summary>Článek popisuje, jak Google Merchant Center omylem zobrazil interní pokyny pro umělou inteligenci místo souhrnných statistik výkonu. Uživatel Vipul Kumar si všiml, že systém místo snadno stravitelného shrnutí nejlepších produktů, které řídily výkon, zobrazil samotné prompt instrukce a akce. Tento dočasný glitch odhalil, co AI analyzuje a jak formuluje své odpovědi. I když nešlo o nic zásadního, byla to zajímavá ukázka zákulisí fungování AI v nástroji.
+
+Zdroj: https://www.seroundtable.com/google-merchant-center-ai-prompts-42023.html</itunes:summary>
+   <pubDate>Tue, 08 Sep 2026 07:51:25 GMT</pubDate>
+   <guid isPermaLink="false">1CW4QZZEYrgJijsflBDcpR-pH7RX1-1Vj</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1CW4QZZEYrgJijsflBDcpR-pH7RX1-1Vj" length="931700" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1n1w_xKy2irGLG69ZFbvAwUFdWiZBNxTu"/>
+ </item>
+
+ <item>
+   <title>Game, set, match! S kým se spojil Křetínský v bitvě o West Ham? A co dávají českým tenistkám do vody?</title>
+   <description>V tomto vydání se Forbes Espresso věnuje českému tenisovému úspěchu, snaze Daniela Křetínského převzít West Ham, nedostatku munice v USA a dalším ekonomickým zprávám. Dále se čtenáři dozví o Sheinovi, který se chystá na burzu, rozšiřování Sportega po Evropě, fondu Jet Investment a SpaceX misi na Měsíc. V neposlední řadě je zmíněn i osobní příběh právníka Richarda Singera.
+
+Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</description>
+   <itunes:summary>V tomto vydání se Forbes Espresso věnuje českému tenisovému úspěchu, snaze Daniela Křetínského převzít West Ham, nedostatku munice v USA a dalším ekonomickým zprávám. Dále se čtenáři dozví o Sheinovi, který se chystá na burzu, rozšiřování Sportega po Evropě, fondu Jet Investment a SpaceX misi na Měsíc. V neposlední řadě je zmíněn i osobní příběh právníka Richarda Singera.
+
+Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</itunes:summary>
+   <pubDate>Wed, 05 Aug 2026 06:12:08 GMT</pubDate>
+   <guid isPermaLink="false">1BJk6mFDTn1T18yp0ua61bfe6Z3rbB60_</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1BJk6mFDTn1T18yp0ua61bfe6Z3rbB60_" length="1534580" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=17mqRjBULIFX-fqYWZaZic8Fn8R8zKGfJ"/>
+ </item>
+
+ <item>
+   <title>Are riches really in the niches?</title>
+   <description>V tomto vydání se zaměřuje na přínos specializace na konkrétní trhy a jak rychleji získávat placené zákazníky. Autor vysvětluje, proč je lepší cílit na menší, ale výkonně platebně ochotné segmenty, a přináší konkrétní strategie pro produkty FounderOS a SlideDrift. Dále uvádí praktické rady k tvorbě vlastního případového studia a kombinaci LinkedInové komunikace s e-mailovými kampaněmi. Poslední část nabízí rychlé tipy a nástroje pro marketing s AI.
+
+Od: The Vibe Marketer &lt;thevibemarketer@mail.beehiiv.com&gt;</description>
+   <itunes:summary>V tomto vydání se zaměřuje na přínos specializace na konkrétní trhy a jak rychleji získávat placené zákazníky. Autor vysvětluje, proč je lepší cílit na menší, ale výkonně platebně ochotné segmenty, a přináší konkrétní strategie pro produkty FounderOS a SlideDrift. Dále uvádí praktické rady k tvorbě vlastního případového studia a kombinaci LinkedInové komunikace s e-mailovými kampaněmi. Poslední část nabízí rychlé tipy a nástroje pro marketing s AI.
+
+Od: The Vibe Marketer &lt;thevibemarketer@mail.beehiiv.com&gt;</itunes:summary>
+   <pubDate>Tue, 04 Aug 2026 21:36:39 GMT</pubDate>
+   <guid isPermaLink="false">1q01ICvudiDryIg-oSBxH32kJdYCLvQUn</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1q01ICvudiDryIg-oSBxH32kJdYCLvQUn" length="2796756" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1DLeeTTGDooy4WYQ2utegbRghR8o_4Nyi"/>
+ </item>
+
+ <item>
+   <title>Are riches really in the niches?</title>
+   <description>V tomto vydání se autor zaměřuje na význam cílení na úzké trhy a představuje dva případy, jak to implementovat. Pro FounderOS se nabízí strategie zaměřená na malé podniky mimo AI start‑up prostředí a balíčkování služeb. Pro SlideDrift se navrhují výstupní taktiky založené na přímém využití obsahu a cílení na servisní profesionály. Autor zdůrazňuje, že úspěch spočívá v hlubokém pochopení konkrétního zákazníka a řešení jeho konkrétního problému.
+
+Od: The Vibe Marketer &lt;thevibemarketer@mail.beehiiv.com&gt;</description>
+   <itunes:summary>V tomto vydání se autor zaměřuje na význam cílení na úzké trhy a představuje dva případy, jak to implementovat. Pro FounderOS se nabízí strategie zaměřená na malé podniky mimo AI start‑up prostředí a balíčkování služeb. Pro SlideDrift se navrhují výstupní taktiky založené na přímém využití obsahu a cílení na servisní profesionály. Autor zdůrazňuje, že úspěch spočívá v hlubokém pochopení konkrétního zákazníka a řešení jeho konkrétního problému.
+
+Od: The Vibe Marketer &lt;thevibemarketer@mail.beehiiv.com&gt;</itunes:summary>
+   <pubDate>Tue, 04 Aug 2026 21:32:23 GMT</pubDate>
+   <guid isPermaLink="false">1lBqk310DtmX5MfCILxCgB7zfkbFvjnwa</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1lBqk310DtmX5MfCILxCgB7zfkbFvjnwa" length="3534374" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1DLeeTTGDooy4WYQ2utegbRghR8o_4Nyi"/>
+ </item>
+
+ <item>
+   <title>Jak Hypata zpracovává velké množství dokumentů | Vibecoding.cz</title>
+   <description>Článek popisuje vývoj a fungování AI agenta Hypata, který vznikl z potřeby autora efektivně zpracovávat obrovské množství dokumentů týkajících se telekomunikačních standardů 3GPP. Hypata, vyvinutá pomocí Claude Code, slouží nejen k archivaci dat, ale především k identifikaci klíčových otázek a poskytování uceleného přehledu o vývoji mobilních sítí. Autor zdůrazňuje, že technologie samotná je méně důležitá než jasná představa o účelu dat a jejich praktickém využití, což demonstruje na úspěchu &quot;3GPP Exploreru&quot; oproti neúspěšnému pokusu o analýzu práce v poslanecké sněmovně.
+
+Zdroj: https://www.vibecoding.cz/articles/ostatni/jak-hypata-zpracovava-velke-mnozstvi-dokumentu/</description>
+   <itunes:summary>Článek popisuje vývoj a fungování AI agenta Hypata, který vznikl z potřeby autora efektivně zpracovávat obrovské množství dokumentů týkajících se telekomunikačních standardů 3GPP. Hypata, vyvinutá pomocí Claude Code, slouží nejen k archivaci dat, ale především k identifikaci klíčových otázek a poskytování uceleného přehledu o vývoji mobilních sítí. Autor zdůrazňuje, že technologie samotná je méně důležitá než jasná představa o účelu dat a jejich praktickém využití, což demonstruje na úspěchu &quot;3GPP Exploreru&quot; oproti neúspěšnému pokusu o analýzu práce v poslanecké sněmovně.
+
+Zdroj: https://www.vibecoding.cz/articles/ostatni/jak-hypata-zpracovava-velke-mnozstvi-dokumentu/</itunes:summary>
+   <pubDate>Tue, 04 Aug 2026 19:52:59 GMT</pubDate>
+   <guid isPermaLink="false">1e7Rkctg8N2uEPeMNTXNLMSmBIo4JQg38</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1e7Rkctg8N2uEPeMNTXNLMSmBIo4JQg38" length="3822552" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1pmErleDmzV_XuXoDjqJJcspR8UIV4DBq"/>
+ </item>
+
+ <item>
+   <title>The Shape of Things to Come, Part 1: The Continuous Thunderdome — Steve Yegge</title>
+   <description>Autor Steve Yegge popisuje svou vizi budoucnosti softwarového vývoje s autonomními AI agenty, kterou aplikuje na svou 30 let starou hru Wyvern. Představuje svůj systém &quot;Wheelhouse&quot;, který mu umožňuje řídit flotily AI agentů a zajišťovat nepřetržitou práci na rozsáhlých projektech. Článek detailně vysvětluje, jak používá nástroje jako Beads a strategie pro efektivní správu API tokenů. Yegge také předpovídá brzký zánik lidského code review a transformaci CI/CD systémů v důsledku nástupu agentního vývoje. Zdůrazňuje, že jeho zkušenosti jsou předzvěstí změn, které brzy ovlivní všechny vývojáře.
+
+Zdroj: https://yegge.ai/essays/the-shape-of-things-to-come/</description>
+   <itunes:summary>Autor Steve Yegge popisuje svou vizi budoucnosti softwarového vývoje s autonomními AI agenty, kterou aplikuje na svou 30 let starou hru Wyvern. Představuje svůj systém &quot;Wheelhouse&quot;, který mu umožňuje řídit flotily AI agentů a zajišťovat nepřetržitou práci na rozsáhlých projektech. Článek detailně vysvětluje, jak používá nástroje jako Beads a strategie pro efektivní správu API tokenů. Yegge také předpovídá brzký zánik lidského code review a transformaci CI/CD systémů v důsledku nástupu agentního vývoje. Zdůrazňuje, že jeho zkušenosti jsou předzvěstí změn, které brzy ovlivní všechny vývojáře.
+
+Zdroj: https://yegge.ai/essays/the-shape-of-things-to-come/</itunes:summary>
+   <pubDate>Tue, 04 Aug 2026 19:47:22 GMT</pubDate>
+   <guid isPermaLink="false">12-rrnZgkwM-48Ed7atUBAL8qjBg-2vVR</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=12-rrnZgkwM-48Ed7atUBAL8qjBg-2vVR" length="5639411" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=12W1Ip-PteaCIonill_ZLNGGsFx0e5uLy"/>
+ </item>
+
+ <item>
+   <title>🦄 PPC Digest: AI agenti přebírají kampaně, leady i optimalizaci 🤖</title>
+   <description>Tento vydání PPC Digest přináší řadu nových funkcí a vylepšení od Googlu i Meta. Mezi hlavní body patří rozšíření témat v PMax kampaních, nová AI funkce v travel kampaních, vylepšení vizuální ukázky TEXT CUSTOMIZATION, report AI PERFORMANCE INSIGHTS v Merchant Center, zobrazení „HOW THIS AD WAS MADE“, rozšíření Shopping Ads do 14 zemí, testování AI generovaných shrnutí v Search, a příchod AI agenta do instantních formulářů Meta. Tyto aktualizace usnadňují optimalizaci kampaní a posilují využití umělé inteligence ve výpovědních nástrojích.
+
+Od: &quot;uLab&quot; &lt;brainfood@brainfood.ulab.rocks&gt;</description>
+   <itunes:summary>Tento vydání PPC Digest přináší řadu nových funkcí a vylepšení od Googlu i Meta. Mezi hlavní body patří rozšíření témat v PMax kampaních, nová AI funkce v travel kampaních, vylepšení vizuální ukázky TEXT CUSTOMIZATION, report AI PERFORMANCE INSIGHTS v Merchant Center, zobrazení „HOW THIS AD WAS MADE“, rozšíření Shopping Ads do 14 zemí, testování AI generovaných shrnutí v Search, a příchod AI agenta do instantních formulářů Meta. Tyto aktualizace usnadňují optimalizaci kampaní a posilují využití umělé inteligence ve výpovědních nástrojích.
+
+Od: &quot;uLab&quot; &lt;brainfood@brainfood.ulab.rocks&gt;</itunes:summary>
+   <pubDate>Fri, 31 Jul 2026 09:34:52 GMT</pubDate>
+   <guid isPermaLink="false">1yaKIftSn79CiWjHt2QFLDwbUutCFCBx3</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yaKIftSn79CiWjHt2QFLDwbUutCFCBx3" length="4258837" type="audio/mp4"/>
+ </item>
+
+ <item>
+   <title>Klimatická změna nahrává Číně a úsvit firem bez zaměstnanců</title>
+   <description>V tomto vydání Forbes Espresso se zaměřuje na dopady klimatických změn v Číně a globální obchod, popisuje nárůst firem s jediným zaměstnancem díky umělé inteligenci, upozorňuje na nová cla ohrožující levnou módní trh a přináší trendy v luxusním bydlení a rekordní spotřebu piva v ČR. Kultura a sport se objevují v rozhovoru s fyzioterapeutem a celebrity. Celkově je to kombinace ekonomických, ekologických a lifestyle témat.
+
+Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</description>
+   <itunes:summary>V tomto vydání Forbes Espresso se zaměřuje na dopady klimatických změn v Číně a globální obchod, popisuje nárůst firem s jediným zaměstnancem díky umělé inteligenci, upozorňuje na nová cla ohrožující levnou módní trh a přináší trendy v luxusním bydlení a rekordní spotřebu piva v ČR. Kultura a sport se objevují v rozhovoru s fyzioterapeutem a celebrity. Celkově je to kombinace ekonomických, ekologických a lifestyle témat.
+
+Od: Forbes Espresso &lt;newsletter@forbes.cz&gt;</itunes:summary>
+   <pubDate>Fri, 31 Jul 2026 06:56:13 GMT</pubDate>
+   <guid isPermaLink="false">1iDGfsxoNBiOOk9TeRbC1t9UEmCqyEIXl</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1iDGfsxoNBiOOk9TeRbC1t9UEmCqyEIXl" length="2360946" type="audio/mp4"/>
+ </item>
+
+ <item>
+   <title>4 vibe marketing builds on automating websites, content &amp; quality checks</title>
+   <description>Tento e‑mail představuje čtyři projekty, které ukazují, jak AI může automatizovat webovou tvorbu, SEO, audit kódu a tvorbu marketingových materiálů. Autor popisuje každou stavbu a zdůrazňuje roli člověka pouze při schvalování a rozhodování. Dále sdílí krátké tipy a odkazy na další zdroje.
+
+Od: The Vibe Marketer &lt;thevibemarketer@mail.beehiiv.com&gt;</description>
+   <itunes:summary>Tento e‑mail představuje čtyři projekty, které ukazují, jak AI může automatizovat webovou tvorbu, SEO, audit kódu a tvorbu marketingových materiálů. Autor popisuje každou stavbu a zdůrazňuje roli člověka pouze při schvalování a rozhodování. Dále sdílí krátké tipy a odkazy na další zdroje.
+
+Od: The Vibe Marketer &lt;thevibemarketer@mail.beehiiv.com&gt;</itunes:summary>
+   <pubDate>Thu, 30 Jul 2026 23:11:08 GMT</pubDate>
+   <guid isPermaLink="false">13cuFj7cF6oHdOu-Jce7oUh05dn_F8CRy</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=13cuFj7cF6oHdOu-Jce7oUh05dn_F8CRy" length="3629340" type="audio/mp4"/>
+   <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1Ifc2GDefuzMvW0CjaeiwAHIFQLBvf3b2"/>
+ </item>
+</channel></rss>
