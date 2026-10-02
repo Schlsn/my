@@ -10,6 +10,20 @@
 <itunes:image href="https://example.com/podcast-cover.jpg"/>
 
  <item>
+   <title>The State of AI 2026 – Filip Dřímalka</title>
+   <description>Živá přednáška Filipa Dřímalky o aktuálním stavu adopce AI v českých firmách (The State of AI 2026). Záznam živého vysílání z 1. října 2026.
+
+Zdroj: https://www.aipredictions.cz/state-of-ai/live</description>
+   <itunes:summary>Živá přednáška Filipa Dřímalky o aktuálním stavu adopce AI v českých firmách (The State of AI 2026). Záznam živého vysílání z 1. října 2026.
+
+Zdroj: https://www.aipredictions.cz/state-of-ai/live</itunes:summary>
+   <pubDate>Thu, 01 Oct 2026 18:30:00 GMT</pubDate>
+   <guid isPermaLink="false">1vIEuow7nox8I7A27XDlxd9kF1IP5Pjnx</guid>
+   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vIEuow7nox8I7A27XDlxd9kF1IP5Pjnx" length="174674567" type="audio/mp4"/>
+   <itunes:image href="https://schlsn.github.io/my/podcast-artwork/state-of-ai-2026.png"/>
+ </item>
+
+ <item>
    <title>Entities Are The Foundation of Modern SEO</title>
    <description>Článek vysvětluje, že Entity SEO je praxe snižování nejednoznačnosti kolem klíčových entit (lidí, míst, organizací, produktů) pro moderní systémy vyhledávání informací, jako je Google Knowledge Graph a LLM. Zdůrazňuje, že jasná, konzistentní a dobře podložená identita entity je klíčová pro zjistitelnost a vnímání značky, pomáhá systémům správně interpretovat a propojovat signály. Autor navrhuje rámec pro Entity SEO, zaměřený na vlastněné vlastnosti, explicitní popisy, důvěryhodnost, získané zmínky a nepřetržité monitorování.
 
